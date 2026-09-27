@@ -105,6 +105,23 @@ class RequirementCoverageItem(BaseModel):
     supporting_standards: List[Dict[str, Any]] = Field(default_factory=list)
     primary_evidence_id: Optional[str] = None
 
+# Score Calibration Information
+class ScoreCalibration(BaseModel):
+    tier: str = Field(description="STRONG, REVIEW_REQUIRED, ABSTAIN")
+    confidence: str = Field(description="HIGH, MODERATE, LOW, NONE")
+    score_range: str = Field(description="Score range e.g. 85-100")
+    interpretation: str = Field(description="Human readable calibration description")
+
+# Closest Candidate Information for Abstention
+class ClosestCandidate(BaseModel):
+    standard_id: str
+    standard_number: str
+    title: str
+    applicability_score: float
+    status: str = "CURRENT"
+    scope_preview: Optional[str] = None
+    reasons: List[MatchReason] = Field(default_factory=list)
+
 # Recommendation Item Schema
 class RecommendationItem(BaseModel):
     standard_id: str
@@ -114,6 +131,7 @@ class RecommendationItem(BaseModel):
     rank: int
     status: str
     relationship: str = "PRIMARY"
+    match_tier: str = Field(default="STRONG", description="STRONG, REVIEW_REQUIRED, ABSTAIN")
     reasons: List[MatchReason]
     score_breakdown: Dict[str, float]
     scope_preview: Optional[str] = None
@@ -131,6 +149,11 @@ class AnalysisResponse(BaseModel):
     coverage_summary: Dict[str, Any] = Field(default_factory=dict, description="Summary stats (total, supported, partial, unsupported)")
     recommendations: List[RecommendationItem]
     why_not: List[WhyNotReason] = Field(default_factory=list)
+    decision_state: str = Field(default="STRONGLY_SUPPORTED", description="STRONGLY_SUPPORTED, POSSIBLE_MATCH_REVIEW_REQUIRED, NO_SUFFICIENT_MATCH")
+    is_abstained: bool = Field(default=False, description="True if no direct match found and system abstained")
+    abstention_reason: Optional[str] = Field(default=None, description="Detailed explanation for abstention")
+    closest_candidate: Optional[ClosestCandidate] = Field(default=None, description="Top candidates when abstaining")
+    score_calibration: Optional[ScoreCalibration] = Field(default=None, description="Calibrated score interpretation")
     related_standards: List[Dict[str, Any]] = Field(default_factory=list)
     version_signals: List[Dict[str, Any]] = Field(default_factory=list)
     regulatory_signals: List[Dict[str, Any]] = Field(default_factory=list)

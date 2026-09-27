@@ -1,0 +1,1534 @@
+{
+  "analysis_id": "anl_d2d8a85157",
+  "query": "Outdoor LED Streetlights with IP66 Protection",
+  "normalized_query": "Outdoor LED Streetlights with IP66 Protection",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T17:18:10.090231",
+  "requirement_extraction": {
+    "original_query": "Outdoor LED Streetlights with IP66 Protection",
+    "normalized_query": "Outdoor LED Streetlights with IP66 Protection",
+    "language": "English",
+    "product": "Outdoor LED Streetlights with IP66 Protection",
+    "category": "Electrical & Lighting",
+    "domain": "Electrical & Lighting",
+    "application": "Outdoor LED Streetlights with IP66 Protection",
+    "environment": "Outdoor",
+    "materials": [],
+    "attributes": [
+      "IP66 Weatherproof ingress protection"
+    ],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "rank": 1,
+        "score": 53.1306,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "rank": 2,
+        "score": 34.2029,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "rank": 3,
+        "score": 14.9096,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_18702_2024",
+        "standard_number": "IS 18702:2024",
+        "title": "Technical product documentation -- Protection notices for restricting the use of documents and products",
+        "rank": 4,
+        "score": 10.9921,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_1_1987",
+        "standard_number": "IS 1991 (Part 1):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels : Part 1 definitions (Second Revision)",
+        "rank": 5,
+        "score": 9.6324,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_5_1987",
+        "standard_number": "IS 1991 (Part 5):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 5 flanges (Second Revision)",
+        "rank": 6,
+        "score": 9.6324,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_4_1988",
+        "standard_number": "IS 1991 (Part 4):1988",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 4 safety guards (Second Revision)",
+        "rank": 7,
+        "score": 9.5341,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_10_1987",
+        "standard_number": "IS 1991 (Part 10):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 10 mounted wheels (Second Revision)",
+        "rank": 8,
+        "score": 9.5341,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_8_1987",
+        "standard_number": "IS 1991 (Part 8):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 8 special speeds (Second Revision)",
+        "rank": 9,
+        "score": 9.5341,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_3_1987",
+        "standard_number": "IS 1991 (Part 3):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 3 general machine requirements (second revision)",
+        "rank": 10,
+        "score": 9.4378,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_6_1987",
+        "standard_number": "IS 1991 (Part 6):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 6 inspection and mounting  (second revision)",
+        "rank": 11,
+        "score": 9.4378,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_2_1987",
+        "standard_number": "IS 1991 (Part 2):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 2 handling and storage (Second Revision)",
+        "rank": 12,
+        "score": 9.4378,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1991_PART_9_1987",
+        "standard_number": "IS 1991 (Part 9):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 9 general operating rules (Second Revision)",
+        "rank": 13,
+        "score": 9.4378,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15045_PART_2_2021",
+        "standard_number": "IS 15045 (Part 2):2021",
+        "title": "Pneumatic Fluid Power - Five-Port Directional Control Valves Part 2 Mounting Interface Surfaces with Optional Electrical Connector ( First Revision )",
+        "rank": 14,
+        "score": 8.6225,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "rank": 15,
+        "score": 8.5714,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_13450_PART_4_SEC_1_2020",
+        "standard_number": "IS 13450 (Part 4/Sec 1):2020",
+        "title": "Medical electrical equipment: Part 4 Guidance and interpretation: Section 1 Medical electrical equipment and medical electrical systems employing a degree of autonomy",
+        "rank": 16,
+        "score": 7.7938,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "rank": 17,
+        "score": 7.0622,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6580_1972",
+        "standard_number": "IS 6580:1972",
+        "title": "Specification for train lighting belt fasteners",
+        "rank": 18,
+        "score": 7.0421,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14532_1998",
+        "standard_number": "IS 14532:1998",
+        "title": "Reduction sleeves with tenon drive with external and internal 7/24 taper -- Dimensions",
+        "rank": 19,
+        "score": 6.5893,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11677_2004",
+        "standard_number": "IS 11677:2004",
+        "title": "Indexable hardmetal (carbide) inserts with rounded corners, with cylindrical fixing hole -- Dimensions  (first revision)",
+        "rank": 20,
+        "score": 6.5348,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15577_PART_2_2005",
+        "standard_number": "IS 15577 (Part 2):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 2 stud ends with elastomeric sealing (Type E)",
+        "rank": 21,
+        "score": 6.5185,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12354_2026",
+        "standard_number": "IS 12354:2026",
+        "title": "Indexable hard material inserts with rounded corners, with partly cylindrical fixing hole — Dimensions (second revision)",
+        "rank": 22,
+        "score": 6.4812,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11935_1987",
+        "standard_number": "IS 11935:1987",
+        "title": "Specification for carbide tipped chucking reamers with morse taper shank with long cutting edge",
+        "rank": 23,
+        "score": 6.4812,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10885_1984",
+        "standard_number": "IS 10885:1984",
+        "title": "Specification for carbide tipped chucking reamers with morse taper shanks with short cutting edge",
+        "rank": 24,
+        "score": 6.4812,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15577_PART_3_2005",
+        "standard_number": "IS 15577 (Part 3):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 3 stud ends with metal - To - Metal sealing (Type B)",
+        "rank": 25,
+        "score": 6.4476,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17215_2019",
+        "standard_number": "IS 17215:2019",
+        "title": "Fluid Power System â€• Hexagon Socket Screw Plugs with Parallel Screw Threads with Elastomeric Sealing â€• Specification",
+        "rank": 26,
+        "score": 6.4285,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2668_2004",
+        "standard_number": "IS 2668:2004",
+        "title": "T-slot cutters with cylindrical shanks and with morse taper shanks having tapped hole (second revision)",
+        "rank": 27,
+        "score": 6.4285,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8616_1993",
+        "standard_number": "IS 8616:1993",
+        "title": "Stub milling arbors with self-release 7/24 taper and with key -- Specification (first revision)",
+        "rank": 28,
+        "score": 6.4285,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17247_PART_2_2019",
+        "standard_number": "IS 17247 (Part 2):2019",
+        "title": "Test Conditions for High Accuracy Turret and Single Spindle Coordinate Drilling and Boring Machines with Table of Fixed Height with Vertical Spindle — Testing of the Accuracy Part 2 Portal Type Machines with Moving Table",
+        "rank": 29,
+        "score": 6.4127,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15582_2018",
+        "standard_number": "IS 15582:2018",
+        "title": "Hexagon Bolts with Flange - Small Series - Product Grade A with Driving Feature of Product Grade B ( First Revision)",
+        "rank": 30,
+        "score": 6.2753,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_19119_2025",
+        "standard_number": "IS 19119:2025",
+        "title": "Tools for pressing  Spring plungers with helicoidal compression steel spring or gas spring",
+        "rank": 1,
+        "similarity": 0.2015
+      },
+      {
+        "standard_id": "IS_14532_1998",
+        "standard_number": "IS 14532:1998",
+        "title": "Reduction sleeves with tenon drive with external and internal 7/24 taper -- Dimensions",
+        "rank": 2,
+        "similarity": 0.198
+      },
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "rank": 3,
+        "similarity": 0.1898
+      },
+      {
+        "standard_id": "IS_12484_1999",
+        "standard_number": "IS 12484:1999",
+        "title": "Cup seal for fluid power applications - Specification  (First Revision)",
+        "rank": 4,
+        "similarity": 0.1883
+      },
+      {
+        "standard_id": "IS_17219_PART_3_2022",
+        "standard_number": "IS 17219 (Part 3):2022",
+        "title": "Tools for pressing  Gas springs  Part 3: Gas spring with increased spring force and compact built height",
+        "rank": 5,
+        "similarity": 0.1839
+      },
+      {
+        "standard_id": "IS_17172_PART_22_2020",
+        "standard_number": "IS 17172 (Part 22):2020",
+        "title": "Optics and Photonics — Environmental Test Methods Part 22 Combined Cold, Dry Heat or Temperature Change with Bump or Random Vibration",
+        "rank": 6,
+        "similarity": 0.1759
+      },
+      {
+        "standard_id": "IS_5935_PART_1_2019",
+        "standard_number": "IS 5935 (Part 1):2019",
+        "title": "Rolling bearings -- Internal clearance: Part 1 Radial internal clearance for radial bearings (Second Revision)",
+        "rank": 7,
+        "similarity": 0.1719
+      },
+      {
+        "standard_id": "IS_5935_PART_2_2019",
+        "standard_number": "IS 5935 (Part 2):2019",
+        "title": "Rolling bearings - Internal clearance: Part 2 axial internal clearance for four - Point - Contact ball bearings",
+        "rank": 8,
+        "similarity": 0.1677
+      },
+      {
+        "standard_id": "IS_10352_2017",
+        "standard_number": "IS 10352:2017",
+        "title": "Test conditions for internal cylindrical grinding machines with horizontal spindle - Testing of accuracy (Second Revision)",
+        "rank": 9,
+        "similarity": 0.1613
+      },
+      {
+        "standard_id": "IS_10248_PART_2_2011",
+        "standard_number": "IS 10248 (Part 2):2011",
+        "title": "Parallel pins with internal thread: Part 2 hardened steel and martensitic stainless steel  (First Revision)",
+        "rank": 10,
+        "similarity": 0.1555
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "rank": 11,
+        "similarity": 0.1553
+      },
+      {
+        "standard_id": "IS_6892_1973",
+        "standard_number": "IS 6892:1973",
+        "title": "Specification for Blacksmiths bick iron",
+        "rank": 12,
+        "similarity": 0.1546
+      },
+      {
+        "standard_id": "IS_5882_1970",
+        "standard_number": "IS 5882:1970",
+        "title": "Specification for socket reamers with parallel shanks",
+        "rank": 13,
+        "similarity": 0.1542
+      },
+      {
+        "standard_id": "IS_10248_PART_1_2011",
+        "standard_number": "IS 10248 (Part 1):2011",
+        "title": "Parallel pins with internal thread: Part 1 unhardened steel and austenitic stainless steel  (First Revision)",
+        "rank": 14,
+        "similarity": 0.1536
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_2_2012",
+        "standard_number": "IS/ISO 5609 (Part 2):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 2 Style F",
+        "rank": 15,
+        "similarity": 0.1528
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_3_2012",
+        "standard_number": "IS/ISO 5609 (Part 3):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 3 Style K",
+        "rank": 16,
+        "similarity": 0.1528
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_5_2012",
+        "standard_number": "IS/ISO 5609 (Part 5):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 5 Style U",
+        "rank": 17,
+        "similarity": 0.1528
+      },
+      {
+        "standard_id": "IS_18702_2024",
+        "standard_number": "IS 18702:2024",
+        "title": "Technical product documentation -- Protection notices for restricting the use of documents and products",
+        "rank": 18,
+        "similarity": 0.1526
+      },
+      {
+        "standard_id": "IS_ISO_5604_PART_4_2012",
+        "standard_number": "IS/ISO 5604 (Part 4):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 4 Style L",
+        "rank": 19,
+        "similarity": 0.1501
+      },
+      {
+        "standard_id": "IS_10236_PART_1_1989",
+        "standard_number": "IS 10236 (Part 1):1989",
+        "title": "Procedure for basic climatic and durability tests for optical instruments: Part 1 general",
+        "rank": 20,
+        "similarity": 0.1501
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_6_2012",
+        "standard_number": "IS/ISO 5609 (Part 6):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 6 Style Q",
+        "rank": 21,
+        "similarity": 0.15
+      },
+      {
+        "standard_id": "IS_16319_2015",
+        "standard_number": "IS 16319:2015",
+        "title": "Timekeeping instruments -- Wrist-chronometers with spring balance oscillator",
+        "rank": 22,
+        "similarity": 0.1492
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_1_2012",
+        "standard_number": "IS/ISO 5609 (Part 1):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 1 Designation, styles, dimensions and calculation for corrections",
+        "rank": 23,
+        "similarity": 0.1442
+      },
+      {
+        "standard_id": "IS_8383_2023",
+        "standard_number": "IS 8383:2023",
+        "title": "Hydraulic Fluid Power  Filter Elements  Verification of Fabrication Integrity and Determination of the First Bubble Point",
+        "rank": 24,
+        "similarity": 0.1433
+      },
+      {
+        "standard_id": "IS_2327_1993",
+        "standard_number": "IS 2327:1993",
+        "title": "Straight - Sided splines for cylindrical shafts with internal centering - Dimensions, tolerances and verification  (First Revision)",
+        "rank": 25,
+        "similarity": 0.1419
+      },
+      {
+        "standard_id": "IS_3222_PART_1_1989",
+        "standard_number": "IS 3222 (Part 1):1989",
+        "title": "Instrument screws - Specification: Part 1 fasteners for drawing instruments  (First Revision)",
+        "rank": 26,
+        "similarity": 0.1417
+      },
+      {
+        "standard_id": "IS_3524_PART_1_1982",
+        "standard_number": "IS 3524 (Part 1):1982",
+        "title": "Specification for threaded taper pins: Part 1 with internal threads  (First Revision)",
+        "rank": 27,
+        "similarity": 0.1412
+      },
+      {
+        "standard_id": "IS_17219_PART_4_2023",
+        "standard_number": "IS 17219 (Part 4):2023",
+        "title": "Tools for Pressing  Gas Springs Part 4 Gas Springs with Increased Spring  Force and Same Built Height",
+        "rank": 28,
+        "similarity": 0.1411
+      },
+      {
+        "standard_id": "IS_12153_1987",
+        "standard_number": "IS 12153:1987",
+        "title": "Specification for adapters for hexagonal insert bits for use with ratchet screw drivers",
+        "rank": 29,
+        "similarity": 0.1408
+      },
+      {
+        "standard_id": "IS_10986_2013",
+        "standard_number": "IS 10986:2013",
+        "title": "Superabrasive products - Rotating grinding tools with diamond or cubic boron nitride - General survey, designation and multilingual nomenclature  (First Revision)",
+        "rank": 30,
+        "similarity": 0.1398
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 56,
+    "candidate_count": 56,
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "bm25_rank": 1,
+        "dense_rank": 3,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "bm25_rank": 2,
+        "dense_rank": null,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "bm25_rank": 3,
+        "dense_rank": null,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_18702_2024",
+        "standard_number": "IS 18702:2024",
+        "title": "Technical product documentation -- Protection notices for restricting the use of documents and products",
+        "bm25_rank": 4,
+        "dense_rank": 18,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_1_1987",
+        "standard_number": "IS 1991 (Part 1):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels : Part 1 definitions (Second Revision)",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_5_1987",
+        "standard_number": "IS 1991 (Part 5):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 5 flanges (Second Revision)",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_4_1988",
+        "standard_number": "IS 1991 (Part 4):1988",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 4 safety guards (Second Revision)",
+        "bm25_rank": 7,
+        "dense_rank": null,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_10_1987",
+        "standard_number": "IS 1991 (Part 10):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 10 mounted wheels (Second Revision)",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_8_1987",
+        "standard_number": "IS 1991 (Part 8):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 8 special speeds (Second Revision)",
+        "bm25_rank": 9,
+        "dense_rank": null,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_3_1987",
+        "standard_number": "IS 1991 (Part 3):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 3 general machine requirements (second revision)",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_6_1987",
+        "standard_number": "IS 1991 (Part 6):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 6 inspection and mounting  (second revision)",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_2_1987",
+        "standard_number": "IS 1991 (Part 2):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 2 handling and storage (Second Revision)",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1991_PART_9_1987",
+        "standard_number": "IS 1991 (Part 9):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 9 general operating rules (Second Revision)",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15045_PART_2_2021",
+        "standard_number": "IS 15045 (Part 2):2021",
+        "title": "Pneumatic Fluid Power - Five-Port Directional Control Valves Part 2 Mounting Interface Surfaces with Optional Electrical Connector ( First Revision )",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_13450_PART_4_SEC_1_2020",
+        "standard_number": "IS 13450 (Part 4/Sec 1):2020",
+        "title": "Medical electrical equipment: Part 4 Guidance and interpretation: Section 1 Medical electrical equipment and medical electrical systems employing a degree of autonomy",
+        "bm25_rank": 16,
+        "dense_rank": null,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "bm25_rank": 17,
+        "dense_rank": 11,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6580_1972",
+        "standard_number": "IS 6580:1972",
+        "title": "Specification for train lighting belt fasteners",
+        "bm25_rank": 18,
+        "dense_rank": null,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14532_1998",
+        "standard_number": "IS 14532:1998",
+        "title": "Reduction sleeves with tenon drive with external and internal 7/24 taper -- Dimensions",
+        "bm25_rank": 19,
+        "dense_rank": 2,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11677_2004",
+        "standard_number": "IS 11677:2004",
+        "title": "Indexable hardmetal (carbide) inserts with rounded corners, with cylindrical fixing hole -- Dimensions  (first revision)",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15577_PART_2_2005",
+        "standard_number": "IS 15577 (Part 2):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 2 stud ends with elastomeric sealing (Type E)",
+        "bm25_rank": 21,
+        "dense_rank": null,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12354_2026",
+        "standard_number": "IS 12354:2026",
+        "title": "Indexable hard material inserts with rounded corners, with partly cylindrical fixing hole — Dimensions (second revision)",
+        "bm25_rank": 22,
+        "dense_rank": null,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11935_1987",
+        "standard_number": "IS 11935:1987",
+        "title": "Specification for carbide tipped chucking reamers with morse taper shank with long cutting edge",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10885_1984",
+        "standard_number": "IS 10885:1984",
+        "title": "Specification for carbide tipped chucking reamers with morse taper shanks with short cutting edge",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15577_PART_3_2005",
+        "standard_number": "IS 15577 (Part 3):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 3 stud ends with metal - To - Metal sealing (Type B)",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17215_2019",
+        "standard_number": "IS 17215:2019",
+        "title": "Fluid Power System â€• Hexagon Socket Screw Plugs with Parallel Screw Threads with Elastomeric Sealing â€• Specification",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2668_2004",
+        "standard_number": "IS 2668:2004",
+        "title": "T-slot cutters with cylindrical shanks and with morse taper shanks having tapped hole (second revision)",
+        "bm25_rank": 27,
+        "dense_rank": null,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_8616_1993",
+        "standard_number": "IS 8616:1993",
+        "title": "Stub milling arbors with self-release 7/24 taper and with key -- Specification (first revision)",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17247_PART_2_2019",
+        "standard_number": "IS 17247 (Part 2):2019",
+        "title": "Test Conditions for High Accuracy Turret and Single Spindle Coordinate Drilling and Boring Machines with Table of Fixed Height with Vertical Spindle — Testing of the Accuracy Part 2 Portal Type Machines with Moving Table",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15582_2018",
+        "standard_number": "IS 15582:2018",
+        "title": "Hexagon Bolts with Flange - Small Series - Product Grade A with Driving Feature of Product Grade B ( First Revision)",
+        "bm25_rank": 30,
+        "dense_rank": null,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19119_2025",
+        "standard_number": "IS 19119:2025",
+        "title": "Tools for pressing  Spring plungers with helicoidal compression steel spring or gas spring",
+        "bm25_rank": null,
+        "dense_rank": 1,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_12484_1999",
+        "standard_number": "IS 12484:1999",
+        "title": "Cup seal for fluid power applications - Specification  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 4,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17219_PART_3_2022",
+        "standard_number": "IS 17219 (Part 3):2022",
+        "title": "Tools for pressing  Gas springs  Part 3: Gas spring with increased spring force and compact built height",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17172_PART_22_2020",
+        "standard_number": "IS 17172 (Part 22):2020",
+        "title": "Optics and Photonics — Environmental Test Methods Part 22 Combined Cold, Dry Heat or Temperature Change with Bump or Random Vibration",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5935_PART_1_2019",
+        "standard_number": "IS 5935 (Part 1):2019",
+        "title": "Rolling bearings -- Internal clearance: Part 1 Radial internal clearance for radial bearings (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5935_PART_2_2019",
+        "standard_number": "IS 5935 (Part 2):2019",
+        "title": "Rolling bearings - Internal clearance: Part 2 axial internal clearance for four - Point - Contact ball bearings",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10352_2017",
+        "standard_number": "IS 10352:2017",
+        "title": "Test conditions for internal cylindrical grinding machines with horizontal spindle - Testing of accuracy (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10248_PART_2_2011",
+        "standard_number": "IS 10248 (Part 2):2011",
+        "title": "Parallel pins with internal thread: Part 2 hardened steel and martensitic stainless steel  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6892_1973",
+        "standard_number": "IS 6892:1973",
+        "title": "Specification for Blacksmiths bick iron",
+        "bm25_rank": null,
+        "dense_rank": 12,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5882_1970",
+        "standard_number": "IS 5882:1970",
+        "title": "Specification for socket reamers with parallel shanks",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10248_PART_1_2011",
+        "standard_number": "IS 10248 (Part 1):2011",
+        "title": "Parallel pins with internal thread: Part 1 unhardened steel and austenitic stainless steel  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 14,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_2_2012",
+        "standard_number": "IS/ISO 5609 (Part 2):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 2 Style F",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_3_2012",
+        "standard_number": "IS/ISO 5609 (Part 3):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 3 Style K",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_5_2012",
+        "standard_number": "IS/ISO 5609 (Part 5):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 5 Style U",
+        "bm25_rank": null,
+        "dense_rank": 17,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_5604_PART_4_2012",
+        "standard_number": "IS/ISO 5604 (Part 4):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 4 Style L",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10236_PART_1_1989",
+        "standard_number": "IS 10236 (Part 1):1989",
+        "title": "Procedure for basic climatic and durability tests for optical instruments: Part 1 general",
+        "bm25_rank": null,
+        "dense_rank": 20,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_6_2012",
+        "standard_number": "IS/ISO 5609 (Part 6):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 6 Style Q",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16319_2015",
+        "standard_number": "IS 16319:2015",
+        "title": "Timekeeping instruments -- Wrist-chronometers with spring balance oscillator",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_5609_PART_1_2012",
+        "standard_number": "IS/ISO 5609 (Part 1):2012",
+        "title": "Tool holders for internal turning with cylindrical shank for indexable inserts: Part 1 Designation, styles, dimensions and calculation for corrections",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8383_2023",
+        "standard_number": "IS 8383:2023",
+        "title": "Hydraulic Fluid Power  Filter Elements  Verification of Fabrication Integrity and Determination of the First Bubble Point",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2327_1993",
+        "standard_number": "IS 2327:1993",
+        "title": "Straight - Sided splines for cylindrical shafts with internal centering - Dimensions, tolerances and verification  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3222_PART_1_1989",
+        "standard_number": "IS 3222 (Part 1):1989",
+        "title": "Instrument screws - Specification: Part 1 fasteners for drawing instruments  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 26,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3524_PART_1_1982",
+        "standard_number": "IS 3524 (Part 1):1982",
+        "title": "Specification for threaded taper pins: Part 1 with internal threads  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 53,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17219_PART_4_2023",
+        "standard_number": "IS 17219 (Part 4):2023",
+        "title": "Tools for Pressing  Gas Springs Part 4 Gas Springs with Increased Spring  Force and Same Built Height",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 54,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_12153_1987",
+        "standard_number": "IS 12153:1987",
+        "title": "Specification for adapters for hexagonal insert bits for use with ratchet screw drivers",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 55,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10986_2013",
+        "standard_number": "IS 10986:2013",
+        "title": "Superabrasive products - Rotating grinding tools with diamond or cubic boron nitride - General survey, designation and multilingual nomenclature  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 30,
+        "fusion_rank": 56,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 1,
+        "reranker_score": 0.6354,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "pre_rerank_rank": 2,
+        "reranker_rank": 2,
+        "reranker_score": 0.45,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 3,
+        "reranker_score": 0.3276,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_18702_2024",
+        "standard_number": "IS 18702:2024",
+        "title": "Technical product documentation -- Protection notices for restricting the use of documents and products",
+        "pre_rerank_rank": 4,
+        "reranker_rank": 4,
+        "reranker_score": 0.2944,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_14532_1998",
+        "standard_number": "IS 14532:1998",
+        "title": "Reduction sleeves with tenon drive with external and internal 7/24 taper -- Dimensions",
+        "pre_rerank_rank": 19,
+        "reranker_rank": 5,
+        "reranker_score": 0.2378,
+        "rank_change": 14
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "pre_rerank_rank": 17,
+        "reranker_rank": 6,
+        "reranker_score": 0.2268,
+        "rank_change": 11
+      },
+      {
+        "standard_id": "IS_15045_PART_2_2021",
+        "standard_number": "IS 15045 (Part 2):2021",
+        "title": "Pneumatic Fluid Power - Five-Port Directional Control Valves Part 2 Mounting Interface Surfaces with Optional Electrical Connector ( First Revision )",
+        "pre_rerank_rank": 14,
+        "reranker_rank": 7,
+        "reranker_score": 0.2176,
+        "rank_change": 7
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "pre_rerank_rank": 15,
+        "reranker_rank": 8,
+        "reranker_score": 0.2167,
+        "rank_change": 7
+      },
+      {
+        "standard_id": "IS_1991_PART_1_1987",
+        "standard_number": "IS 1991 (Part 1):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels : Part 1 definitions (Second Revision)",
+        "pre_rerank_rank": 5,
+        "reranker_rank": 9,
+        "reranker_score": 0.2019,
+        "rank_change": -4
+      },
+      {
+        "standard_id": "IS_1991_PART_5_1987",
+        "standard_number": "IS 1991 (Part 5):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 5 flanges (Second Revision)",
+        "pre_rerank_rank": 6,
+        "reranker_rank": 10,
+        "reranker_score": 0.2019,
+        "rank_change": -4
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "semantic_similarity": 41.3,
+        "lexical_relevance": 100.0,
+        "product_match": 85.8,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 66.6,
+        "calibrated_score": 66.6,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "semantic_similarity": 22.5,
+        "lexical_relevance": 100.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 43.2,
+        "calibrated_score": 43.2,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "semantic_similarity": 16.4,
+        "lexical_relevance": 59.6,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 36.6,
+        "calibrated_score": 36.6,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_18702_2024",
+        "standard_number": "IS 18702:2024",
+        "title": "Technical product documentation -- Protection notices for restricting the use of documents and products",
+        "semantic_similarity": 22.3,
+        "lexical_relevance": 44.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 31.8,
+        "calibrated_score": 31.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "semantic_similarity": 10.8,
+        "lexical_relevance": 34.3,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 29.3,
+        "calibrated_score": 29.3,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_14532_1998",
+        "standard_number": "IS 14532:1998",
+        "title": "Reduction sleeves with tenon drive with external and internal 7/24 taper -- Dimensions",
+        "semantic_similarity": 21.8,
+        "lexical_relevance": 26.4,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 29.0,
+        "calibrated_score": 29.0,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "semantic_similarity": 19.1,
+        "lexical_relevance": 28.2,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 28.3,
+        "calibrated_score": 28.3,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_1991_PART_1_1987",
+        "standard_number": "IS 1991 (Part 1):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels : Part 1 definitions (Second Revision)",
+        "semantic_similarity": 10.1,
+        "lexical_relevance": 38.5,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 26.7,
+        "calibrated_score": 26.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_1991_PART_5_1987",
+        "standard_number": "IS 1991 (Part 5):1987",
+        "title": "Safety requirements for the use, care and protection of abrasive grinding wheels: Part 5 flanges (Second Revision)",
+        "semantic_similarity": 10.1,
+        "lexical_relevance": 38.5,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 26.7,
+        "calibrated_score": 26.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15045_PART_2_2021",
+        "standard_number": "IS 15045 (Part 2):2021",
+        "title": "Pneumatic Fluid Power - Five-Port Directional Control Valves Part 2 Mounting Interface Surfaces with Optional Electrical Connector ( First Revision )",
+        "semantic_similarity": 10.9,
+        "lexical_relevance": 34.5,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 26.4,
+        "calibrated_score": 26.4,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "match_level": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "is_abstained": false,
+    "abstention_reason": null,
+    "top_score": 66.6,
+    "second_best_score": 43.2,
+    "score_margin": 23.4,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_FAILURE_OBSERVED",
+    "diagnostic_flags": []
+  },
+  "timing": {
+    "extraction_ms": 3.02,
+    "bm25_ms": 22.45,
+    "dense_ms": 33.68,
+    "fusion_ms": 5.61,
+    "reranker_ms": 1.42,
+    "applicability_ms": 6.28,
+    "decision_ms": 0.26,
+    "total_ms": 210.56
+  }
+}

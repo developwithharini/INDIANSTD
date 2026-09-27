@@ -4,13 +4,16 @@ from app.models.domain import Standard
 from app.services.retrieval.bm25 import bm25_retriever
 from app.services.retrieval.dense import dense_search
 
-def get_hybrid_candidates(query: str, db: Session, top_k_lexical: int = 30, top_k_dense: int = 30) -> List[Dict[str, Any]]:
+def get_hybrid_candidates(query: str, db: Session, top_k_lexical: int = 30, top_k_dense: int = 30, return_details: bool = False):
     """
     Generate candidate pool by combining Lexical Top 30 + Dense Top 30 results.
     Includes exact IS-number matching override if query mentions an IS number.
+    If return_details=True, returns (candidates, bm25_raw_list, dense_raw_list) for diagnostics.
     """
     import re
     candidate_map: Dict[str, Dict[str, Any]] = {}
+    bm25_raw_list: List[Dict[str, Any]] = []
+    dense_raw_list: List[Dict[str, Any]] = []
 
     # Exact IS Number Override Detection (e.g. "IS 10322", "IS 9748")
     is_match = re.search(r'\bIS\s*(\d+)\b', query, re.IGNORECASE)
@@ -41,6 +44,12 @@ def get_hybrid_candidates(query: str, db: Session, top_k_lexical: int = 30, top_
     # Add Lexical Candidates
     for doc, lex_score in lexical_results:
         std_id = doc["id"]
+        bm25_raw_list.append({
+            "id": std_id,
+            "standard_number": doc["standard_number"],
+            "title": doc["title"],
+            "lexical_score": lex_score
+        })
         if std_id in candidate_map:
             candidate_map[std_id]["lexical_score"] = max(candidate_map[std_id]["lexical_score"], lex_score)
         else:
@@ -64,6 +73,12 @@ def get_hybrid_candidates(query: str, db: Session, top_k_lexical: int = 30, top_
     # Add Dense Candidates
     for doc, dense_score in dense_results:
         std_id = doc["id"]
+        dense_raw_list.append({
+            "id": std_id,
+            "standard_number": doc["standard_number"],
+            "title": doc["title"],
+            "dense_score": dense_score
+        })
         if std_id in candidate_map:
             candidate_map[std_id]["dense_score"] = max(candidate_map[std_id]["dense_score"], dense_score)
             if candidate_map[std_id]["retrieval_method"] == "LEXICAL":
@@ -108,4 +123,7 @@ def get_hybrid_candidates(query: str, db: Session, top_k_lexical: int = 30, top_
                 "retrieval_method": "DATABASE_FALLBACK"
             }
 
-    return list(candidate_map.values())
+    cands = list(candidate_map.values())
+    if return_details:
+        return cands, bm25_raw_list, dense_raw_list
+    return cands

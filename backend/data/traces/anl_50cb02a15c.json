@@ -1,0 +1,1494 @@
+{
+  "analysis_id": "anl_50cb02a15c",
+  "query": "Procurement of 500 outdoor LED streetlight luminaires for municipal roads",
+  "normalized_query": "Procurement of 500 outdoor LED streetlight luminaires for municipal roads",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T16:16:15.432365",
+  "requirement_extraction": {
+    "original_query": "Procurement of 500 outdoor LED streetlight luminaires for municipal roads",
+    "normalized_query": "Procurement of 500 outdoor LED streetlight luminaires for municipal roads",
+    "language": "English",
+    "product": "Procurement of 500 outdoor LED streetlight luminaires for municipal roads",
+    "category": "Electrical & Lighting",
+    "domain": "Electrical & Lighting",
+    "application": "Procurement of 500 outdoor LED streetlight luminaires for municipal roads",
+    "environment": "Outdoor",
+    "materials": [],
+    "attributes": [],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "rank": 1,
+        "score": 63.8286,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "rank": 2,
+        "score": 57.0686,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "rank": 3,
+        "score": 27.6887,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7615_2003",
+        "standard_number": "IS 7615:2003",
+        "title": "System of cone tolerance for conical workpiece from c = 1:3 to 1:500 and lengths from 6 to 630 mm (Second Revision)",
+        "rank": 4,
+        "score": 14.5407,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "rank": 5,
+        "score": 14.3519,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7859_1975",
+        "standard_number": "IS 7859:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for inside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "rank": 6,
+        "score": 13.2446,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7876_1975",
+        "standard_number": "IS 7876:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for outside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "rank": 7,
+        "score": 13.2446,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6040_1993",
+        "standard_number": "IS 6040:1993",
+        "title": "Test chart for precision lathes - Lathes with swing over bed up to 500 mm and distance between centres up to 1500 mm  (First Revision)",
+        "rank": 8,
+        "score": 12.037,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_13450_PART_4_SEC_1_2020",
+        "standard_number": "IS 13450 (Part 4/Sec 1):2020",
+        "title": "Medical electrical equipment: Part 4 Guidance and interpretation: Section 1 Medical electrical equipment and medical electrical systems employing a degree of autonomy",
+        "rank": 9,
+        "score": 9.7372,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17250_2019",
+        "standard_number": "IS 17250:2019",
+        "title": "Test Conditions for Wire Electrical- Discharge Machines ( Wire EDM ) — Testing of the Accuracy",
+        "rank": 10,
+        "score": 8.9636,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "rank": 11,
+        "score": 8.891,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17259_2025",
+        "standard_number": "IS 17259:2025",
+        "title": "Machine Tools - Safety - Electrical Discharge Machines(FIRST REVISION)",
+        "rank": 12,
+        "score": 8.3041,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16381_2025",
+        "standard_number": "IS 16381:2025",
+        "title": "Light Conveyor Belts - Determination of Electrical Resistances  (first revision)",
+        "rank": 13,
+        "score": 8.3041,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19751_PART_5_2026",
+        "standard_number": "IS 19751 (Part 5):2026",
+        "title": "Railway infrastructure — Rail fastening systems: Part 5 Test method for electrical resistance",
+        "rank": 14,
+        "score": 8.2009,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15148_2015",
+        "standard_number": "IS 15148:2015",
+        "title": "Belt drives - V - Ribbed belts, joined V - Belts and V - Belts including wide section belts and hexagonal belts - Electrical conductivity of antistatic belts: characteristics and methods of test  (First Revision)",
+        "rank": 15,
+        "score": 8.1816,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6580_1972",
+        "standard_number": "IS 6580:1972",
+        "title": "Specification for train lighting belt fasteners",
+        "rank": 16,
+        "score": 8.1805,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16378_2025",
+        "standard_number": "IS 16378:2025",
+        "title": "Belt Drives -  Electrical Conductivity of Antistatic  Endless Synchronous Belts  - Characteristics and Test Method",
+        "rank": 17,
+        "score": 7.9179,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4210_1967",
+        "standard_number": "IS 4210:1967",
+        "title": "Specification for strip feeler gauges for electrical purposes",
+        "rank": 18,
+        "score": 7.3191,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12452_1988",
+        "standard_number": "IS 12452:1988",
+        "title": "Code of practice for packaging of microscopes for export",
+        "rank": 19,
+        "score": 5.7219,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2383_1963",
+        "standard_number": "IS 2383:1963",
+        "title": "Code of practice for calibration of vehicle tanks for petroleum products and other liquids",
+        "rank": 20,
+        "score": 5.5269,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10222_1982",
+        "standard_number": "IS 10222:1982",
+        "title": "Code of practice for the packaging of nails",
+        "rank": 21,
+        "score": 5.3209,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8469_1977",
+        "standard_number": "IS 8469:1977",
+        "title": "Methods of tests for flammability of aerosol products",
+        "rank": 22,
+        "score": 5.3209,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "SP_19_1980",
+        "standard_number": "SP 19:1980",
+        "title": "Guidelines for classification of quality of scraped surfaces",
+        "rank": 23,
+        "score": 5.3209,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12498_1988",
+        "standard_number": "IS 12498:1988",
+        "title": "Method of test for evaluation of performance of air pressure regulators",
+        "rank": 24,
+        "score": 5.2398,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10097_1982",
+        "standard_number": "IS 10097:1982",
+        "title": "Code of practice for the packaging of metal cutting tools",
+        "rank": 25,
+        "score": 5.2398,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11430_1985",
+        "standard_number": "IS 11430:1985",
+        "title": "Code of practice for the packaging of ball and roller bearings",
+        "rank": 26,
+        "score": 5.2003,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8486_1977",
+        "standard_number": "IS 8486:1977",
+        "title": "Code of practice for maintenance of tungsten carbide tipped integral stems",
+        "rank": 27,
+        "score": 5.2003,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4749_1974",
+        "standard_number": "IS 4749:1974",
+        "title": "Method for calculation of bulk quantities of industrial aromatic hydrocarbons  (First Revision)",
+        "rank": 28,
+        "score": 5.1614,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7403_1974",
+        "standard_number": "IS 7403:1974",
+        "title": "Code of practice for selection of standard worm and helical gear boxes",
+        "rank": 29,
+        "score": 5.1614,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2164_1961",
+        "standard_number": "IS 2164:1961",
+        "title": "Method for calculation of bulk - Quantities of petroleum and liquid petroleum products",
+        "rank": 30,
+        "score": 5.1614,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "rank": 1,
+        "similarity": 0.3313
+      },
+      {
+        "standard_id": "IS_19153_PART_3_2025",
+        "standard_number": "IS 19153 (Part 3):2025",
+        "title": "Calculation of Load Capacity of Spur and Helical Gears -  Part 3: Calculation of Tooth Bending Strength",
+        "rank": 2,
+        "similarity": 0.2824
+      },
+      {
+        "standard_id": "IS_8469_1977",
+        "standard_number": "IS 8469:1977",
+        "title": "Methods of tests for flammability of aerosol products",
+        "rank": 3,
+        "similarity": 0.2612
+      },
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "rank": 4,
+        "similarity": 0.2604
+      },
+      {
+        "standard_id": "IS_8383_2023",
+        "standard_number": "IS 8383:2023",
+        "title": "Hydraulic Fluid Power  Filter Elements  Verification of Fabrication Integrity and Determination of the First Bubble Point",
+        "rank": 5,
+        "similarity": 0.2505
+      },
+      {
+        "standard_id": "IS_16564_2018",
+        "standard_number": "IS 16564:2018",
+        "title": "Ergonomics - Accessible design - Sound pressure levels of spoken announcements for products and public address systems",
+        "rank": 6,
+        "similarity": 0.2463
+      },
+      {
+        "standard_id": "IS_12937_1990",
+        "standard_number": "IS 12937:1990",
+        "title": "Engineering metrology - Methods of testing straightness, flatness and perpendicularity",
+        "rank": 7,
+        "similarity": 0.2453
+      },
+      {
+        "standard_id": "IS_2383_1963",
+        "standard_number": "IS 2383:1963",
+        "title": "Code of practice for calibration of vehicle tanks for petroleum products and other liquids",
+        "rank": 8,
+        "similarity": 0.2439
+      },
+      {
+        "standard_id": "IS_13617_1992",
+        "standard_number": "IS 13617:1992",
+        "title": "Evaluation of pressure drop versus flow characteristics of pneumatic filters - Method of test",
+        "rank": 9,
+        "similarity": 0.2353
+      },
+      {
+        "standard_id": "IS_18920_PART_3_2025",
+        "standard_number": "IS 18920 (Part 3):2025",
+        "title": "Mechanical vibration --  Vibration of rotating machinery  equipped with active magnetic bearings:  Part 3 Evaluation of stability margin",
+        "rank": 10,
+        "similarity": 0.2338
+      },
+      {
+        "standard_id": "IS_2164_1961",
+        "standard_number": "IS 2164:1961",
+        "title": "Method for calculation of bulk - Quantities of petroleum and liquid petroleum products",
+        "rank": 11,
+        "similarity": 0.2319
+      },
+      {
+        "standard_id": "IS_16318_2015",
+        "standard_number": "IS 16318:2015",
+        "title": "Methods of evaluation of the battery life of a battery-powered watch",
+        "rank": 12,
+        "similarity": 0.2298
+      },
+      {
+        "standard_id": "IS_17105_2019",
+        "standard_number": "IS 17105:2019",
+        "title": "Ergonomics of the physical environment - Assessment of environments by means of an environmental survey involving physical measurements of the environment and subjective responses of people",
+        "rank": 13,
+        "similarity": 0.2288
+      },
+      {
+        "standard_id": "IS_2471_1963",
+        "standard_number": "IS 2471:1963",
+        "title": "Methods of test for metal containers",
+        "rank": 14,
+        "similarity": 0.2271
+      },
+      {
+        "standard_id": "IS_9209_1979",
+        "standard_number": "IS 9209:1979",
+        "title": "Method of test for the compatibility of aerosol products with the metal aerosol dispensers",
+        "rank": 15,
+        "similarity": 0.2265
+      },
+      {
+        "standard_id": "IS_5201_1969",
+        "standard_number": "IS 5201:1969",
+        "title": "Methods for sampling of abrasive emery grain",
+        "rank": 16,
+        "similarity": 0.2249
+      },
+      {
+        "standard_id": "IS_12452_1988",
+        "standard_number": "IS 12452:1988",
+        "title": "Code of practice for packaging of microscopes for export",
+        "rank": 17,
+        "similarity": 0.2207
+      },
+      {
+        "standard_id": "IS_10222_1982",
+        "standard_number": "IS 10222:1982",
+        "title": "Code of practice for the packaging of nails",
+        "rank": 18,
+        "similarity": 0.2206
+      },
+      {
+        "standard_id": "IS_5213_1969",
+        "standard_number": "IS 5213:1969",
+        "title": "Specification for french curves for drawing office use",
+        "rank": 19,
+        "similarity": 0.2181
+      },
+      {
+        "standard_id": "IS_8486_1977",
+        "standard_number": "IS 8486:1977",
+        "title": "Code of practice for maintenance of tungsten carbide tipped integral stems",
+        "rank": 20,
+        "similarity": 0.2173
+      },
+      {
+        "standard_id": "IS_3259_1966",
+        "standard_number": "IS 3259:1966",
+        "title": "Methods for sampling of metal containers",
+        "rank": 21,
+        "similarity": 0.2162
+      },
+      {
+        "standard_id": "IS_8818_1977",
+        "standard_number": "IS 8818:1977",
+        "title": "Methods for measurement of petroleum gases and town gas in bulk",
+        "rank": 22,
+        "similarity": 0.216
+      },
+      {
+        "standard_id": "IS_10994_PART_3_2025",
+        "standard_number": "IS 10994 (Part 3):2025",
+        "title": "CARTRIDGES FOR SHOTGUNS - SPECIFICATION (PART 3 EMPTY CASE) (First Revision)",
+        "rank": 23,
+        "similarity": 0.2152
+      },
+      {
+        "standard_id": "IS_1105_1957",
+        "standard_number": "IS 1105:1957",
+        "title": "Method for precise conversion of inch and metric dimensions to ensure interchangeability",
+        "rank": 24,
+        "similarity": 0.2141
+      },
+      {
+        "standard_id": "IS_2122_PART_1_1973",
+        "standard_number": "IS 2122 (Part 1):1973",
+        "title": "Code of practice for selection, storage, installation and maintenance of belting for power transmission: Part 1 flat belt drives  (First Revision)",
+        "rank": 25,
+        "similarity": 0.2129
+      },
+      {
+        "standard_id": "IS_14206_PART_2_2001",
+        "standard_number": "IS 14206 (Part 2):2001",
+        "title": "On - Site non - Mechanical jointing of plied textile reinforced rubber conveyor belting - Code of practice: Part 2 cold vulcanizing",
+        "rank": 26,
+        "similarity": 0.2099
+      },
+      {
+        "standard_id": "IS_17252_PART_3_2020",
+        "standard_number": "IS 17252 (Part 3):2020",
+        "title": "Acceptance Tests for CO2-laser Beam Machines for High Quality Welding and Cutting Part 3 Calibration of Instruments for Measurement of Gas Flow and Pressure",
+        "rank": 27,
+        "similarity": 0.2097
+      },
+      {
+        "standard_id": "IS_4614_1988",
+        "standard_number": "IS 4614:1988",
+        "title": "Specification for hurdles (First Revision)",
+        "rank": 28,
+        "similarity": 0.2079
+      },
+      {
+        "standard_id": "IS_14206_PART_1_1995",
+        "standard_number": "IS 14206 (Part 1):1995",
+        "title": "On - Sitenon - Mechanical jointing of plied textile reinforced rubber conveyor belting - Code of practice: Part 1 hot vulcanizing",
+        "rank": 29,
+        "similarity": 0.2078
+      },
+      {
+        "standard_id": "IS_15331_2003",
+        "standard_number": "IS 15331:2003",
+        "title": "Pneumatic fluid power - Identification of ports and control mechanisms of control valves and other components",
+        "rank": 30,
+        "similarity": 0.2075
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 52,
+    "candidate_count": 52,
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "bm25_rank": 1,
+        "dense_rank": 4,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "bm25_rank": 2,
+        "dense_rank": 1,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "bm25_rank": 3,
+        "dense_rank": null,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7615_2003",
+        "standard_number": "IS 7615:2003",
+        "title": "System of cone tolerance for conical workpiece from c = 1:3 to 1:500 and lengths from 6 to 630 mm (Second Revision)",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7859_1975",
+        "standard_number": "IS 7859:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for inside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7876_1975",
+        "standard_number": "IS 7876:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for outside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "bm25_rank": 7,
+        "dense_rank": null,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_6040_1993",
+        "standard_number": "IS 6040:1993",
+        "title": "Test chart for precision lathes - Lathes with swing over bed up to 500 mm and distance between centres up to 1500 mm  (First Revision)",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_13450_PART_4_SEC_1_2020",
+        "standard_number": "IS 13450 (Part 4/Sec 1):2020",
+        "title": "Medical electrical equipment: Part 4 Guidance and interpretation: Section 1 Medical electrical equipment and medical electrical systems employing a degree of autonomy",
+        "bm25_rank": 9,
+        "dense_rank": null,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17250_2019",
+        "standard_number": "IS 17250:2019",
+        "title": "Test Conditions for Wire Electrical- Discharge Machines ( Wire EDM ) — Testing of the Accuracy",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17259_2025",
+        "standard_number": "IS 17259:2025",
+        "title": "Machine Tools - Safety - Electrical Discharge Machines(FIRST REVISION)",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16381_2025",
+        "standard_number": "IS 16381:2025",
+        "title": "Light Conveyor Belts - Determination of Electrical Resistances  (first revision)",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19751_PART_5_2026",
+        "standard_number": "IS 19751 (Part 5):2026",
+        "title": "Railway infrastructure — Rail fastening systems: Part 5 Test method for electrical resistance",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15148_2015",
+        "standard_number": "IS 15148:2015",
+        "title": "Belt drives - V - Ribbed belts, joined V - Belts and V - Belts including wide section belts and hexagonal belts - Electrical conductivity of antistatic belts: characteristics and methods of test  (First Revision)",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_6580_1972",
+        "standard_number": "IS 6580:1972",
+        "title": "Specification for train lighting belt fasteners",
+        "bm25_rank": 16,
+        "dense_rank": null,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16378_2025",
+        "standard_number": "IS 16378:2025",
+        "title": "Belt Drives -  Electrical Conductivity of Antistatic  Endless Synchronous Belts  - Characteristics and Test Method",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4210_1967",
+        "standard_number": "IS 4210:1967",
+        "title": "Specification for strip feeler gauges for electrical purposes",
+        "bm25_rank": 18,
+        "dense_rank": null,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12452_1988",
+        "standard_number": "IS 12452:1988",
+        "title": "Code of practice for packaging of microscopes for export",
+        "bm25_rank": 19,
+        "dense_rank": 17,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2383_1963",
+        "standard_number": "IS 2383:1963",
+        "title": "Code of practice for calibration of vehicle tanks for petroleum products and other liquids",
+        "bm25_rank": 20,
+        "dense_rank": 8,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10222_1982",
+        "standard_number": "IS 10222:1982",
+        "title": "Code of practice for the packaging of nails",
+        "bm25_rank": 21,
+        "dense_rank": 18,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8469_1977",
+        "standard_number": "IS 8469:1977",
+        "title": "Methods of tests for flammability of aerosol products",
+        "bm25_rank": 22,
+        "dense_rank": 3,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "SP_19_1980",
+        "standard_number": "SP 19:1980",
+        "title": "Guidelines for classification of quality of scraped surfaces",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12498_1988",
+        "standard_number": "IS 12498:1988",
+        "title": "Method of test for evaluation of performance of air pressure regulators",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10097_1982",
+        "standard_number": "IS 10097:1982",
+        "title": "Code of practice for the packaging of metal cutting tools",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11430_1985",
+        "standard_number": "IS 11430:1985",
+        "title": "Code of practice for the packaging of ball and roller bearings",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_8486_1977",
+        "standard_number": "IS 8486:1977",
+        "title": "Code of practice for maintenance of tungsten carbide tipped integral stems",
+        "bm25_rank": 27,
+        "dense_rank": 20,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4749_1974",
+        "standard_number": "IS 4749:1974",
+        "title": "Method for calculation of bulk quantities of industrial aromatic hydrocarbons  (First Revision)",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7403_1974",
+        "standard_number": "IS 7403:1974",
+        "title": "Code of practice for selection of standard worm and helical gear boxes",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2164_1961",
+        "standard_number": "IS 2164:1961",
+        "title": "Method for calculation of bulk - Quantities of petroleum and liquid petroleum products",
+        "bm25_rank": 30,
+        "dense_rank": 11,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_19153_PART_3_2025",
+        "standard_number": "IS 19153 (Part 3):2025",
+        "title": "Calculation of Load Capacity of Spur and Helical Gears -  Part 3: Calculation of Tooth Bending Strength",
+        "bm25_rank": null,
+        "dense_rank": 2,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8383_2023",
+        "standard_number": "IS 8383:2023",
+        "title": "Hydraulic Fluid Power  Filter Elements  Verification of Fabrication Integrity and Determination of the First Bubble Point",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16564_2018",
+        "standard_number": "IS 16564:2018",
+        "title": "Ergonomics - Accessible design - Sound pressure levels of spoken announcements for products and public address systems",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_12937_1990",
+        "standard_number": "IS 12937:1990",
+        "title": "Engineering metrology - Methods of testing straightness, flatness and perpendicularity",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_13617_1992",
+        "standard_number": "IS 13617:1992",
+        "title": "Evaluation of pressure drop versus flow characteristics of pneumatic filters - Method of test",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18920_PART_3_2025",
+        "standard_number": "IS 18920 (Part 3):2025",
+        "title": "Mechanical vibration --  Vibration of rotating machinery  equipped with active magnetic bearings:  Part 3 Evaluation of stability margin",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16318_2015",
+        "standard_number": "IS 16318:2015",
+        "title": "Methods of evaluation of the battery life of a battery-powered watch",
+        "bm25_rank": null,
+        "dense_rank": 12,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17105_2019",
+        "standard_number": "IS 17105:2019",
+        "title": "Ergonomics of the physical environment - Assessment of environments by means of an environmental survey involving physical measurements of the environment and subjective responses of people",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2471_1963",
+        "standard_number": "IS 2471:1963",
+        "title": "Methods of test for metal containers",
+        "bm25_rank": null,
+        "dense_rank": 14,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9209_1979",
+        "standard_number": "IS 9209:1979",
+        "title": "Method of test for the compatibility of aerosol products with the metal aerosol dispensers",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5201_1969",
+        "standard_number": "IS 5201:1969",
+        "title": "Methods for sampling of abrasive emery grain",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5213_1969",
+        "standard_number": "IS 5213:1969",
+        "title": "Specification for french curves for drawing office use",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3259_1966",
+        "standard_number": "IS 3259:1966",
+        "title": "Methods for sampling of metal containers",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8818_1977",
+        "standard_number": "IS 8818:1977",
+        "title": "Methods for measurement of petroleum gases and town gas in bulk",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10994_PART_3_2025",
+        "standard_number": "IS 10994 (Part 3):2025",
+        "title": "CARTRIDGES FOR SHOTGUNS - SPECIFICATION (PART 3 EMPTY CASE) (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_1105_1957",
+        "standard_number": "IS 1105:1957",
+        "title": "Method for precise conversion of inch and metric dimensions to ensure interchangeability",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2122_PART_1_1973",
+        "standard_number": "IS 2122 (Part 1):1973",
+        "title": "Code of practice for selection, storage, installation and maintenance of belting for power transmission: Part 1 flat belt drives  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14206_PART_2_2001",
+        "standard_number": "IS 14206 (Part 2):2001",
+        "title": "On - Site non - Mechanical jointing of plied textile reinforced rubber conveyor belting - Code of practice: Part 2 cold vulcanizing",
+        "bm25_rank": null,
+        "dense_rank": 26,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17252_PART_3_2020",
+        "standard_number": "IS 17252 (Part 3):2020",
+        "title": "Acceptance Tests for CO2-laser Beam Machines for High Quality Welding and Cutting Part 3 Calibration of Instruments for Measurement of Gas Flow and Pressure",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4614_1988",
+        "standard_number": "IS 4614:1988",
+        "title": "Specification for hurdles (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14206_PART_1_1995",
+        "standard_number": "IS 14206 (Part 1):1995",
+        "title": "On - Sitenon - Mechanical jointing of plied textile reinforced rubber conveyor belting - Code of practice: Part 1 hot vulcanizing",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15331_2003",
+        "standard_number": "IS 15331:2003",
+        "title": "Pneumatic fluid power - Identification of ports and control mechanisms of control valves and other components",
+        "bm25_rank": null,
+        "dense_rank": 30,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "pre_rerank_rank": 2,
+        "reranker_rank": 1,
+        "reranker_score": 0.6145,
+        "rank_change": 1
+      },
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 2,
+        "reranker_score": 0.6056,
+        "rank_change": -1
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 3,
+        "reranker_score": 0.4192,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_7615_2003",
+        "standard_number": "IS 7615:2003",
+        "title": "System of cone tolerance for conical workpiece from c = 1:3 to 1:500 and lengths from 6 to 630 mm (Second Revision)",
+        "pre_rerank_rank": 4,
+        "reranker_rank": 4,
+        "reranker_score": 0.3006,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "pre_rerank_rank": 5,
+        "reranker_rank": 5,
+        "reranker_score": 0.2973,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_7859_1975",
+        "standard_number": "IS 7859:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for inside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "pre_rerank_rank": 6,
+        "reranker_rank": 6,
+        "reranker_score": 0.2779,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_7876_1975",
+        "standard_number": "IS 7876:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for outside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "pre_rerank_rank": 7,
+        "reranker_rank": 7,
+        "reranker_score": 0.2779,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_6040_1993",
+        "standard_number": "IS 6040:1993",
+        "title": "Test chart for precision lathes - Lathes with swing over bed up to 500 mm and distance between centres up to 1500 mm  (First Revision)",
+        "pre_rerank_rank": 8,
+        "reranker_rank": 8,
+        "reranker_score": 0.2568,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_8469_1977",
+        "standard_number": "IS 8469:1977",
+        "title": "Methods of tests for flammability of aerosol products",
+        "pre_rerank_rank": 22,
+        "reranker_rank": 9,
+        "reranker_score": 0.2337,
+        "rank_change": 13
+      },
+      {
+        "standard_id": "IS_2383_1963",
+        "standard_number": "IS 2383:1963",
+        "title": "Code of practice for calibration of vehicle tanks for petroleum products and other liquids",
+        "pre_rerank_rank": 20,
+        "reranker_rank": 10,
+        "reranker_score": 0.2296,
+        "rank_change": 10
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "semantic_similarity": 43.3,
+        "lexical_relevance": 100.0,
+        "product_match": 70.6,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 63.5,
+        "calibrated_score": 63.5,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "semantic_similarity": 47.3,
+        "lexical_relevance": 100.0,
+        "product_match": 58.3,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 62.3,
+        "calibrated_score": 62.3,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "semantic_similarity": 21.0,
+        "lexical_relevance": 100.0,
+        "product_match": 52.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 47.7,
+        "calibrated_score": 47.7,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "semantic_similarity": 14.9,
+        "lexical_relevance": 57.4,
+        "product_match": 52.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 39.1,
+        "calibrated_score": 39.1,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_7615_2003",
+        "standard_number": "IS 7615:2003",
+        "title": "System of cone tolerance for conical workpiece from c = 1:3 to 1:500 and lengths from 6 to 630 mm (Second Revision)",
+        "semantic_similarity": 15.0,
+        "lexical_relevance": 58.2,
+        "product_match": 52.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 31.8,
+        "calibrated_score": 31.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_7859_1975",
+        "standard_number": "IS 7859:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for inside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "semantic_similarity": 13.9,
+        "lexical_relevance": 53.0,
+        "product_match": 52.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.6,
+        "calibrated_score": 30.6,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_7876_1975",
+        "standard_number": "IS 7876:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for outside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "semantic_similarity": 13.9,
+        "lexical_relevance": 53.0,
+        "product_match": 52.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.6,
+        "calibrated_score": 30.6,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_6040_1993",
+        "standard_number": "IS 6040:1993",
+        "title": "Test chart for precision lathes - Lathes with swing over bed up to 500 mm and distance between centres up to 1500 mm  (First Revision)",
+        "semantic_similarity": 12.8,
+        "lexical_relevance": 48.1,
+        "product_match": 52.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 29.5,
+        "calibrated_score": 29.5,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_8469_1977",
+        "standard_number": "IS 8469:1977",
+        "title": "Methods of tests for flammability of aerosol products",
+        "semantic_similarity": 24.7,
+        "lexical_relevance": 21.3,
+        "product_match": 46.1,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 28.8,
+        "calibrated_score": 28.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_2383_1963",
+        "standard_number": "IS 2383:1963",
+        "title": "Code of practice for calibration of vehicle tanks for petroleum products and other liquids",
+        "semantic_similarity": 23.7,
+        "lexical_relevance": 22.1,
+        "product_match": 46.1,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 28.5,
+        "calibrated_score": 28.5,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "match_level": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "is_abstained": false,
+    "abstention_reason": null,
+    "top_score": 63.5,
+    "second_best_score": 62.3,
+    "score_margin": 1.2,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_FAILURE_OBSERVED",
+    "diagnostic_flags": [
+      "SMALL_SCORE_MARGIN"
+    ]
+  },
+  "timing": {
+    "extraction_ms": 0.21,
+    "bm25_ms": 118.42,
+    "dense_ms": 177.63,
+    "fusion_ms": 29.61,
+    "reranker_ms": 0.26,
+    "applicability_ms": 0.66,
+    "decision_ms": 0.02,
+    "total_ms": 302.13
+  }
+}

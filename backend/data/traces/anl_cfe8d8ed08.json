@@ -1,0 +1,1525 @@
+{
+  "analysis_id": "anl_cfe8d8ed08",
+  "query": "Procurement of 150 ergonomic executive work chairs with metal base, lumbar support, and durability compliance.",
+  "normalized_query": "Procurement of 150 ergonomic executive work chairs with metal base, lumbar support, and durability compliance.",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T16:34:57.167839",
+  "requirement_extraction": {
+    "original_query": "Procurement of 150 ergonomic executive work chairs with metal base, lumbar support, and durability compliance.",
+    "normalized_query": "Procurement of 150 ergonomic executive work chairs with metal base, lumbar support, and durability compliance.",
+    "language": "English",
+    "product": "Procurement of 150 ergonomic executive work chairs with metal base, lumbar support, and durability compliance.",
+    "category": "Furniture & Appliances",
+    "domain": "Furniture & Appliances",
+    "application": "Procurement of 150 ergonomic executive work chairs with metal base, lumbar support, and durability compliance.",
+    "environment": "General",
+    "materials": [
+      "Metal",
+      "Steel"
+    ],
+    "attributes": [],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "rank": 1,
+        "score": 110.1078,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_ISO_8000_PART_150_2022",
+        "standard_number": "IS/ISO 8000 (Part 150):2022",
+        "title": "Data Quality  Part 150: Data quality management: Roles and responsibilities",
+        "rank": 2,
+        "score": 28.6522,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_18257_PART_5_2024",
+        "standard_number": "IS 18257 (Part 5):2024",
+        "title": "Technical product documentation -- Indication of dimensions and tolerances: Part 5 Dimensioning of structural metal work",
+        "rank": 3,
+        "score": 22.7288,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15577_PART_3_2005",
+        "standard_number": "IS 15577 (Part 3):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 3 stud ends with metal - To - Metal sealing (Type B)",
+        "rank": 4,
+        "score": 21.9844,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15577_PART_2_2005",
+        "standard_number": "IS 15577 (Part 2):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 2 stud ends with elastomeric sealing (Type E)",
+        "rank": 5,
+        "score": 18.7393,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15577_PART_1_2005",
+        "standard_number": "IS 15577 (Part 1):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 1 threaded ports",
+        "rank": 6,
+        "score": 18.2192,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2428_2024",
+        "standard_number": "IS 2428:2024",
+        "title": "Classification and application of hard cutting materials for metal removal with defined cutting edges - Designation of the main groups and groups of application (third revision)",
+        "rank": 7,
+        "score": 18.0502,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6652_PART_3_1986",
+        "standard_number": "IS 6652 (Part 3):1986",
+        "title": "Glossary of terms relating to metal for - Ming machines and tools: Part 3 metal forming technology and operations relating to sheet metal ( first revision )",
+        "rank": 8,
+        "score": 17.0306,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_9209_1979",
+        "standard_number": "IS 9209:1979",
+        "title": "Method of test for the compatibility of aerosol products with the metal aerosol dispensers",
+        "rank": 9,
+        "score": 16.6967,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6652_PART_2_1986",
+        "standard_number": "IS 6652 (Part 2):1986",
+        "title": "Glossary of terms relating to metal forming machines and tools: Part 2 metal forming machines relating to sheet metal (First Revision )",
+        "rank": 10,
+        "score": 16.4948,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_5153_1969",
+        "standard_number": "IS 5153:1969",
+        "title": "Specification for proportional compasses - 150, 200 and 300 mm",
+        "rank": 11,
+        "score": 16.3118,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_1_2020",
+        "standard_number": "IS/ISO 13041 (Part 1):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres  Part 1 : Geometric tests for machines with horizontal work holding  spindles",
+        "rank": 12,
+        "score": 16.2505,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_2_2020",
+        "standard_number": "IS/ISO 13041 (Part 2):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres Part 2 : Geometric tests for machines with a vertical work holding spindle",
+        "rank": 13,
+        "score": 16.1,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16888_2018",
+        "standard_number": "IS 16888:2018",
+        "title": "Safety Colours and Safety Signs — Classification, Performance and Durability of Safety Signs",
+        "rank": 14,
+        "score": 15.4128,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17192_PART_4_2023",
+        "standard_number": "IS 17192 (Part 4):2023",
+        "title": "Robotics  Performance criteria and related test methods for service robots  Part 4: Lower-back support robots",
+        "rank": 15,
+        "score": 15.3826,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15250_PART_5_2018",
+        "standard_number": "IS 15250 (Part 5):2018",
+        "title": "Test conditions for machining centres: Part 5 accuracy and repeatability of positioning of work - Holding pallets",
+        "rank": 16,
+        "score": 15.3514,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16561_PART_4_2017",
+        "standard_number": "IS 16561 (Part 4):2017",
+        "title": "Ergonomic design of control centres: Part 4 layout and dimensions of workstations",
+        "rank": 17,
+        "score": 15.3358,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15075_2024",
+        "standard_number": "IS 15075:2024",
+        "title": "Rotary and rotary impact masonry drill bits with hard metal tips -- Dimensions (first revision)",
+        "rank": 18,
+        "score": 15.0319,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "rank": 19,
+        "score": 14.9526,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6652_PART_1_1986",
+        "standard_number": "IS 6652 (Part 1):1986",
+        "title": "Glossary of terms relating to metal forming machines and tools part 1 metal forming tools  (First Revision)",
+        "rank": 20,
+        "score": 14.9358,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2582_PART_3_2023",
+        "standard_number": "IS 2582 (Part 3):2023",
+        "title": "Machine tools  Connecting dimensions of spindle noses and work holding chucks  Part 3 : Bayonet type",
+        "rank": 21,
+        "score": 14.89,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19153_PART_2_2025",
+        "standard_number": "IS 19153 (Part 2):2025",
+        "title": "Calculation of load capacity of spur and helical gears  Part 2: Calculation of surface durability pitting",
+        "rank": 22,
+        "score": 14.6332,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16561_PART_5_2018",
+        "standard_number": "IS 16561 (Part 5):2018",
+        "title": "Ergonomic design of control centres: Part 5 displays and controls",
+        "rank": 23,
+        "score": 14.606,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "rank": 24,
+        "score": 14.45,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3218_1968",
+        "standard_number": "IS 3218:1968",
+        "title": "Specification for parallel rulers, 150 mm (Link Type)",
+        "rank": 25,
+        "score": 14.2781,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11325_1985",
+        "standard_number": "IS 11325:1985",
+        "title": "Specification for adjustable clamp support",
+        "rank": 26,
+        "score": 14.2648,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2582_PART_4_2016",
+        "standard_number": "IS 2582 (Part 4):2016",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 4 cylindrical connection",
+        "rank": 27,
+        "score": 14.1443,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_18263_PART_3_2023",
+        "standard_number": "IS 18263 (Part 3):2023",
+        "title": "Ergonomic principles related to mental workload  Part 3: Principles and requirements concerning methods for measuring and assessing mental workload",
+        "rank": 28,
+        "score": 14.0316,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12850_1987",
+        "standard_number": "IS 12850:1987",
+        "title": "Modular units for machine tool construction - Support brackets",
+        "rank": 29,
+        "score": 13.9082,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2582_PART_2_2016",
+        "standard_number": "IS 2582 (Part 2):2016",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 2 camlock type (Third Revision)",
+        "rank": 30,
+        "score": 13.8527,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_19153_PART_3_2025",
+        "standard_number": "IS 19153 (Part 3):2025",
+        "title": "Calculation of Load Capacity of Spur and Helical Gears -  Part 3: Calculation of Tooth Bending Strength",
+        "rank": 1,
+        "similarity": 0.266
+      },
+      {
+        "standard_id": "IS_3090_2026",
+        "standard_number": "IS 3090:2026",
+        "title": "Installation and Maintenance of Rolling Bearings — Code of Practice (First Revision)",
+        "rank": 2,
+        "similarity": 0.2541
+      },
+      {
+        "standard_id": "IS_18920_PART_3_2025",
+        "standard_number": "IS 18920 (Part 3):2025",
+        "title": "Mechanical vibration --  Vibration of rotating machinery  equipped with active magnetic bearings:  Part 3 Evaluation of stability margin",
+        "rank": 3,
+        "similarity": 0.2481
+      },
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "rank": 4,
+        "similarity": 0.2364
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "rank": 5,
+        "similarity": 0.2338
+      },
+      {
+        "standard_id": "IS_17105_2019",
+        "standard_number": "IS 17105:2019",
+        "title": "Ergonomics of the physical environment - Assessment of environments by means of an environmental survey involving physical measurements of the environment and subjective responses of people",
+        "rank": 6,
+        "similarity": 0.2326
+      },
+      {
+        "standard_id": "IS_18254_2023",
+        "standard_number": "IS 18254:2023",
+        "title": "Ergonomics of the physical environment  Application of International Standards to people with special requirements Adoption of ISO 28803: 2012",
+        "rank": 7,
+        "similarity": 0.2279
+      },
+      {
+        "standard_id": "IS_19153_PART_5_2025",
+        "standard_number": "IS 19153 (Part 5):2025",
+        "title": "Calculation of Load Capacity of Spur and Helical Gears - Part 5: Strength and Quality of Materials",
+        "rank": 8,
+        "similarity": 0.2263
+      },
+      {
+        "standard_id": "IS_18257_PART_4_2024",
+        "standard_number": "IS 18257 (Part 4):2024",
+        "title": "Technical product documentation (TPD) -- Indication of dimensions and tolerances: Part 4 Dimensioning of shipbuilding drawings",
+        "rank": 9,
+        "similarity": 0.2233
+      },
+      {
+        "standard_id": "IS_11430_1985",
+        "standard_number": "IS 11430:1985",
+        "title": "Code of practice for the packaging of ball and roller bearings",
+        "rank": 10,
+        "similarity": 0.2203
+      },
+      {
+        "standard_id": "IS_12937_1990",
+        "standard_number": "IS 12937:1990",
+        "title": "Engineering metrology - Methods of testing straightness, flatness and perpendicularity",
+        "rank": 11,
+        "similarity": 0.2151
+      },
+      {
+        "standard_id": "IS_18257_PART_5_2024",
+        "standard_number": "IS 18257 (Part 5):2024",
+        "title": "Technical product documentation -- Indication of dimensions and tolerances: Part 5 Dimensioning of structural metal work",
+        "rank": 12,
+        "similarity": 0.2138
+      },
+      {
+        "standard_id": "IS_ISO_IEC_GUIDE_99_2007",
+        "standard_number": "IS/ISO/IEC GUIDE 99:2007",
+        "title": "International vocabulary of metrology - Basic and general concepts and associated terms (VIM)",
+        "rank": 13,
+        "similarity": 0.2115
+      },
+      {
+        "standard_id": "IS_2428_2024",
+        "standard_number": "IS 2428:2024",
+        "title": "Classification and application of hard cutting materials for metal removal with defined cutting edges - Designation of the main groups and groups of application (third revision)",
+        "rank": 14,
+        "similarity": 0.2104
+      },
+      {
+        "standard_id": "IS_15250_PART_6_2018",
+        "standard_number": "IS 15250 (Part 6):2018",
+        "title": "Test conditions for machining centres: Part 6 accuracy of speeds and interpolations",
+        "rank": 15,
+        "similarity": 0.2104
+      },
+      {
+        "standard_id": "IS_ISO_15529_2010",
+        "standard_number": "IS/ISO 15529:2010",
+        "title": "Optics and photonics - Optical transfer function - Principles of measurement of modulation transfer function (MTF) of sampled imaging systems",
+        "rank": 16,
+        "similarity": 0.2085
+      },
+      {
+        "standard_id": "IS_16378_2025",
+        "standard_number": "IS 16378:2025",
+        "title": "Belt Drives -  Electrical Conductivity of Antistatic  Endless Synchronous Belts  - Characteristics and Test Method",
+        "rank": 17,
+        "similarity": 0.2083
+      },
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "rank": 18,
+        "similarity": 0.208
+      },
+      {
+        "standard_id": "IS_15250_PART_5_2018",
+        "standard_number": "IS 15250 (Part 5):2018",
+        "title": "Test conditions for machining centres: Part 5 accuracy and repeatability of positioning of work - Holding pallets",
+        "rank": 19,
+        "similarity": 0.2078
+      },
+      {
+        "standard_id": "IS_19153_PART_2_2025",
+        "standard_number": "IS 19153 (Part 2):2025",
+        "title": "Calculation of load capacity of spur and helical gears  Part 2: Calculation of surface durability pitting",
+        "rank": 20,
+        "similarity": 0.2053
+      },
+      {
+        "standard_id": "IS_16561_PART_2_2017",
+        "standard_number": "IS 16561 (Part 2):2017",
+        "title": "Ergonomic design of control centres  Part 2 Principles for the Arrangement of Control Suites",
+        "rank": 21,
+        "similarity": 0.2046
+      },
+      {
+        "standard_id": "IS_8064_2002",
+        "standard_number": "IS 8064:2002",
+        "title": "Method of designation of mechanical and hydraulic presses (Second Revision)",
+        "rank": 22,
+        "similarity": 0.2028
+      },
+      {
+        "standard_id": "IS_15250_PART_4_2018",
+        "standard_number": "IS 15250 (Part 4):2018",
+        "title": "Test conditions for machining centres: Part 4 accuracy and repeatability of positioning of linear and rotary axes",
+        "rank": 23,
+        "similarity": 0.2017
+      },
+      {
+        "standard_id": "IS_16851_2024",
+        "standard_number": "IS 16851:2024",
+        "title": "Conveyor Belts with a Textile Carcass — Total Belt Thickness and Thickness of Constructive Elements — Methods of Test  (First Revision)",
+        "rank": 24,
+        "similarity": 0.2015
+      },
+      {
+        "standard_id": "IS_15836_PART_3_2025",
+        "standard_number": "IS 15836 (Part 3):2025",
+        "title": "Ergonomic Design for the Safety of Machinery : Part 3 Anthropometric Data ( First Revision )",
+        "rank": 25,
+        "similarity": 0.2004
+      },
+      {
+        "standard_id": "IS_15250_PART_9_2018",
+        "standard_number": "IS 15250 (Part 9):2018",
+        "title": "Test conditions for machining centres: Part 9 evaluation on the operating times of tool change and pallet change",
+        "rank": 26,
+        "similarity": 0.1994
+      },
+      {
+        "standard_id": "IS_5415_1969",
+        "standard_number": "IS 5415:1969",
+        "title": "Code of practice for packing and packaging of optical and mathematical instruments and components",
+        "rank": 27,
+        "similarity": 0.1991
+      },
+      {
+        "standard_id": "IS_11522_PART_2_2015",
+        "standard_number": "IS 11522 (Part 2):2015",
+        "title": "Basic quantities in cutting and grinding: Part 2 Geometry of the active part of cutting tools -- General conversion formulae to relate tool and working angles",
+        "rank": 28,
+        "similarity": 0.1933
+      },
+      {
+        "standard_id": "IS_5920_PART_4_2024",
+        "standard_number": "IS 5920 (Part 4):2024",
+        "title": "Optics and photonics -- Preparation of drawings for optical elements and systems : Part 4 Surface imperfections",
+        "rank": 29,
+        "similarity": 0.1911
+      },
+      {
+        "standard_id": "IS_6310_1971",
+        "standard_number": "IS 6310:1971",
+        "title": "Dimensions for interchangeability of milling cutters and milling arbors with tenon drive",
+        "rank": 30,
+        "similarity": 0.191
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 55,
+    "candidate_count": 55,
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "bm25_rank": 1,
+        "dense_rank": 4,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_8000_PART_150_2022",
+        "standard_number": "IS/ISO 8000 (Part 150):2022",
+        "title": "Data Quality  Part 150: Data quality management: Roles and responsibilities",
+        "bm25_rank": 2,
+        "dense_rank": null,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_18257_PART_5_2024",
+        "standard_number": "IS 18257 (Part 5):2024",
+        "title": "Technical product documentation -- Indication of dimensions and tolerances: Part 5 Dimensioning of structural metal work",
+        "bm25_rank": 3,
+        "dense_rank": 12,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15577_PART_3_2005",
+        "standard_number": "IS 15577 (Part 3):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 3 stud ends with metal - To - Metal sealing (Type B)",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15577_PART_2_2005",
+        "standard_number": "IS 15577 (Part 2):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 2 stud ends with elastomeric sealing (Type E)",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15577_PART_1_2005",
+        "standard_number": "IS 15577 (Part 1):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 1 threaded ports",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2428_2024",
+        "standard_number": "IS 2428:2024",
+        "title": "Classification and application of hard cutting materials for metal removal with defined cutting edges - Designation of the main groups and groups of application (third revision)",
+        "bm25_rank": 7,
+        "dense_rank": 14,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6652_PART_3_1986",
+        "standard_number": "IS 6652 (Part 3):1986",
+        "title": "Glossary of terms relating to metal for - Ming machines and tools: Part 3 metal forming technology and operations relating to sheet metal ( first revision )",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_9209_1979",
+        "standard_number": "IS 9209:1979",
+        "title": "Method of test for the compatibility of aerosol products with the metal aerosol dispensers",
+        "bm25_rank": 9,
+        "dense_rank": null,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_6652_PART_2_1986",
+        "standard_number": "IS 6652 (Part 2):1986",
+        "title": "Glossary of terms relating to metal forming machines and tools: Part 2 metal forming machines relating to sheet metal (First Revision )",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_5153_1969",
+        "standard_number": "IS 5153:1969",
+        "title": "Specification for proportional compasses - 150, 200 and 300 mm",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_1_2020",
+        "standard_number": "IS/ISO 13041 (Part 1):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres  Part 1 : Geometric tests for machines with horizontal work holding  spindles",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_2_2020",
+        "standard_number": "IS/ISO 13041 (Part 2):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres Part 2 : Geometric tests for machines with a vertical work holding spindle",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16888_2018",
+        "standard_number": "IS 16888:2018",
+        "title": "Safety Colours and Safety Signs — Classification, Performance and Durability of Safety Signs",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17192_PART_4_2023",
+        "standard_number": "IS 17192 (Part 4):2023",
+        "title": "Robotics  Performance criteria and related test methods for service robots  Part 4: Lower-back support robots",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15250_PART_5_2018",
+        "standard_number": "IS 15250 (Part 5):2018",
+        "title": "Test conditions for machining centres: Part 5 accuracy and repeatability of positioning of work - Holding pallets",
+        "bm25_rank": 16,
+        "dense_rank": 19,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16561_PART_4_2017",
+        "standard_number": "IS 16561 (Part 4):2017",
+        "title": "Ergonomic design of control centres: Part 4 layout and dimensions of workstations",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15075_2024",
+        "standard_number": "IS 15075:2024",
+        "title": "Rotary and rotary impact masonry drill bits with hard metal tips -- Dimensions (first revision)",
+        "bm25_rank": 18,
+        "dense_rank": null,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "bm25_rank": 19,
+        "dense_rank": null,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_6652_PART_1_1986",
+        "standard_number": "IS 6652 (Part 1):1986",
+        "title": "Glossary of terms relating to metal forming machines and tools part 1 metal forming tools  (First Revision)",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2582_PART_3_2023",
+        "standard_number": "IS 2582 (Part 3):2023",
+        "title": "Machine tools  Connecting dimensions of spindle noses and work holding chucks  Part 3 : Bayonet type",
+        "bm25_rank": 21,
+        "dense_rank": null,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19153_PART_2_2025",
+        "standard_number": "IS 19153 (Part 2):2025",
+        "title": "Calculation of load capacity of spur and helical gears  Part 2: Calculation of surface durability pitting",
+        "bm25_rank": 22,
+        "dense_rank": 20,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16561_PART_5_2018",
+        "standard_number": "IS 16561 (Part 5):2018",
+        "title": "Ergonomic design of control centres: Part 5 displays and controls",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3218_1968",
+        "standard_number": "IS 3218:1968",
+        "title": "Specification for parallel rulers, 150 mm (Link Type)",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11325_1985",
+        "standard_number": "IS 11325:1985",
+        "title": "Specification for adjustable clamp support",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2582_PART_4_2016",
+        "standard_number": "IS 2582 (Part 4):2016",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 4 cylindrical connection",
+        "bm25_rank": 27,
+        "dense_rank": null,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_18263_PART_3_2023",
+        "standard_number": "IS 18263 (Part 3):2023",
+        "title": "Ergonomic principles related to mental workload  Part 3: Principles and requirements concerning methods for measuring and assessing mental workload",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12850_1987",
+        "standard_number": "IS 12850:1987",
+        "title": "Modular units for machine tool construction - Support brackets",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2582_PART_2_2016",
+        "standard_number": "IS 2582 (Part 2):2016",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 2 camlock type (Third Revision)",
+        "bm25_rank": 30,
+        "dense_rank": null,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19153_PART_3_2025",
+        "standard_number": "IS 19153 (Part 3):2025",
+        "title": "Calculation of Load Capacity of Spur and Helical Gears -  Part 3: Calculation of Tooth Bending Strength",
+        "bm25_rank": null,
+        "dense_rank": 1,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3090_2026",
+        "standard_number": "IS 3090:2026",
+        "title": "Installation and Maintenance of Rolling Bearings — Code of Practice (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 2,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18920_PART_3_2025",
+        "standard_number": "IS 18920 (Part 3):2025",
+        "title": "Mechanical vibration --  Vibration of rotating machinery  equipped with active magnetic bearings:  Part 3 Evaluation of stability margin",
+        "bm25_rank": null,
+        "dense_rank": 3,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17105_2019",
+        "standard_number": "IS 17105:2019",
+        "title": "Ergonomics of the physical environment - Assessment of environments by means of an environmental survey involving physical measurements of the environment and subjective responses of people",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18254_2023",
+        "standard_number": "IS 18254:2023",
+        "title": "Ergonomics of the physical environment  Application of International Standards to people with special requirements Adoption of ISO 28803: 2012",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_19153_PART_5_2025",
+        "standard_number": "IS 19153 (Part 5):2025",
+        "title": "Calculation of Load Capacity of Spur and Helical Gears - Part 5: Strength and Quality of Materials",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18257_PART_4_2024",
+        "standard_number": "IS 18257 (Part 4):2024",
+        "title": "Technical product documentation (TPD) -- Indication of dimensions and tolerances: Part 4 Dimensioning of shipbuilding drawings",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11430_1985",
+        "standard_number": "IS 11430:1985",
+        "title": "Code of practice for the packaging of ball and roller bearings",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_12937_1990",
+        "standard_number": "IS 12937:1990",
+        "title": "Engineering metrology - Methods of testing straightness, flatness and perpendicularity",
+        "bm25_rank": null,
+        "dense_rank": 11,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_IEC_GUIDE_99_2007",
+        "standard_number": "IS/ISO/IEC GUIDE 99:2007",
+        "title": "International vocabulary of metrology - Basic and general concepts and associated terms (VIM)",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15250_PART_6_2018",
+        "standard_number": "IS 15250 (Part 6):2018",
+        "title": "Test conditions for machining centres: Part 6 accuracy of speeds and interpolations",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_15529_2010",
+        "standard_number": "IS/ISO 15529:2010",
+        "title": "Optics and photonics - Optical transfer function - Principles of measurement of modulation transfer function (MTF) of sampled imaging systems",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16378_2025",
+        "standard_number": "IS 16378:2025",
+        "title": "Belt Drives -  Electrical Conductivity of Antistatic  Endless Synchronous Belts  - Characteristics and Test Method",
+        "bm25_rank": null,
+        "dense_rank": 17,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "bm25_rank": null,
+        "dense_rank": 18,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16561_PART_2_2017",
+        "standard_number": "IS 16561 (Part 2):2017",
+        "title": "Ergonomic design of control centres  Part 2 Principles for the Arrangement of Control Suites",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8064_2002",
+        "standard_number": "IS 8064:2002",
+        "title": "Method of designation of mechanical and hydraulic presses (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15250_PART_4_2018",
+        "standard_number": "IS 15250 (Part 4):2018",
+        "title": "Test conditions for machining centres: Part 4 accuracy and repeatability of positioning of linear and rotary axes",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16851_2024",
+        "standard_number": "IS 16851:2024",
+        "title": "Conveyor Belts with a Textile Carcass — Total Belt Thickness and Thickness of Constructive Elements — Methods of Test  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15836_PART_3_2025",
+        "standard_number": "IS 15836 (Part 3):2025",
+        "title": "Ergonomic Design for the Safety of Machinery : Part 3 Anthropometric Data ( First Revision )",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15250_PART_9_2018",
+        "standard_number": "IS 15250 (Part 9):2018",
+        "title": "Test conditions for machining centres: Part 9 evaluation on the operating times of tool change and pallet change",
+        "bm25_rank": null,
+        "dense_rank": 26,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5415_1969",
+        "standard_number": "IS 5415:1969",
+        "title": "Code of practice for packing and packaging of optical and mathematical instruments and components",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11522_PART_2_2015",
+        "standard_number": "IS 11522 (Part 2):2015",
+        "title": "Basic quantities in cutting and grinding: Part 2 Geometry of the active part of cutting tools -- General conversion formulae to relate tool and working angles",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 53,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5920_PART_4_2024",
+        "standard_number": "IS 5920 (Part 4):2024",
+        "title": "Optics and photonics -- Preparation of drawings for optical elements and systems : Part 4 Surface imperfections",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 54,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6310_1971",
+        "standard_number": "IS 6310:1971",
+        "title": "Dimensions for interchangeability of milling cutters and milling arbors with tenon drive",
+        "bm25_rank": null,
+        "dense_rank": 30,
+        "fusion_rank": 55,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 1,
+        "reranker_score": 0.6064,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_18257_PART_5_2024",
+        "standard_number": "IS 18257 (Part 5):2024",
+        "title": "Technical product documentation -- Indication of dimensions and tolerances: Part 5 Dimensioning of structural metal work",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 2,
+        "reranker_score": 0.4962,
+        "rank_change": 1
+      },
+      {
+        "standard_id": "IS_2428_2024",
+        "standard_number": "IS 2428:2024",
+        "title": "Classification and application of hard cutting materials for metal removal with defined cutting edges - Designation of the main groups and groups of application (third revision)",
+        "pre_rerank_rank": 7,
+        "reranker_rank": 3,
+        "reranker_score": 0.4606,
+        "rank_change": 4
+      },
+      {
+        "standard_id": "IS_15577_PART_3_2005",
+        "standard_number": "IS 15577 (Part 3):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 3 stud ends with metal - To - Metal sealing (Type B)",
+        "pre_rerank_rank": 4,
+        "reranker_rank": 4,
+        "reranker_score": 0.4,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_15250_PART_5_2018",
+        "standard_number": "IS 15250 (Part 5):2018",
+        "title": "Test conditions for machining centres: Part 5 accuracy and repeatability of positioning of work - Holding pallets",
+        "pre_rerank_rank": 16,
+        "reranker_rank": 5,
+        "reranker_score": 0.3955,
+        "rank_change": 11
+      },
+      {
+        "standard_id": "IS_ISO_8000_PART_150_2022",
+        "standard_number": "IS/ISO 8000 (Part 150):2022",
+        "title": "Data Quality  Part 150: Data quality management: Roles and responsibilities",
+        "pre_rerank_rank": 2,
+        "reranker_rank": 6,
+        "reranker_score": 0.3833,
+        "rank_change": -4
+      },
+      {
+        "standard_id": "IS_19153_PART_2_2025",
+        "standard_number": "IS 19153 (Part 2):2025",
+        "title": "Calculation of load capacity of spur and helical gears  Part 2: Calculation of surface durability pitting",
+        "pre_rerank_rank": 22,
+        "reranker_rank": 7,
+        "reranker_score": 0.3818,
+        "rank_change": 15
+      },
+      {
+        "standard_id": "IS_15577_PART_2_2005",
+        "standard_number": "IS 15577 (Part 2):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 2 stud ends with elastomeric sealing (Type E)",
+        "pre_rerank_rank": 5,
+        "reranker_rank": 8,
+        "reranker_score": 0.3779,
+        "rank_change": -3
+      },
+      {
+        "standard_id": "IS_15577_PART_1_2005",
+        "standard_number": "IS 15577 (Part 1):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 1 threaded ports",
+        "pre_rerank_rank": 6,
+        "reranker_rank": 9,
+        "reranker_score": 0.3688,
+        "rank_change": -3
+      },
+      {
+        "standard_id": "IS_9209_1979",
+        "standard_number": "IS 9209:1979",
+        "title": "Method of test for the compatibility of aerosol products with the metal aerosol dispensers",
+        "pre_rerank_rank": 9,
+        "reranker_rank": 10,
+        "reranker_score": 0.3422,
+        "rank_change": -1
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "semantic_similarity": 42.1,
+        "lexical_relevance": 100.0,
+        "product_match": 85.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 65.2,
+        "calibrated_score": 65.2,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_18257_PART_5_2024",
+        "standard_number": "IS 18257 (Part 5):2024",
+        "title": "Technical product documentation -- Indication of dimensions and tolerances: Part 5 Dimensioning of structural metal work",
+        "semantic_similarity": 35.5,
+        "lexical_relevance": 90.9,
+        "product_match": 51.8,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 46.8,
+        "calibrated_score": 46.8,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_2428_2024",
+        "standard_number": "IS 2428:2024",
+        "title": "Classification and application of hard cutting materials for metal removal with defined cutting edges - Designation of the main groups and groups of application (third revision)",
+        "semantic_similarity": 33.6,
+        "lexical_relevance": 72.2,
+        "product_match": 51.8,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 43.3,
+        "calibrated_score": 43.3,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_ISO_8000_PART_150_2022",
+        "standard_number": "IS/ISO 8000 (Part 150):2022",
+        "title": "Data Quality  Part 150: Data quality management: Roles and responsibilities",
+        "semantic_similarity": 19.2,
+        "lexical_relevance": 100.0,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 41.9,
+        "calibrated_score": 41.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15577_PART_3_2005",
+        "standard_number": "IS 15577 (Part 3):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 3 stud ends with metal - To - Metal sealing (Type B)",
+        "semantic_similarity": 20.0,
+        "lexical_relevance": 87.9,
+        "product_match": 51.8,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 41.0,
+        "calibrated_score": 41.0,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15250_PART_5_2018",
+        "standard_number": "IS 15250 (Part 5):2018",
+        "title": "Test conditions for machining centres: Part 5 accuracy and repeatability of positioning of work - Holding pallets",
+        "semantic_similarity": 30.2,
+        "lexical_relevance": 61.4,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 39.9,
+        "calibrated_score": 39.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_19153_PART_2_2025",
+        "standard_number": "IS 19153 (Part 2):2025",
+        "title": "Calculation of load capacity of spur and helical gears  Part 2: Calculation of surface durability pitting",
+        "semantic_similarity": 29.4,
+        "lexical_relevance": 58.5,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 39.2,
+        "calibrated_score": 39.2,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15577_PART_2_2005",
+        "standard_number": "IS 15577 (Part 2):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 2 stud ends with elastomeric sealing (Type E)",
+        "semantic_similarity": 18.9,
+        "lexical_relevance": 75.0,
+        "product_match": 51.8,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 38.6,
+        "calibrated_score": 38.6,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15577_PART_1_2005",
+        "standard_number": "IS 15577 (Part 1):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 1 threaded ports",
+        "semantic_similarity": 18.4,
+        "lexical_relevance": 72.9,
+        "product_match": 51.8,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 38.2,
+        "calibrated_score": 38.2,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_9209_1979",
+        "standard_number": "IS 9209:1979",
+        "title": "Method of test for the compatibility of aerosol products with the metal aerosol dispensers",
+        "semantic_similarity": 17.1,
+        "lexical_relevance": 66.8,
+        "product_match": 51.8,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 36.8,
+        "calibrated_score": 36.8,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "match_level": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "is_abstained": false,
+    "abstention_reason": null,
+    "top_score": 65.2,
+    "second_best_score": 46.8,
+    "score_margin": 18.4,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_FAILURE_OBSERVED",
+    "diagnostic_flags": []
+  },
+  "timing": {
+    "extraction_ms": 1.07,
+    "bm25_ms": 11.28,
+    "dense_ms": 16.92,
+    "fusion_ms": 2.82,
+    "reranker_ms": 0.43,
+    "applicability_ms": 1.2,
+    "decision_ms": 0.03,
+    "total_ms": 39.85
+  }
+}

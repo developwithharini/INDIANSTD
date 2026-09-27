@@ -20,6 +20,9 @@ class Settings(BaseSettings):
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
     GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
 
+    # Diagnostic Trace Settings
+    DEBUG_RETRIEVAL_TRACE: bool = os.getenv("DEBUG_RETRIEVAL_TRACE", "false").lower() in ("true", "1", "yes")
+
     # Retrieval Models
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "BAAI/bge-m3")
     RERANKER_MODEL: str = os.getenv("RERANKER_MODEL", "BAAI/bge-reranker-v2-m3")

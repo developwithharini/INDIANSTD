@@ -1,5 +1,6 @@
 import React from 'react';
 import { RecommendationItem } from '../types';
+import { useLanguage } from '../i18n/LanguageContext';
 import { ShieldCheck, Calendar, BookOpen, FileCode2, ExternalLink } from 'lucide-react';
 
 interface StandardDetailDrawerProps {
@@ -8,7 +9,18 @@ interface StandardDetailDrawerProps {
 }
 
 export const StandardDetailDrawer: React.FC<StandardDetailDrawerProps> = ({ item, onClose }) => {
+  const { t } = useLanguage();
+
   if (!item) return null;
+
+  const getStatusText = (status: string) => {
+    switch (status) {
+      case 'CURRENT': return t('status.current');
+      case 'SUPERSEDED': return t('status.superseded');
+      case 'WITHDRAWN': return t('status.withdrawn');
+      default: return t('status.unknown');
+    }
+  };
 
   return (
     <div className="fixed inset-0 z-50 overflow-hidden bg-slate-900/40 backdrop-blur-xs flex justify-end">
@@ -24,7 +36,7 @@ export const StandardDetailDrawer: React.FC<StandardDetailDrawerProps> = ({ item
                 <span className={`text-[11px] font-mono font-semibold px-2 py-0.5 rounded ${
                   item.status === 'CURRENT' ? 'bg-emerald-50 text-emerald-800 border border-emerald-200' : 'bg-amber-50 text-amber-800 border border-amber-200'
                 }`}>
-                  {item.status}
+                  {getStatusText(item.status)}
                 </span>
               </div>
               <h2 className="text-base font-bold text-slate-900 pt-1 leading-snug">{item.title}</h2>
@@ -41,7 +53,7 @@ export const StandardDetailDrawer: React.FC<StandardDetailDrawerProps> = ({ item
           <div className="bg-slate-50 border border-slate-200 rounded-lg p-4 space-y-3">
             <div className="flex items-center justify-between">
               <span className="text-xs font-bold text-slate-700 uppercase tracking-wider font-mono">
-                Applicability Score
+                {t('results.applicabilityScore')}
               </span>
               <span className="text-xl font-extrabold text-navy-900 font-mono">
                 {item.applicability_score} / 100
@@ -61,7 +73,7 @@ export const StandardDetailDrawer: React.FC<StandardDetailDrawerProps> = ({ item
           <div className="space-y-2">
             <h3 className="text-xs font-bold text-slate-900 uppercase tracking-wider font-mono flex items-center gap-1.5">
               <BookOpen className="w-3.5 h-3.5 text-navy-800" />
-              Standard Scope
+              {t('details.officialScope')}
             </h3>
             <p className="text-xs text-slate-700 bg-white border border-slate-200 p-3.5 rounded-lg leading-relaxed font-sans">
               {item.scope_preview || "Official BIS scope specifications recorded in dataset snapshot."}
@@ -72,7 +84,7 @@ export const StandardDetailDrawer: React.FC<StandardDetailDrawerProps> = ({ item
           <div className="space-y-2">
             <h3 className="text-xs font-bold text-slate-900 uppercase tracking-wider font-mono flex items-center gap-1.5">
               <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
-              Why Matched Evidence
+              {t('results.whyMatched')}
             </h3>
             <div className="space-y-2">
               {item.reasons.map((reason, idx) => (
@@ -90,18 +102,17 @@ export const StandardDetailDrawer: React.FC<StandardDetailDrawerProps> = ({ item
           <div className="space-y-2">
             <h3 className="text-xs font-bold text-slate-900 uppercase tracking-wider font-mono flex items-center gap-1.5">
               <FileCode2 className="w-3.5 h-3.5 text-slate-500" />
-              Dataset Evidence Trail
+              {t('details.sourceProvenance')}
             </h3>
             <div className="bg-slate-50 border border-slate-200 p-3 rounded-lg text-xs font-mono space-y-1">
-              <div><span className="text-slate-400">Source:</span> <span className="text-slate-900">BIS Published Dataset Snapshot</span></div>
+              <div><span className="text-slate-400">{t('evidence.source')}:</span> <span className="text-slate-900">{t('status.verified')}</span></div>
               {item.evidence?.[0] && (
                 <>
-                  <div><span className="text-slate-400">Workbook:</span> <span className="text-slate-900">{item.evidence[0].source_file || 'standards.xlsx'}</span></div>
-                  <div><span className="text-slate-400">Sheet:</span> <span className="text-slate-900">{item.evidence[0].source_sheet || 'Standards'}</span></div>
-                  <div><span className="text-slate-400">Row:</span> <span className="text-slate-900">{item.evidence[0].source_row ? `Row ${item.evidence[0].source_row}` : 'UNAVAILABLE'}</span></div>
+                  <div><span className="text-slate-400">{t('evidence.workbook')}:</span> <span className="text-slate-900">{item.evidence[0].source_file || 'standards.xlsx'}</span></div>
+                  <div><span className="text-slate-400">{t('evidence.sheet')}:</span> <span className="text-slate-900">{item.evidence[0].source_sheet || 'Standards'}</span></div>
+                  <div><span className="text-slate-400">{t('evidence.row')}:</span> <span className="text-slate-900">{item.evidence[0].source_row ? `${t('evidence.row')} ${item.evidence[0].source_row}` : 'N/A'}</span></div>
                 </>
               )}
-              <div><span className="text-slate-400">Verification:</span> <span className="text-emerald-700 font-semibold">Verified Source Record</span></div>
             </div>
           </div>
         </div>
@@ -110,9 +121,9 @@ export const StandardDetailDrawer: React.FC<StandardDetailDrawerProps> = ({ item
         <div className="p-4 border-t border-slate-200 bg-slate-50 flex justify-end">
           <button
             onClick={onClose}
-            className="bg-slate-800 hover:bg-slate-900 text-white text-xs font-semibold px-4 py-2 rounded-lg transition-colors"
+            className="bg-slate-800 hover:bg-slate-900 text-white text-xs font-semibold px-4 py-2 rounded-lg transition-colors font-mono"
           >
-            Close Details
+            {t('details.close')}
           </button>
         </div>
       </div>

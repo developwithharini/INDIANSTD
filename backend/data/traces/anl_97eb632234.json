@@ -1,0 +1,1517 @@
+{
+  "analysis_id": "anl_97eb632234",
+  "query": "Metallic slide fasteners for aviation purpose",
+  "normalized_query": "Metallic slide fasteners for aviation purpose",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T17:53:57.771663",
+  "requirement_extraction": {
+    "original_query": "Metallic slide fasteners for aviation purpose",
+    "normalized_query": "Metallic slide fasteners for aviation purpose",
+    "language": "English",
+    "product": "Metallic slide fasteners for aviation purpose",
+    "category": "General Goods",
+    "domain": "General Goods",
+    "application": "Metallic slide fasteners for aviation purpose",
+    "environment": "General",
+    "materials": [
+      "Metal",
+      "Steel"
+    ],
+    "attributes": [],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_9748_2025",
+        "standard_number": "IS 9748:2025",
+        "title": "Metallic Slide Fasteners (For Aviation Purpose) — Specification (first revision)",
+        "rank": 1,
+        "score": 55.0296,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_9748_1981",
+        "standard_number": "IS 9748:1981",
+        "title": "Specification for metallic slide fasteners (For Aviation Purposes)",
+        "rank": 2,
+        "score": 47.1489,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3148_1991",
+        "standard_number": "IS 3148:1991",
+        "title": "Slide fasteners (General Purpose) (Fourth Revision)",
+        "rank": 3,
+        "score": 28.7717,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14181_PART_3_2002",
+        "standard_number": "IS 14181 (Part 3):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 3 test report formats",
+        "rank": 4,
+        "score": 24.7058,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14181_PART_2_2002",
+        "standard_number": "IS 14181 (Part 2):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 2 test and measurement methods",
+        "rank": 5,
+        "score": 24.4402,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14181_PART_1_2002",
+        "standard_number": "IS 14181 (Part 1):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 1 specification, selection and ordering guideline of the product  (First Revision)",
+        "rank": 6,
+        "score": 22.9591,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10844_1984",
+        "standard_number": "IS 10844:1984",
+        "title": "Glossary of terms relating to slide fasteners",
+        "rank": 7,
+        "score": 19.2973,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12397_1988",
+        "standard_number": "IS 12397:1988",
+        "title": "Specification for metallic dissectiong trays",
+        "rank": 8,
+        "score": 13.1337,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11152_1984",
+        "standard_number": "IS 11152:1984",
+        "title": "Specification for laboratory stands (Metallic)",
+        "rank": 9,
+        "score": 13.1337,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_9085_1979",
+        "standard_number": "IS 9085:1979",
+        "title": "Specification for correction slide for mercury barometers",
+        "rank": 10,
+        "score": 13.0786,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11974_1987",
+        "standard_number": "IS 11974:1987",
+        "title": "Specification for badminton metallic racket frames",
+        "rank": 11,
+        "score": 12.9675,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_9722_1981",
+        "standard_number": "IS 9722:1981",
+        "title": "Dimensions for modular units for machine tool construction - Slide units",
+        "rank": 12,
+        "score": 12.771,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10576_1983",
+        "standard_number": "IS 10576:1983",
+        "title": "Dimensions for modular units for machine tool construction - Wing bases for slide units",
+        "rank": 13,
+        "score": 12.5788,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10731_2000",
+        "standard_number": "IS 10731:2000",
+        "title": "Presses - Slide holes for locating the shanks - Dimensions  (First Revision)",
+        "rank": 14,
+        "score": 12.3293,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15277_2002",
+        "standard_number": "IS 15277:2002",
+        "title": "Metallic tube connections for fluid power and general use test methods for threaded hydraulic fluid power connections",
+        "rank": 15,
+        "score": 11.8243,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "rank": 16,
+        "score": 11.5359,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10238_2001",
+        "standard_number": "IS 10238:2001",
+        "title": "Fasteners - Threaded steel fasteners - Step bolts for steel structures - Specification  (First Revision)",
+        "rank": 17,
+        "score": 11.4465,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15276_2002",
+        "standard_number": "IS 15276:2002",
+        "title": "Metallic tube connections for fluid power and general use 24° cone connectors with o - Ring weld - On nipples",
+        "rank": 18,
+        "score": 11.2586,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "rank": 19,
+        "score": 11.2293,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1367_PART_16_2002",
+        "standard_number": "IS 1367 (Part 16):2002",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 16 designation system for fasteners (Third Revision)",
+        "rank": 20,
+        "score": 10.9733,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8227_PART_1_1988",
+        "standard_number": "IS 8227 (Part 1):1988",
+        "title": "Specification for fasteners, arch and clip for files: Part 1 arch fasteners  (First Revision)",
+        "rank": 21,
+        "score": 10.9733,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8227_PART_2_1988",
+        "standard_number": "IS 8227 (Part 2):1988",
+        "title": "Specification for fasteners, arch and clip for files: Part 2 clip fasteners  (First Revision)",
+        "rank": 22,
+        "score": 10.9733,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1367_PART_14_SEC_3_2018",
+        "standard_number": "IS 1367 (Part 14/Sec 3):2018",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 14 mechanical properties of corrosion - Resistant stainless steel fasteners section 3 set screws and similar fasteners not under tensile stress (Fourth Revision",
+        "rank": 23,
+        "score": 10.6512,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1367_PART_5_2018",
+        "standard_number": "IS 1367 (Part 5):2018",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 5 mechanical properties of fasteners made of carbon steel and alloy steel - Set screws and similar threaded fasteners with specified hardness classes - Coarse thread and fine pitch thread (Fourth Revision)",
+        "rank": 24,
+        "score": 10.6512,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8533_1977",
+        "standard_number": "IS 8533:1977",
+        "title": "General Purpose Carabiners for Mountaineering",
+        "rank": 25,
+        "score": 10.6401,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12427_2001",
+        "standard_number": "IS 12427:2001",
+        "title": "Fasteners - Threaded steel fasteners - Hexagon head transmission tower bolts - Specification  (First Revision)",
+        "rank": 26,
+        "score": 10.3884,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1367_PART_12_1981",
+        "standard_number": "IS 1367 (Part 12):1981",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 12 phosphate coatings on threaded fasteners (Second Revision)",
+        "rank": 27,
+        "score": 10.2901,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7002_2018",
+        "standard_number": "IS 7002:2018",
+        "title": "Prevailing torque type hexagon regular nuts (With Non - Metallic Insert) - Property classes 5, 8 and 10 (Third Revision)",
+        "rank": 28,
+        "score": 10.2694,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1367_PART_2_2002",
+        "standard_number": "IS 1367 (Part 2):2002",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 2 tolerances for fasteners - Bolts, screws, studs and nuts - Product grades a, b and c (Third Revision)",
+        "rank": 29,
+        "score": 10.1891,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1367_PART_13_2020",
+        "standard_number": "IS 1367 (Part 13):2020",
+        "title": "Technical Supply Conditions for Threaded Steel Fasteners Part 13 Hot Dip Galvanized Coatings on Threaded Fasteners ( Third Revision )",
+        "rank": 30,
+        "score": 10.1328,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_9748_1981",
+        "standard_number": "IS 9748:1981",
+        "title": "Specification for metallic slide fasteners (For Aviation Purposes)",
+        "rank": 1,
+        "similarity": 0.3341
+      },
+      {
+        "standard_id": "IS_9748_2025",
+        "standard_number": "IS 9748:2025",
+        "title": "Metallic Slide Fasteners (For Aviation Purpose) — Specification (first revision)",
+        "rank": 2,
+        "similarity": 0.3156
+      },
+      {
+        "standard_id": "IS_2998_1982",
+        "standard_number": "IS 2998:1982",
+        "title": "Specification for cold forged steel rivets for cold closing (1 To 16 mm Diameter)  (First Revision)",
+        "rank": 3,
+        "similarity": 0.2567
+      },
+      {
+        "standard_id": "IS_11107_1984",
+        "standard_number": "IS 11107:1984",
+        "title": "Dimensions for modular units for machine tool construction - Columns",
+        "rank": 4,
+        "similarity": 0.2498
+      },
+      {
+        "standard_id": "IS_15448_PART_5_2018",
+        "standard_number": "IS 15448 (Part 5):2018",
+        "title": "Tools for pressing - Guide bushes: Part 5 form D, ball cage bushes, headed, type 1  (First Revision)",
+        "rank": 5,
+        "similarity": 0.249
+      },
+      {
+        "standard_id": "IS_9725_PART_1_1981",
+        "standard_number": "IS 9725 (Part 1):1981",
+        "title": "Specification for male stud tee body (Stud Branch) for oil - Hydraulic couplings: Part 1 made from forgings",
+        "rank": 6,
+        "similarity": 0.2479
+      },
+      {
+        "standard_id": "IS_4278_1988",
+        "standard_number": "IS 4278:1988",
+        "title": "Specification for flexible shafts for speedometers and tachographs (Second Revision)",
+        "rank": 7,
+        "similarity": 0.2368
+      },
+      {
+        "standard_id": "IS_9608_1985",
+        "standard_number": "IS 9608:1985",
+        "title": "Specification for gauging members for go and no go screw plug gauges and screw check plug gauges for ISO metric screw threads (Size range above M40 up to and Including M120) (First Revision)",
+        "rank": 8,
+        "similarity": 0.2323
+      },
+      {
+        "standard_id": "IS_9746_PART_2_1981",
+        "standard_number": "IS 9746 (Part 2):1981",
+        "title": "Specification for equal cross body for oil - Hydraulic couplings: Part 2 made from bar stock",
+        "rank": 9,
+        "similarity": 0.2298
+      },
+      {
+        "standard_id": "IS_15274_2021",
+        "standard_number": "IS 15274:2021",
+        "title": "Tolerances for fasteners  Washers for bolts screws and nuts  Product grades A C and F  First Revision of IS 15274 ISO 4759-3 : 2016  ICS 2106030",
+        "rank": 10,
+        "similarity": 0.2158
+      },
+      {
+        "standard_id": "IS_9607_1980",
+        "standard_number": "IS 9607:1980",
+        "title": "Specification for tertiary level",
+        "rank": 11,
+        "similarity": 0.215
+      },
+      {
+        "standard_id": "IS_3512_1966",
+        "standard_number": "IS 3512:1966",
+        "title": "Specification for Toolmakers Straightedges",
+        "rank": 12,
+        "similarity": 0.215
+      },
+      {
+        "standard_id": "IS_4299_1982",
+        "standard_number": "IS 4299:1982",
+        "title": "Specification for jig feet  (First Revision)",
+        "rank": 13,
+        "similarity": 0.214
+      },
+      {
+        "standard_id": "IS_9783_1981",
+        "standard_number": "IS 9783:1981",
+        "title": "Nomenclature of parts for wrist watches",
+        "rank": 14,
+        "similarity": 0.2138
+      },
+      {
+        "standard_id": "IS_829_1978",
+        "standard_number": "IS 829:1978",
+        "title": "Specification for hockey sticks (Second Revision)",
+        "rank": 15,
+        "similarity": 0.2122
+      },
+      {
+        "standard_id": "IS_15276_2002",
+        "standard_number": "IS 15276:2002",
+        "title": "Metallic tube connections for fluid power and general use 24° cone connectors with o - Ring weld - On nipples",
+        "rank": 16,
+        "similarity": 0.2106
+      },
+      {
+        "standard_id": "IS_9085_1979",
+        "standard_number": "IS 9085:1979",
+        "title": "Specification for correction slide for mercury barometers",
+        "rank": 17,
+        "similarity": 0.2095
+      },
+      {
+        "standard_id": "IS_15448_PART_1_2018",
+        "standard_number": "IS 15448 (Part 1):2018",
+        "title": "Tools for pressing - Guide bushes: Part 1 forms  (First Revision)",
+        "rank": 18,
+        "similarity": 0.2074
+      },
+      {
+        "standard_id": "IS_15448_PART_9_2018",
+        "standard_number": "IS 15448 (Part 9):2018",
+        "title": "Tools for pressing - Guide bushes: Part 9 form B, ball cage bushes, plain, type 2  (First Revision)",
+        "rank": 19,
+        "similarity": 0.2046
+      },
+      {
+        "standard_id": "IS_15448_PART_3_2018",
+        "standard_number": "IS 15448 (Part 3):2018",
+        "title": "Tools for pressing - Guide bushes: Part 3 form B, ball cage bushes, plain, type 1  (First Revision)",
+        "rank": 20,
+        "similarity": 0.2024
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "rank": 21,
+        "similarity": 0.2023
+      },
+      {
+        "standard_id": "IS_15277_2002",
+        "standard_number": "IS 15277:2002",
+        "title": "Metallic tube connections for fluid power and general use test methods for threaded hydraulic fluid power connections",
+        "rank": 22,
+        "similarity": 0.2012
+      },
+      {
+        "standard_id": "IS_15448_PART_6_2018",
+        "standard_number": "IS 15448 (Part 6):2018",
+        "title": "Tools for pressing - Guide bushes: Part 6 form E, gliding bushes, flanged, type 1  (First Revision)",
+        "rank": 23,
+        "similarity": 0.2008
+      },
+      {
+        "standard_id": "IS_15448_PART_8_2018",
+        "standard_number": "IS 15448 (Part 8):2018",
+        "title": "Tools for pressing - Guide bushes: Part 8 form G, gliding bushes, stepped, type 1  (First Revision)",
+        "rank": 24,
+        "similarity": 0.2008
+      },
+      {
+        "standard_id": "IS_15448_PART_10_2018",
+        "standard_number": "IS 15448 (Part 10):2018",
+        "title": "Tools for pressing - Guide bushes: Part 10 form E, gliding bushes, flanged, type 2  (First Revision)",
+        "rank": 25,
+        "similarity": 0.2005
+      },
+      {
+        "standard_id": "IS_15448_PART_7_2018",
+        "standard_number": "IS 15448 (Part 7):2018",
+        "title": "Tools for pressing - Guide bushes: Part 7 form F, ball cage bushes, flanged, type 1  (First Revision)",
+        "rank": 26,
+        "similarity": 0.2001
+      },
+      {
+        "standard_id": "IS_15448_PART_4_2018",
+        "standard_number": "IS 15448 (Part 4):2018",
+        "title": "Tools for pressing - Guide bushes: Part 4 form C, gliding bushes, headed, type 1  (First Revision)",
+        "rank": 27,
+        "similarity": 0.1984
+      },
+      {
+        "standard_id": "IS_15448_PART_11_2018",
+        "standard_number": "IS 15448 (Part 11):2018",
+        "title": "Tools for pressing - Guide bushes: Part 11 form F, ball cage bushes, flanged, type 2  (First Revision)",
+        "rank": 28,
+        "similarity": 0.1972
+      },
+      {
+        "standard_id": "IS_15448_PART_2_2017",
+        "standard_number": "IS 15448 (Part 2):2017",
+        "title": "Tools for pressing - Guide bushes: Part 2 form A, gliding bushes, plain, type 1  (First Revision)",
+        "rank": 29,
+        "similarity": 0.1969
+      },
+      {
+        "standard_id": "IS_9746_PART_1_2021",
+        "standard_number": "IS 9746 (Part 1):2021",
+        "title": "Equal Cross Body for Oil Hydraulic  Coupling  Specification  Part 1 Made from Forgings",
+        "rank": 30,
+        "similarity": 0.1958
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 54,
+    "candidate_count": 54,
+    "results": [
+      {
+        "standard_id": "IS_9748_2025",
+        "standard_number": "IS 9748:2025",
+        "title": "Metallic Slide Fasteners (For Aviation Purpose) — Specification (first revision)",
+        "bm25_rank": 1,
+        "dense_rank": 2,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9748_1981",
+        "standard_number": "IS 9748:1981",
+        "title": "Specification for metallic slide fasteners (For Aviation Purposes)",
+        "bm25_rank": 2,
+        "dense_rank": 1,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3148_1991",
+        "standard_number": "IS 3148:1991",
+        "title": "Slide fasteners (General Purpose) (Fourth Revision)",
+        "bm25_rank": 3,
+        "dense_rank": null,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14181_PART_3_2002",
+        "standard_number": "IS 14181 (Part 3):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 3 test report formats",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14181_PART_2_2002",
+        "standard_number": "IS 14181 (Part 2):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 2 test and measurement methods",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14181_PART_1_2002",
+        "standard_number": "IS 14181 (Part 1):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 1 specification, selection and ordering guideline of the product  (First Revision)",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10844_1984",
+        "standard_number": "IS 10844:1984",
+        "title": "Glossary of terms relating to slide fasteners",
+        "bm25_rank": 7,
+        "dense_rank": null,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12397_1988",
+        "standard_number": "IS 12397:1988",
+        "title": "Specification for metallic dissectiong trays",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11152_1984",
+        "standard_number": "IS 11152:1984",
+        "title": "Specification for laboratory stands (Metallic)",
+        "bm25_rank": 9,
+        "dense_rank": null,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_9085_1979",
+        "standard_number": "IS 9085:1979",
+        "title": "Specification for correction slide for mercury barometers",
+        "bm25_rank": 10,
+        "dense_rank": 17,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11974_1987",
+        "standard_number": "IS 11974:1987",
+        "title": "Specification for badminton metallic racket frames",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_9722_1981",
+        "standard_number": "IS 9722:1981",
+        "title": "Dimensions for modular units for machine tool construction - Slide units",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10576_1983",
+        "standard_number": "IS 10576:1983",
+        "title": "Dimensions for modular units for machine tool construction - Wing bases for slide units",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10731_2000",
+        "standard_number": "IS 10731:2000",
+        "title": "Presses - Slide holes for locating the shanks - Dimensions  (First Revision)",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15277_2002",
+        "standard_number": "IS 15277:2002",
+        "title": "Metallic tube connections for fluid power and general use test methods for threaded hydraulic fluid power connections",
+        "bm25_rank": 15,
+        "dense_rank": 22,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "bm25_rank": 16,
+        "dense_rank": 21,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10238_2001",
+        "standard_number": "IS 10238:2001",
+        "title": "Fasteners - Threaded steel fasteners - Step bolts for steel structures - Specification  (First Revision)",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15276_2002",
+        "standard_number": "IS 15276:2002",
+        "title": "Metallic tube connections for fluid power and general use 24° cone connectors with o - Ring weld - On nipples",
+        "bm25_rank": 18,
+        "dense_rank": 16,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "bm25_rank": 19,
+        "dense_rank": null,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1367_PART_16_2002",
+        "standard_number": "IS 1367 (Part 16):2002",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 16 designation system for fasteners (Third Revision)",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_8227_PART_1_1988",
+        "standard_number": "IS 8227 (Part 1):1988",
+        "title": "Specification for fasteners, arch and clip for files: Part 1 arch fasteners  (First Revision)",
+        "bm25_rank": 21,
+        "dense_rank": null,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_8227_PART_2_1988",
+        "standard_number": "IS 8227 (Part 2):1988",
+        "title": "Specification for fasteners, arch and clip for files: Part 2 clip fasteners  (First Revision)",
+        "bm25_rank": 22,
+        "dense_rank": null,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1367_PART_14_SEC_3_2018",
+        "standard_number": "IS 1367 (Part 14/Sec 3):2018",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 14 mechanical properties of corrosion - Resistant stainless steel fasteners section 3 set screws and similar fasteners not under tensile stress (Fourth Revision",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1367_PART_5_2018",
+        "standard_number": "IS 1367 (Part 5):2018",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 5 mechanical properties of fasteners made of carbon steel and alloy steel - Set screws and similar threaded fasteners with specified hardness classes - Coarse thread and fine pitch thread (Fourth Revision)",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_8533_1977",
+        "standard_number": "IS 8533:1977",
+        "title": "General Purpose Carabiners for Mountaineering",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12427_2001",
+        "standard_number": "IS 12427:2001",
+        "title": "Fasteners - Threaded steel fasteners - Hexagon head transmission tower bolts - Specification  (First Revision)",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1367_PART_12_1981",
+        "standard_number": "IS 1367 (Part 12):1981",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 12 phosphate coatings on threaded fasteners (Second Revision)",
+        "bm25_rank": 27,
+        "dense_rank": null,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7002_2018",
+        "standard_number": "IS 7002:2018",
+        "title": "Prevailing torque type hexagon regular nuts (With Non - Metallic Insert) - Property classes 5, 8 and 10 (Third Revision)",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1367_PART_2_2002",
+        "standard_number": "IS 1367 (Part 2):2002",
+        "title": "Technical supply conditions for threaded steel fasteners: Part 2 tolerances for fasteners - Bolts, screws, studs and nuts - Product grades a, b and c (Third Revision)",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1367_PART_13_2020",
+        "standard_number": "IS 1367 (Part 13):2020",
+        "title": "Technical Supply Conditions for Threaded Steel Fasteners Part 13 Hot Dip Galvanized Coatings on Threaded Fasteners ( Third Revision )",
+        "bm25_rank": 30,
+        "dense_rank": null,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2998_1982",
+        "standard_number": "IS 2998:1982",
+        "title": "Specification for cold forged steel rivets for cold closing (1 To 16 mm Diameter)  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 3,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11107_1984",
+        "standard_number": "IS 11107:1984",
+        "title": "Dimensions for modular units for machine tool construction - Columns",
+        "bm25_rank": null,
+        "dense_rank": 4,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_5_2018",
+        "standard_number": "IS 15448 (Part 5):2018",
+        "title": "Tools for pressing - Guide bushes: Part 5 form D, ball cage bushes, headed, type 1  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9725_PART_1_1981",
+        "standard_number": "IS 9725 (Part 1):1981",
+        "title": "Specification for male stud tee body (Stud Branch) for oil - Hydraulic couplings: Part 1 made from forgings",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4278_1988",
+        "standard_number": "IS 4278:1988",
+        "title": "Specification for flexible shafts for speedometers and tachographs (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9608_1985",
+        "standard_number": "IS 9608:1985",
+        "title": "Specification for gauging members for go and no go screw plug gauges and screw check plug gauges for ISO metric screw threads (Size range above M40 up to and Including M120) (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9746_PART_2_1981",
+        "standard_number": "IS 9746 (Part 2):1981",
+        "title": "Specification for equal cross body for oil - Hydraulic couplings: Part 2 made from bar stock",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15274_2021",
+        "standard_number": "IS 15274:2021",
+        "title": "Tolerances for fasteners  Washers for bolts screws and nuts  Product grades A C and F  First Revision of IS 15274 ISO 4759-3 : 2016  ICS 2106030",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9607_1980",
+        "standard_number": "IS 9607:1980",
+        "title": "Specification for tertiary level",
+        "bm25_rank": null,
+        "dense_rank": 11,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3512_1966",
+        "standard_number": "IS 3512:1966",
+        "title": "Specification for Toolmakers Straightedges",
+        "bm25_rank": null,
+        "dense_rank": 12,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4299_1982",
+        "standard_number": "IS 4299:1982",
+        "title": "Specification for jig feet  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9783_1981",
+        "standard_number": "IS 9783:1981",
+        "title": "Nomenclature of parts for wrist watches",
+        "bm25_rank": null,
+        "dense_rank": 14,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_829_1978",
+        "standard_number": "IS 829:1978",
+        "title": "Specification for hockey sticks (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_1_2018",
+        "standard_number": "IS 15448 (Part 1):2018",
+        "title": "Tools for pressing - Guide bushes: Part 1 forms  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 18,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_9_2018",
+        "standard_number": "IS 15448 (Part 9):2018",
+        "title": "Tools for pressing - Guide bushes: Part 9 form B, ball cage bushes, plain, type 2  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_3_2018",
+        "standard_number": "IS 15448 (Part 3):2018",
+        "title": "Tools for pressing - Guide bushes: Part 3 form B, ball cage bushes, plain, type 1  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 20,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_6_2018",
+        "standard_number": "IS 15448 (Part 6):2018",
+        "title": "Tools for pressing - Guide bushes: Part 6 form E, gliding bushes, flanged, type 1  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_8_2018",
+        "standard_number": "IS 15448 (Part 8):2018",
+        "title": "Tools for pressing - Guide bushes: Part 8 form G, gliding bushes, stepped, type 1  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_10_2018",
+        "standard_number": "IS 15448 (Part 10):2018",
+        "title": "Tools for pressing - Guide bushes: Part 10 form E, gliding bushes, flanged, type 2  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_7_2018",
+        "standard_number": "IS 15448 (Part 7):2018",
+        "title": "Tools for pressing - Guide bushes: Part 7 form F, ball cage bushes, flanged, type 1  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 26,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_4_2018",
+        "standard_number": "IS 15448 (Part 4):2018",
+        "title": "Tools for pressing - Guide bushes: Part 4 form C, gliding bushes, headed, type 1  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_11_2018",
+        "standard_number": "IS 15448 (Part 11):2018",
+        "title": "Tools for pressing - Guide bushes: Part 11 form F, ball cage bushes, flanged, type 2  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15448_PART_2_2017",
+        "standard_number": "IS 15448 (Part 2):2017",
+        "title": "Tools for pressing - Guide bushes: Part 2 form A, gliding bushes, plain, type 1  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 53,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9746_PART_1_2021",
+        "standard_number": "IS 9746 (Part 1):2021",
+        "title": "Equal Cross Body for Oil Hydraulic  Coupling  Specification  Part 1 Made from Forgings",
+        "bm25_rank": null,
+        "dense_rank": 30,
+        "fusion_rank": 54,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_9748_1981",
+        "standard_number": "IS 9748:1981",
+        "title": "Specification for metallic slide fasteners (For Aviation Purposes)",
+        "pre_rerank_rank": 2,
+        "reranker_rank": 1,
+        "reranker_score": 0.7003,
+        "rank_change": 1
+      },
+      {
+        "standard_id": "IS_9748_2025",
+        "standard_number": "IS 9748:2025",
+        "title": "Metallic Slide Fasteners (For Aviation Purpose) — Specification (first revision)",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 2,
+        "reranker_score": 0.692,
+        "rank_change": -1
+      },
+      {
+        "standard_id": "IS_14181_PART_3_2002",
+        "standard_number": "IS 14181 (Part 3):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 3 test report formats",
+        "pre_rerank_rank": 4,
+        "reranker_rank": 3,
+        "reranker_score": 0.5375,
+        "rank_change": 1
+      },
+      {
+        "standard_id": "IS_3148_1991",
+        "standard_number": "IS 3148:1991",
+        "title": "Slide fasteners (General Purpose) (Fourth Revision)",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 4,
+        "reranker_score": 0.5,
+        "rank_change": -1
+      },
+      {
+        "standard_id": "IS_14181_PART_2_2002",
+        "standard_number": "IS 14181 (Part 2):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 2 test and measurement methods",
+        "pre_rerank_rank": 5,
+        "reranker_rank": 5,
+        "reranker_score": 0.5,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_14181_PART_1_2002",
+        "standard_number": "IS 14181 (Part 1):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 1 specification, selection and ordering guideline of the product  (First Revision)",
+        "pre_rerank_rank": 6,
+        "reranker_rank": 6,
+        "reranker_score": 0.5,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_10844_1984",
+        "standard_number": "IS 10844:1984",
+        "title": "Glossary of terms relating to slide fasteners",
+        "pre_rerank_rank": 7,
+        "reranker_rank": 7,
+        "reranker_score": 0.4502,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_9085_1979",
+        "standard_number": "IS 9085:1979",
+        "title": "Specification for correction slide for mercury barometers",
+        "pre_rerank_rank": 10,
+        "reranker_rank": 8,
+        "reranker_score": 0.4356,
+        "rank_change": 2
+      },
+      {
+        "standard_id": "IS_15277_2002",
+        "standard_number": "IS 15277:2002",
+        "title": "Metallic tube connections for fluid power and general use test methods for threaded hydraulic fluid power connections",
+        "pre_rerank_rank": 15,
+        "reranker_rank": 9,
+        "reranker_score": 0.41,
+        "rank_change": 6
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "pre_rerank_rank": 16,
+        "reranker_rank": 10,
+        "reranker_score": 0.4054,
+        "rank_change": 6
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_9748_1981",
+        "standard_number": "IS 9748:1981",
+        "title": "Specification for metallic slide fasteners (For Aviation Purposes)",
+        "semantic_similarity": 51.7,
+        "lexical_relevance": 100.0,
+        "product_match": 95.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 57.4,
+        "calibrated_score": 57.4,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_9748_2025",
+        "standard_number": "IS 9748:2025",
+        "title": "Metallic Slide Fasteners (For Aviation Purpose) — Specification (first revision)",
+        "semantic_similarity": 50.4,
+        "lexical_relevance": 100.0,
+        "product_match": 95.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 56.9,
+        "calibrated_score": 56.9,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_14181_PART_3_2002",
+        "standard_number": "IS 14181 (Part 3):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 3 test report formats",
+        "semantic_similarity": 26.9,
+        "lexical_relevance": 98.8,
+        "product_match": 76.7,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 45.7,
+        "calibrated_score": 45.7,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_3148_1991",
+        "standard_number": "IS 3148:1991",
+        "title": "Slide fasteners (General Purpose) (Fourth Revision)",
+        "semantic_similarity": 25.0,
+        "lexical_relevance": 100.0,
+        "product_match": 67.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 43.9,
+        "calibrated_score": 43.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_14181_PART_2_2002",
+        "standard_number": "IS 14181 (Part 2):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 2 test and measurement methods",
+        "semantic_similarity": 25.0,
+        "lexical_relevance": 97.8,
+        "product_match": 67.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 43.5,
+        "calibrated_score": 43.5,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_14181_PART_1_2002",
+        "standard_number": "IS 14181 (Part 1):2002",
+        "title": "Synthetic (Plastic) slide fasteners - Special purpose: Part 1 specification, selection and ordering guideline of the product  (First Revision)",
+        "semantic_similarity": 25.0,
+        "lexical_relevance": 91.8,
+        "product_match": 67.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 42.7,
+        "calibrated_score": 42.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_10844_1984",
+        "standard_number": "IS 10844:1984",
+        "title": "Glossary of terms relating to slide fasteners",
+        "semantic_similarity": 22.5,
+        "lexical_relevance": 77.2,
+        "product_match": 58.3,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 38.2,
+        "calibrated_score": 38.2,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_9085_1979",
+        "standard_number": "IS 9085:1979",
+        "title": "Specification for correction slide for mercury barometers",
+        "semantic_similarity": 32.3,
+        "lexical_relevance": 52.3,
+        "product_match": 58.3,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 37.9,
+        "calibrated_score": 37.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15277_2002",
+        "standard_number": "IS 15277:2002",
+        "title": "Metallic tube connections for fluid power and general use test methods for threaded hydraulic fluid power connections",
+        "semantic_similarity": 30.6,
+        "lexical_relevance": 47.3,
+        "product_match": 58.3,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 36.5,
+        "calibrated_score": 36.5,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "semantic_similarity": 30.4,
+        "lexical_relevance": 46.1,
+        "product_match": 58.3,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 36.3,
+        "calibrated_score": 36.3,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "match_level": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "is_abstained": false,
+    "abstention_reason": null,
+    "top_score": 57.4,
+    "second_best_score": 56.9,
+    "score_margin": 0.5,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_FAILURE_OBSERVED",
+    "diagnostic_flags": [
+      "SMALL_SCORE_MARGIN"
+    ]
+  },
+  "timing": {
+    "extraction_ms": 0.04,
+    "bm25_ms": 2.91,
+    "dense_ms": 4.37,
+    "fusion_ms": 0.73,
+    "reranker_ms": 0.26,
+    "applicability_ms": 0.64,
+    "decision_ms": 0.02,
+    "total_ms": 10.73
+  }
+}

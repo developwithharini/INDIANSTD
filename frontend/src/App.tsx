@@ -1,4 +1,8 @@
 import React, { useState } from 'react';
+import { LanguageProvider } from './i18n/LanguageContext';
+import { Header } from './components/Header';
+import { CinematicHero } from './components/cinematic/CinematicHero';
+import { ScrollStory } from './components/cinematic/ScrollStory';
 import { InputSection } from './components/InputSection';
 import { ProcessingState } from './components/ProcessingState';
 import { ResultsView } from './components/ResultsView';
@@ -7,7 +11,7 @@ import { AnalysisResponse } from './types';
 
 type UIState = 'INPUT' | 'PROCESSING' | 'RESULTS';
 
-export function App() {
+export function AppContent() {
   const [uiState, setUiState] = useState<UIState>('INPUT');
   const [analysisData, setAnalysisData] = useState<AnalysisResponse | null>(null);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
@@ -39,48 +43,65 @@ export function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-900 font-sans p-4 md:p-8">
-      {/* Top Brand Navbar */}
-      <header className="max-w-4xl mx-auto flex items-center justify-between pb-6 mb-4 border-b border-slate-200">
-        <div className="flex items-center gap-3">
-          <div className="w-7 h-7 rounded bg-navy-900 text-white font-mono font-bold text-xs flex items-center justify-center">
-            M
-          </div>
-          <div>
-            <span className="text-sm font-bold text-navy-900 tracking-tight font-mono">MANAK</span>
-            <span className="text-xs text-slate-500 block">Indian Standards Recommendation Engine</span>
-          </div>
-        </div>
-        <div className="text-xs font-mono text-slate-400">
-          v1.0 • BIS Corpus Snapshot
-        </div>
-      </header>
+    <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
+      {/* Top Brand Navbar with Language Selector */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 pt-4">
+        <Header />
+      </div>
 
       {/* Main Content Area */}
-      <main className="max-w-4xl mx-auto">
+      <main className="w-full">
         {errorMsg && (
-          <div className="mb-6 bg-red-50 border border-red-200 text-red-800 rounded-lg p-4 text-xs font-mono flex items-center justify-between">
+          <div className="max-w-4xl mx-auto my-4 bg-red-50 border border-red-200 text-red-800 rounded-lg p-4 text-xs font-mono flex items-center justify-between">
             <span>⚠ {errorMsg}</span>
             <button onClick={() => setErrorMsg(null)} className="font-bold">✕</button>
           </div>
         )}
 
-        {uiState === 'INPUT' && <InputSection onAnalyze={handleAnalyze} />}
-        {uiState === 'PROCESSING' && <ProcessingState />}
+        {uiState === 'INPUT' && (
+          <div className="space-y-8 pb-12">
+            <CinematicHero
+              onAnalyze={(text) => handleAnalyze(text)}
+              onFileUpload={(file) => handleAnalyze(undefined, undefined, file)}
+              isLoading={false}
+            />
+            <div className="max-w-4xl mx-auto px-4 sm:px-6">
+              <InputSection onAnalyze={handleAnalyze} />
+            </div>
+            <ScrollStory />
+          </div>
+        )}
+
+        {uiState === 'PROCESSING' && (
+          <div className="max-w-4xl mx-auto py-12 px-4">
+            <ProcessingState />
+          </div>
+        )}
+
         {uiState === 'RESULTS' && analysisData && (
-          <ResultsView
-            data={analysisData}
-            onNewAnalysis={handleNewAnalysis}
-            onRefine={handleRefine}
-          />
+          <div className="max-w-6xl mx-auto py-8 px-4">
+            <ResultsView
+              data={analysisData}
+              onNewAnalysis={handleNewAnalysis}
+              onRefine={handleRefine}
+            />
+          </div>
         )}
       </main>
 
       {/* Quiet Technical Footer */}
-      <footer className="max-w-4xl mx-auto mt-16 pt-6 border-t border-slate-200 text-center text-xs font-mono text-slate-400">
-        MANAK Procurement Workspace • Hybrid Lexical + Dense Standards Search
+      <footer className="max-w-7xl mx-auto py-8 px-4 border-t border-slate-200 text-center text-xs font-mono text-slate-400">
+        MANAK Procurement Workspace • Department of Consumer Affairs (DoCA) • Bureau of Indian Standards (BIS)
       </footer>
     </div>
+  );
+}
+
+export function App() {
+  return (
+    <LanguageProvider>
+      <AppContent />
+    </LanguageProvider>
   );
 }
 

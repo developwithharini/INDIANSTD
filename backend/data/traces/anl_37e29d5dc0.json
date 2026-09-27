@@ -1,0 +1,1574 @@
+{
+  "analysis_id": "anl_37e29d5dc0",
+  "query": "Gymnastic Landing Mats for Sports Facilities",
+  "normalized_query": "Gymnastic Landing Mats for Sports Facilities",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T17:49:12.883772",
+  "requirement_extraction": {
+    "original_query": "Gymnastic Landing Mats for Sports Facilities",
+    "normalized_query": "Gymnastic Landing Mats for Sports Facilities",
+    "language": "English",
+    "product": "Gymnastic Landing Mats for Sports Facilities",
+    "category": "General Goods",
+    "domain": "General Goods",
+    "application": "Gymnastic Landing Mats for Sports Facilities",
+    "environment": "General",
+    "materials": [],
+    "attributes": [],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_19597_2026",
+        "standard_number": "IS 19597:2026",
+        "title": "Landing Mats used in Gymnastics - Specification",
+        "rank": 1,
+        "score": 33.0259,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6974_1973",
+        "standard_number": "IS 6974:1973",
+        "title": "Specification for abdomen guards for sports use",
+        "rank": 2,
+        "score": 16.7583,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3345_1989",
+        "standard_number": "IS 3345:1989",
+        "title": "Sports nets - Specification (First Revision)",
+        "rank": 3,
+        "score": 15.5826,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11379_1985",
+        "standard_number": "IS 11379:1985",
+        "title": "Specification for wrenches for retaining screw for milling arbor",
+        "rank": 4,
+        "score": 1.7793,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10362_1982",
+        "standard_number": "IS 10362:1982",
+        "title": "Dimensions for threads for back cover and bezel for watch cases",
+        "rank": 5,
+        "score": 1.7676,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10363_1982",
+        "standard_number": "IS 10363:1982",
+        "title": "Dimensions for fixing devices for threaded back covers for watch cases",
+        "rank": 6,
+        "score": 1.7676,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10188_1982",
+        "standard_number": "IS 10188:1982",
+        "title": "Dimensions for modular units for machine tool construction - Wing bases for columns",
+        "rank": 7,
+        "score": 1.7561,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15247_2002",
+        "standard_number": "IS 15247:2002",
+        "title": "7/24 tapers for tool shanks for automatic changing - Tapers for spindle noses",
+        "rank": 8,
+        "score": 1.7447,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10576_1983",
+        "standard_number": "IS 10576:1983",
+        "title": "Dimensions for modular units for machine tool construction - Wing bases for slide units",
+        "rank": 9,
+        "score": 1.7447,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10365_1982",
+        "standard_number": "IS 10365:1982",
+        "title": "Dimensions for packing ring and housing for back cover joint for watch cases",
+        "rank": 10,
+        "score": 1.7447,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6681_1972",
+        "standard_number": "IS 6681:1972",
+        "title": "Dimensions for self-release 7/24 tapers for spindle noses for milling machines",
+        "rank": 11,
+        "score": 1.7447,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12470_1988",
+        "standard_number": "IS 12470:1988",
+        "title": "Specification for square drive extension for hexagon insert bits for power socket wrenches",
+        "rank": 12,
+        "score": 1.7335,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12153_1987",
+        "standard_number": "IS 12153:1987",
+        "title": "Specification for adapters for hexagonal insert bits for use with ratchet screw drivers",
+        "rank": 13,
+        "score": 1.7335,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10410_1983",
+        "standard_number": "IS 10410:1983",
+        "title": "Specification for lock nuts for bulk head coupling assembly for oil - Hydraulic systems",
+        "rank": 14,
+        "score": 1.7335,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15836_PART_1_2008",
+        "standard_number": "IS 15836 (Part 1):2008",
+        "title": "Ergonomic design for the safety of machinery: Part 1 principles for determining the dimensions required for openings for whole - Body access into machinery",
+        "rank": 15,
+        "score": 1.7335,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12476_1988",
+        "standard_number": "IS 12476:1988",
+        "title": "Specification for hexagon drive extensions (Adaptors) for hexagon insert bits for power socket wrenches",
+        "rank": 16,
+        "score": 1.7225,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16898_PART_4_2018",
+        "standard_number": "IS 16898 (Part 4):2018",
+        "title": "Basic principles for graphical symbols for use on equipment: Part 4 guidelines for the adaptation of graphical symbols for use on screens and displays (Icons)",
+        "rank": 17,
+        "score": 1.7088,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11846_1987",
+        "standard_number": "IS 11846:1987",
+        "title": "Dimensions for modular units for machine tool construction - Tenon drive and flanges for mounting multi - Spindle heads",
+        "rank": 18,
+        "score": 1.7008,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12481_1988",
+        "standard_number": "IS 12481:1988",
+        "title": "Specification for hexagonal insert bits for hexagon socket head cap screws and hexagon socket set screws for power tools",
+        "rank": 19,
+        "score": 1.6692,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12412_1988",
+        "standard_number": "IS 12412:1988",
+        "title": "Specification for screw driver bits for the use with ratchet screw drivers: Part 2 for cross recessed head screws",
+        "rank": 20,
+        "score": 1.6692,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4966_PART_1_1969",
+        "standard_number": "IS 4966 (Part 1):1969",
+        "title": "Specification for gauges for serrations: Part 1 for gauging external serrations",
+        "rank": 21,
+        "score": 1.6692,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4966_PART_2_1969",
+        "standard_number": "IS 4966 (Part 2):1969",
+        "title": "Specification for gauges for serrations: Part 2 for gauging internal serrations",
+        "rank": 22,
+        "score": 1.6692,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7859_1975",
+        "standard_number": "IS 7859:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for inside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "rank": 23,
+        "score": 1.659,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7876_1975",
+        "standard_number": "IS 7876:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for outside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "rank": 24,
+        "score": 1.659,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "rank": 25,
+        "score": 1.6469,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12168_PART_1_1987",
+        "standard_number": "IS 12168 (Part 1):1987",
+        "title": "Specification for screwdriver bits for use with ratchet screwdrivers: Part 1 for slotted head screws",
+        "rank": 26,
+        "score": 1.6289,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_844_PART_3_1979",
+        "standard_number": "IS 844 (Part 3):1979",
+        "title": "Specification for screw drivers: Part 3 dimensions for screw drivers for recessed head screws (Second Revision)",
+        "rank": 27,
+        "score": 1.6191,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16898_PART_1_2023",
+        "standard_number": "IS 16898 (Part 1):2023",
+        "title": "Basic Principles for Graphical Symbols for Use on Equipment Part 1: Creation of Graphical Symbols for Registration",
+        "rank": 28,
+        "score": 1.6095,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17791_PART_6_2022",
+        "standard_number": "IS 17791 (Part 6):2022",
+        "title": "Protective equipment for martial arts: Part 6: Additional requirements and test methods for breast protectors for females",
+        "rank": 29,
+        "score": 1.6095,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15836_PART_2_2008",
+        "standard_number": "IS 15836 (Part 2):2008",
+        "title": "Ergonomic design for the safety of machinery: Part 2 principles for determining the dimensions required for access openings",
+        "rank": 30,
+        "score": 1.6095,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_15091_PART_1_2002",
+        "standard_number": "IS 15091 (Part 1):2002",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 1 Dimensions of inserts without fixing hole",
+        "rank": 1,
+        "similarity": 0.2722
+      },
+      {
+        "standard_id": "IS_7214_1974",
+        "standard_number": "IS 7214:1974",
+        "title": "Specification for driving squares for hand socket wrenches",
+        "rank": 2,
+        "similarity": 0.2717
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "rank": 3,
+        "similarity": 0.271
+      },
+      {
+        "standard_id": "IS_16754_2018",
+        "standard_number": "IS 16754:2018",
+        "title": "Technical Drawings -- Construction drawings -- General rules for execution of production drawings for prefabricated structural components",
+        "rank": 4,
+        "similarity": 0.2604
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "rank": 5,
+        "similarity": 0.2433
+      },
+      {
+        "standard_id": "IS_16898_PART_3_2023",
+        "standard_number": "IS 16898 (Part 3):2023",
+        "title": "Basic Principles for Graphical Symbols for Use on Equipment Part 3 : Guidelines For The Application of Graphical Symbols",
+        "rank": 6,
+        "similarity": 0.2324
+      },
+      {
+        "standard_id": "IS_4914_1983",
+        "standard_number": "IS 4914:1983",
+        "title": "Specification for tap wrenches adjustable (first revision)",
+        "rank": 7,
+        "similarity": 0.2268
+      },
+      {
+        "standard_id": "IS_9090_1979",
+        "standard_number": "IS 9090:1979",
+        "title": "Specification for tent poles for mountaineering",
+        "rank": 8,
+        "similarity": 0.2232
+      },
+      {
+        "standard_id": "IS_16615_2018",
+        "standard_number": "IS 16615:2018",
+        "title": "Technical Drawings -- Construction drawings -- Drawings for the assembly of prefabricated structures",
+        "rank": 9,
+        "similarity": 0.2147
+      },
+      {
+        "standard_id": "IS_6687_2002",
+        "standard_number": "IS 6687:2002",
+        "title": "Code of practice for selection, storage, installation and maintenance of conveyor belting  (First Revision)",
+        "rank": 10,
+        "similarity": 0.2064
+      },
+      {
+        "standard_id": "IS_10574_1983",
+        "standard_number": "IS 10574:1983",
+        "title": "Specification for clamp buttons to be used with parallel sided clamp plates",
+        "rank": 11,
+        "similarity": 0.1962
+      },
+      {
+        "standard_id": "IS_10715_PART_3_2023",
+        "standard_number": "IS 10715 (Part 3):2023",
+        "title": "Technical drawings -- Screw threads and threaded parts: Part 3 Simplified representation (First Revision)",
+        "rank": 12,
+        "similarity": 0.1932
+      },
+      {
+        "standard_id": "IS_11325_1985",
+        "standard_number": "IS 11325:1985",
+        "title": "Specification for adjustable clamp support",
+        "rank": 13,
+        "similarity": 0.1928
+      },
+      {
+        "standard_id": "IS_11950_1987",
+        "standard_number": "IS 11950:1987",
+        "title": "Specification for tool adaptors for numerically controlled machine tools (Tool stationary type)",
+        "rank": 14,
+        "similarity": 0.1886
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "rank": 15,
+        "similarity": 0.1885
+      },
+      {
+        "standard_id": "IS_14412_1996",
+        "standard_number": "IS 14412:1996",
+        "title": "Technical drawings -- Indication for revision of drawings",
+        "rank": 16,
+        "similarity": 0.1883
+      },
+      {
+        "standard_id": "IS_8841_1978",
+        "standard_number": "IS 8841:1978",
+        "title": "Recommendations for limits and flTs for sizes above 3 i50 mm up to io 000 mm",
+        "rank": 17,
+        "similarity": 0.1862
+      },
+      {
+        "standard_id": "IS_8722_1978",
+        "standard_number": "IS 8722:1978",
+        "title": "Specification for fish bolts with square head",
+        "rank": 18,
+        "similarity": 0.1808
+      },
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "rank": 19,
+        "similarity": 0.1801
+      },
+      {
+        "standard_id": "IS_12116_PART_1_1987",
+        "standard_number": "IS 12116 (Part 1):1987",
+        "title": "Specification for hexagon head taper plugs for oil hydraulic systems: Part 1 made from forgings",
+        "rank": 20,
+        "similarity": 0.1773
+      },
+      {
+        "standard_id": "IS_11670_1993",
+        "standard_number": "IS 11670:1993",
+        "title": "Technical drawings -- Abbreviations and symbols for use in technical drawings  (First Revision)",
+        "rank": 21,
+        "similarity": 0.1745
+      },
+      {
+        "standard_id": "IS_10713_1983",
+        "standard_number": "IS 10713:1983",
+        "title": "Scales for use on technical drawings (ISO Title : Technical Drawings -- Scales)",
+        "rank": 22,
+        "similarity": 0.1727
+      },
+      {
+        "standard_id": "IS_10685_1983",
+        "standard_number": "IS 10685:1983",
+        "title": "Specification for gauging members for go and no go screw plug gauges and screw check plug gauges for ISO metric screw threads (Size Range Above M120 up to and including M200)",
+        "rank": 23,
+        "similarity": 0.1725
+      },
+      {
+        "standard_id": "IS_3216_1989",
+        "standard_number": "IS 3216:1989",
+        "title": "Engineers Drawing Instruments, Needles - Specification ( First Revision )",
+        "rank": 24,
+        "similarity": 0.1722
+      },
+      {
+        "standard_id": "IS_9897_2024",
+        "standard_number": "IS 9897:2024",
+        "title": "Indexable inserts for cutting tools - Designation (fourth revision)",
+        "rank": 25,
+        "similarity": 0.1722
+      },
+      {
+        "standard_id": "IS_7684_1975",
+        "standard_number": "IS 7684:1975",
+        "title": "LIMITS OF SIZES FOR ISO METRIC TRAPEZOIDAL NUT THREADS DIAMETER RANGE 8 TO 100  mm",
+        "rank": 26,
+        "similarity": 0.1706
+      },
+      {
+        "standard_id": "IS_6730_1972",
+        "standard_number": "IS 6730:1972",
+        "title": "Specification for felt nails",
+        "rank": 27,
+        "similarity": 0.1704
+      },
+      {
+        "standard_id": "IS_2063_PART_3_2023",
+        "standard_number": "IS 2063 (Part 3):2023",
+        "title": "Test code for machine tools  Part 3 : Determination of thermal effects",
+        "rank": 28,
+        "similarity": 0.1703
+      },
+      {
+        "standard_id": "IS_15093_2002",
+        "standard_number": "IS 15093:2002",
+        "title": "Construction drawings -- Spaces for drawing and for text, and title blocks on drawing sheets",
+        "rank": 29,
+        "similarity": 0.1676
+      },
+      {
+        "standard_id": "IS_15503_PART_3_2023",
+        "standard_number": "IS 15503 (Part 3):2023",
+        "title": "Graphical symbols  Test methods  Part 3 : Method for testing symbol referent association",
+        "rank": 30,
+        "similarity": 0.1671
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 60,
+    "candidate_count": 60,
+    "results": [
+      {
+        "standard_id": "IS_19597_2026",
+        "standard_number": "IS 19597:2026",
+        "title": "Landing Mats used in Gymnastics - Specification",
+        "bm25_rank": 1,
+        "dense_rank": null,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_6974_1973",
+        "standard_number": "IS 6974:1973",
+        "title": "Specification for abdomen guards for sports use",
+        "bm25_rank": 2,
+        "dense_rank": null,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3345_1989",
+        "standard_number": "IS 3345:1989",
+        "title": "Sports nets - Specification (First Revision)",
+        "bm25_rank": 3,
+        "dense_rank": null,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11379_1985",
+        "standard_number": "IS 11379:1985",
+        "title": "Specification for wrenches for retaining screw for milling arbor",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10362_1982",
+        "standard_number": "IS 10362:1982",
+        "title": "Dimensions for threads for back cover and bezel for watch cases",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10363_1982",
+        "standard_number": "IS 10363:1982",
+        "title": "Dimensions for fixing devices for threaded back covers for watch cases",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10188_1982",
+        "standard_number": "IS 10188:1982",
+        "title": "Dimensions for modular units for machine tool construction - Wing bases for columns",
+        "bm25_rank": 7,
+        "dense_rank": null,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15247_2002",
+        "standard_number": "IS 15247:2002",
+        "title": "7/24 tapers for tool shanks for automatic changing - Tapers for spindle noses",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10576_1983",
+        "standard_number": "IS 10576:1983",
+        "title": "Dimensions for modular units for machine tool construction - Wing bases for slide units",
+        "bm25_rank": 9,
+        "dense_rank": null,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10365_1982",
+        "standard_number": "IS 10365:1982",
+        "title": "Dimensions for packing ring and housing for back cover joint for watch cases",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_6681_1972",
+        "standard_number": "IS 6681:1972",
+        "title": "Dimensions for self-release 7/24 tapers for spindle noses for milling machines",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12470_1988",
+        "standard_number": "IS 12470:1988",
+        "title": "Specification for square drive extension for hexagon insert bits for power socket wrenches",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12153_1987",
+        "standard_number": "IS 12153:1987",
+        "title": "Specification for adapters for hexagonal insert bits for use with ratchet screw drivers",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10410_1983",
+        "standard_number": "IS 10410:1983",
+        "title": "Specification for lock nuts for bulk head coupling assembly for oil - Hydraulic systems",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15836_PART_1_2008",
+        "standard_number": "IS 15836 (Part 1):2008",
+        "title": "Ergonomic design for the safety of machinery: Part 1 principles for determining the dimensions required for openings for whole - Body access into machinery",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12476_1988",
+        "standard_number": "IS 12476:1988",
+        "title": "Specification for hexagon drive extensions (Adaptors) for hexagon insert bits for power socket wrenches",
+        "bm25_rank": 16,
+        "dense_rank": null,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16898_PART_4_2018",
+        "standard_number": "IS 16898 (Part 4):2018",
+        "title": "Basic principles for graphical symbols for use on equipment: Part 4 guidelines for the adaptation of graphical symbols for use on screens and displays (Icons)",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11846_1987",
+        "standard_number": "IS 11846:1987",
+        "title": "Dimensions for modular units for machine tool construction - Tenon drive and flanges for mounting multi - Spindle heads",
+        "bm25_rank": 18,
+        "dense_rank": null,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12481_1988",
+        "standard_number": "IS 12481:1988",
+        "title": "Specification for hexagonal insert bits for hexagon socket head cap screws and hexagon socket set screws for power tools",
+        "bm25_rank": 19,
+        "dense_rank": null,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12412_1988",
+        "standard_number": "IS 12412:1988",
+        "title": "Specification for screw driver bits for the use with ratchet screw drivers: Part 2 for cross recessed head screws",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4966_PART_1_1969",
+        "standard_number": "IS 4966 (Part 1):1969",
+        "title": "Specification for gauges for serrations: Part 1 for gauging external serrations",
+        "bm25_rank": 21,
+        "dense_rank": null,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4966_PART_2_1969",
+        "standard_number": "IS 4966 (Part 2):1969",
+        "title": "Specification for gauges for serrations: Part 2 for gauging internal serrations",
+        "bm25_rank": 22,
+        "dense_rank": null,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7859_1975",
+        "standard_number": "IS 7859:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for inside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7876_1975",
+        "standard_number": "IS 7876:1975",
+        "title": "Gauge allowances and manufacturing tolerances for plain gauges for outside measurements for ISO fit sizes (Nominal Size Up To 500 mm)",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12168_PART_1_1987",
+        "standard_number": "IS 12168 (Part 1):1987",
+        "title": "Specification for screwdriver bits for use with ratchet screwdrivers: Part 1 for slotted head screws",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_844_PART_3_1979",
+        "standard_number": "IS 844 (Part 3):1979",
+        "title": "Specification for screw drivers: Part 3 dimensions for screw drivers for recessed head screws (Second Revision)",
+        "bm25_rank": 27,
+        "dense_rank": null,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16898_PART_1_2023",
+        "standard_number": "IS 16898 (Part 1):2023",
+        "title": "Basic Principles for Graphical Symbols for Use on Equipment Part 1: Creation of Graphical Symbols for Registration",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17791_PART_6_2022",
+        "standard_number": "IS 17791 (Part 6):2022",
+        "title": "Protective equipment for martial arts: Part 6: Additional requirements and test methods for breast protectors for females",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15836_PART_2_2008",
+        "standard_number": "IS 15836 (Part 2):2008",
+        "title": "Ergonomic design for the safety of machinery: Part 2 principles for determining the dimensions required for access openings",
+        "bm25_rank": 30,
+        "dense_rank": null,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15091_PART_1_2002",
+        "standard_number": "IS 15091 (Part 1):2002",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 1 Dimensions of inserts without fixing hole",
+        "bm25_rank": null,
+        "dense_rank": 1,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7214_1974",
+        "standard_number": "IS 7214:1974",
+        "title": "Specification for driving squares for hand socket wrenches",
+        "bm25_rank": null,
+        "dense_rank": 2,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "bm25_rank": null,
+        "dense_rank": 3,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16754_2018",
+        "standard_number": "IS 16754:2018",
+        "title": "Technical Drawings -- Construction drawings -- General rules for execution of production drawings for prefabricated structural components",
+        "bm25_rank": null,
+        "dense_rank": 4,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16898_PART_3_2023",
+        "standard_number": "IS 16898 (Part 3):2023",
+        "title": "Basic Principles for Graphical Symbols for Use on Equipment Part 3 : Guidelines For The Application of Graphical Symbols",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4914_1983",
+        "standard_number": "IS 4914:1983",
+        "title": "Specification for tap wrenches adjustable (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9090_1979",
+        "standard_number": "IS 9090:1979",
+        "title": "Specification for tent poles for mountaineering",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16615_2018",
+        "standard_number": "IS 16615:2018",
+        "title": "Technical Drawings -- Construction drawings -- Drawings for the assembly of prefabricated structures",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6687_2002",
+        "standard_number": "IS 6687:2002",
+        "title": "Code of practice for selection, storage, installation and maintenance of conveyor belting  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10574_1983",
+        "standard_number": "IS 10574:1983",
+        "title": "Specification for clamp buttons to be used with parallel sided clamp plates",
+        "bm25_rank": null,
+        "dense_rank": 11,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10715_PART_3_2023",
+        "standard_number": "IS 10715 (Part 3):2023",
+        "title": "Technical drawings -- Screw threads and threaded parts: Part 3 Simplified representation (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 12,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11325_1985",
+        "standard_number": "IS 11325:1985",
+        "title": "Specification for adjustable clamp support",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11950_1987",
+        "standard_number": "IS 11950:1987",
+        "title": "Specification for tool adaptors for numerically controlled machine tools (Tool stationary type)",
+        "bm25_rank": null,
+        "dense_rank": 14,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14412_1996",
+        "standard_number": "IS 14412:1996",
+        "title": "Technical drawings -- Indication for revision of drawings",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8841_1978",
+        "standard_number": "IS 8841:1978",
+        "title": "Recommendations for limits and flTs for sizes above 3 i50 mm up to io 000 mm",
+        "bm25_rank": null,
+        "dense_rank": 17,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8722_1978",
+        "standard_number": "IS 8722:1978",
+        "title": "Specification for fish bolts with square head",
+        "bm25_rank": null,
+        "dense_rank": 18,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_12116_PART_1_1987",
+        "standard_number": "IS 12116 (Part 1):1987",
+        "title": "Specification for hexagon head taper plugs for oil hydraulic systems: Part 1 made from forgings",
+        "bm25_rank": null,
+        "dense_rank": 20,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11670_1993",
+        "standard_number": "IS 11670:1993",
+        "title": "Technical drawings -- Abbreviations and symbols for use in technical drawings  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10713_1983",
+        "standard_number": "IS 10713:1983",
+        "title": "Scales for use on technical drawings (ISO Title : Technical Drawings -- Scales)",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10685_1983",
+        "standard_number": "IS 10685:1983",
+        "title": "Specification for gauging members for go and no go screw plug gauges and screw check plug gauges for ISO metric screw threads (Size Range Above M120 up to and including M200)",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 53,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3216_1989",
+        "standard_number": "IS 3216:1989",
+        "title": "Engineers Drawing Instruments, Needles - Specification ( First Revision )",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 54,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9897_2024",
+        "standard_number": "IS 9897:2024",
+        "title": "Indexable inserts for cutting tools - Designation (fourth revision)",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 55,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7684_1975",
+        "standard_number": "IS 7684:1975",
+        "title": "LIMITS OF SIZES FOR ISO METRIC TRAPEZOIDAL NUT THREADS DIAMETER RANGE 8 TO 100  mm",
+        "bm25_rank": null,
+        "dense_rank": 26,
+        "fusion_rank": 56,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6730_1972",
+        "standard_number": "IS 6730:1972",
+        "title": "Specification for felt nails",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 57,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2063_PART_3_2023",
+        "standard_number": "IS 2063 (Part 3):2023",
+        "title": "Test code for machine tools  Part 3 : Determination of thermal effects",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 58,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15093_2002",
+        "standard_number": "IS 15093:2002",
+        "title": "Construction drawings -- Spaces for drawing and for text, and title blocks on drawing sheets",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 59,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15503_PART_3_2023",
+        "standard_number": "IS 15503 (Part 3):2023",
+        "title": "Graphical symbols  Test methods  Part 3 : Method for testing symbol referent association",
+        "bm25_rank": null,
+        "dense_rank": 30,
+        "fusion_rank": 60,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_19597_2026",
+        "standard_number": "IS 19597:2026",
+        "title": "Landing Mats used in Gymnastics - Specification",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 1,
+        "reranker_score": 0.5,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_6974_1973",
+        "standard_number": "IS 6974:1973",
+        "title": "Specification for abdomen guards for sports use",
+        "pre_rerank_rank": 2,
+        "reranker_rank": 2,
+        "reranker_score": 0.4058,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_3345_1989",
+        "standard_number": "IS 3345:1989",
+        "title": "Sports nets - Specification (First Revision)",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 3,
+        "reranker_score": 0.3477,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_15091_PART_1_2002",
+        "standard_number": "IS 15091 (Part 1):2002",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 1 Dimensions of inserts without fixing hole",
+        "pre_rerank_rank": 31,
+        "reranker_rank": 4,
+        "reranker_score": 0.1975,
+        "rank_change": 27
+      },
+      {
+        "standard_id": "IS_7214_1974",
+        "standard_number": "IS 7214:1974",
+        "title": "Specification for driving squares for hand socket wrenches",
+        "pre_rerank_rank": 32,
+        "reranker_rank": 5,
+        "reranker_score": 0.1972,
+        "rank_change": 27
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "pre_rerank_rank": 33,
+        "reranker_rank": 6,
+        "reranker_score": 0.1969,
+        "rank_change": 27
+      },
+      {
+        "standard_id": "IS_16754_2018",
+        "standard_number": "IS 16754:2018",
+        "title": "Technical Drawings -- Construction drawings -- General rules for execution of production drawings for prefabricated structural components",
+        "pre_rerank_rank": 34,
+        "reranker_rank": 7,
+        "reranker_score": 0.1922,
+        "rank_change": 27
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "pre_rerank_rank": 35,
+        "reranker_rank": 8,
+        "reranker_score": 0.1845,
+        "rank_change": 27
+      },
+      {
+        "standard_id": "IS_16898_PART_3_2023",
+        "standard_number": "IS 16898 (Part 3):2023",
+        "title": "Basic Principles for Graphical Symbols for Use on Equipment Part 3 : Guidelines For The Application of Graphical Symbols",
+        "pre_rerank_rank": 36,
+        "reranker_rank": 9,
+        "reranker_score": 0.1796,
+        "rank_change": 27
+      },
+      {
+        "standard_id": "IS_4914_1983",
+        "standard_number": "IS 4914:1983",
+        "title": "Specification for tap wrenches adjustable (first revision)",
+        "pre_rerank_rank": 37,
+        "reranker_rank": 10,
+        "reranker_score": 0.1771,
+        "rank_change": 27
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_19597_2026",
+        "standard_number": "IS 19597:2026",
+        "title": "Landing Mats used in Gymnastics - Specification",
+        "semantic_similarity": 25.0,
+        "lexical_relevance": 100.0,
+        "product_match": 67.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 43.9,
+        "calibrated_score": 43.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_6974_1973",
+        "standard_number": "IS 6974:1973",
+        "title": "Specification for abdomen guards for sports use",
+        "semantic_similarity": 20.3,
+        "lexical_relevance": 67.0,
+        "product_match": 58.3,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 35.9,
+        "calibrated_score": 35.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_3345_1989",
+        "standard_number": "IS 3345:1989",
+        "title": "Sports nets - Specification (First Revision)",
+        "semantic_similarity": 17.4,
+        "lexical_relevance": 62.3,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 32.8,
+        "calibrated_score": 32.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15091_PART_1_2002",
+        "standard_number": "IS 15091 (Part 1):2002",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 1 Dimensions of inserts without fixing hole",
+        "semantic_similarity": 23.5,
+        "lexical_relevance": 0.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 27.8,
+        "calibrated_score": 27.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_7214_1974",
+        "standard_number": "IS 7214:1974",
+        "title": "Specification for driving squares for hand socket wrenches",
+        "semantic_similarity": 23.4,
+        "lexical_relevance": 0.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 27.8,
+        "calibrated_score": 27.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "semantic_similarity": 23.4,
+        "lexical_relevance": 0.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 27.8,
+        "calibrated_score": 27.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16754_2018",
+        "standard_number": "IS 16754:2018",
+        "title": "Technical Drawings -- Construction drawings -- General rules for execution of production drawings for prefabricated structural components",
+        "semantic_similarity": 22.6,
+        "lexical_relevance": 0.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 27.5,
+        "calibrated_score": 27.5,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "semantic_similarity": 21.4,
+        "lexical_relevance": 0.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 27.1,
+        "calibrated_score": 27.1,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16898_PART_3_2023",
+        "standard_number": "IS 16898 (Part 3):2023",
+        "title": "Basic Principles for Graphical Symbols for Use on Equipment Part 3 : Guidelines For The Application of Graphical Symbols",
+        "semantic_similarity": 20.6,
+        "lexical_relevance": 0.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 26.8,
+        "calibrated_score": 26.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_4914_1983",
+        "standard_number": "IS 4914:1983",
+        "title": "Specification for tap wrenches adjustable (first revision)",
+        "semantic_similarity": 20.2,
+        "lexical_relevance": 0.0,
+        "product_match": 49.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 26.7,
+        "calibrated_score": 26.7,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "NO_SUFFICIENT_MATCH",
+    "match_level": "NO_SUFFICIENT_MATCH",
+    "is_abstained": true,
+    "abstention_reason": "No direct Indian Standard was found in the current corpus for 'Gymnastic Landing Mats for Sports Facilities'. The closest candidate identified is IS 19597:2026: Landing Mats used in Gymnastics - Specification with a low applicability score of 43.9/100.",
+    "top_score": 43.9,
+    "second_best_score": 35.9,
+    "score_margin": 8.0,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_CORPUS_MATCH",
+    "diagnostic_flags": [
+      "NO_CORPUS_DIRECT_MATCH"
+    ]
+  },
+  "timing": {
+    "extraction_ms": 0.12,
+    "bm25_ms": 6.04,
+    "dense_ms": 9.06,
+    "fusion_ms": 1.51,
+    "reranker_ms": 0.42,
+    "applicability_ms": 0.23,
+    "decision_ms": 0.03,
+    "total_ms": 15.97
+  }
+}

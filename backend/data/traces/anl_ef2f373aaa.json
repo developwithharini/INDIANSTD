@@ -1,0 +1,1525 @@
+{
+  "analysis_id": "anl_ef2f373aaa",
+  "query": "gymnastic landing mat",
+  "normalized_query": "gymnastic landing mat",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T15:23:36.158966",
+  "requirement_extraction": {
+    "original_query": "gymnastic landing mat",
+    "normalized_query": "gymnastic landing mat",
+    "language": "English",
+    "product": "gymnastic landing mat",
+    "category": "General Goods",
+    "domain": "General Goods",
+    "application": "gymnastic landing mat",
+    "environment": "General",
+    "materials": [],
+    "attributes": [],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_19597_2026",
+        "standard_number": "IS 19597:2026",
+        "title": "Landing Mats used in Gymnastics - Specification",
+        "rank": 1,
+        "score": 16.5141,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17894_2022",
+        "standard_number": "IS 17894:2022",
+        "title": "Geometrical product specifications GPS -  Geometrical tolerancing - General geometrical specifications and general size specifications",
+        "rank": 2,
+        "score": 0.0035,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "rank": 3,
+        "score": 0.0035,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4218_PART_2_2001",
+        "standard_number": "IS 4218 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads: Part 2 general plan (Second Revision)",
+        "rank": 4,
+        "score": 0.0034,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_988_1959",
+        "standard_number": "IS 988:1959",
+        "title": "General requirements for optical components",
+        "rank": 5,
+        "score": 0.0033,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8533_1977",
+        "standard_number": "IS 8533:1977",
+        "title": "General Purpose Carabiners for Mountaineering",
+        "rank": 6,
+        "score": 0.0033,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3148_1991",
+        "standard_number": "IS 3148:1991",
+        "title": "Slide fasteners (General Purpose) (Fourth Revision)",
+        "rank": 7,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12319_1988",
+        "standard_number": "IS 12319:1988",
+        "title": "Circular screwing dies -- General table of dimensions",
+        "rank": 8,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11669_1986",
+        "standard_number": "IS 11669:1986",
+        "title": "General principles of dimensioning on technical drawings",
+        "rank": 9,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4595_1969",
+        "standard_number": "IS 4595:1969",
+        "title": "GENERAL REQUIREMENTS FOR NON-SPARKING TOOLS",
+        "rank": 10,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "rank": 11,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "SP_61_1994",
+        "standard_number": "SP 61:1994",
+        "title": "General guidelines for automatic weather stations",
+        "rank": 12,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3081_1994",
+        "standard_number": "IS 3081:1994",
+        "title": "Microscopes - General purposes - Dimensions and marking  (First Revision)",
+        "rank": 13,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3974_1967",
+        "standard_number": "IS 3974:1967",
+        "title": "Specification for bifurcated rivets for general purposes",
+        "rank": 14,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8533_2026",
+        "standard_number": "IS 8533:2026",
+        "title": "General Purpose Carabiners for Mountaineering — Specification (First Revision)",
+        "rank": 15,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4506_2024",
+        "standard_number": "IS 4506:2024",
+        "title": "Hand Tools - Forks, General  Purpose - Specification (second revision)",
+        "rank": 16,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3457_2009",
+        "standard_number": "IS 3457:2009",
+        "title": "Radii for rounding for general engineering purposes (Second Revision)",
+        "rank": 17,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11016_1984",
+        "standard_number": "IS 11016:1984",
+        "title": "General safety requirements for machine tools and their operation",
+        "rank": 18,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_989_1982",
+        "standard_number": "IS 989:1982",
+        "title": "Specification for scissors for general purposes (Second Revision)",
+        "rank": 19,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1480_1970",
+        "standard_number": "IS 1480:1970",
+        "title": "Specification metric scales for general purposes  (First Revision)",
+        "rank": 20,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16573_2025",
+        "standard_number": "IS 16573:2025",
+        "title": "General Requirements for Establishing Anthropometric Databases ( First Revision )",
+        "rank": 21,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_5669_2019",
+        "standard_number": "IS 5669:2019",
+        "title": "Rolling bearings -- Radial bearings -- Boundary dimensions, general plan (Second Revision)",
+        "rank": 22,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_5932_2019",
+        "standard_number": "IS 5932:2019",
+        "title": "Rolling bearings -- Thrust bearings -- Boundary dimensions, general plan (Second Revision)",
+        "rank": 23,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16570_2017",
+        "standard_number": "IS 16570:2017",
+        "title": "Ergonomics - Visual danger signals - General requirements, design and testing",
+        "rank": 24,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2087_1988",
+        "standard_number": "IS 2087:1988",
+        "title": "Specification for square tins for general purposes  (Third Revision)",
+        "rank": 25,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2134_1981",
+        "standard_number": "IS 2134:1981",
+        "title": "Specification for round tins for general purposes (Second Revision)",
+        "rank": 26,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4762_2002",
+        "standard_number": "IS 4762:2002",
+        "title": "FASTENERS — WORM DRIVE HOSE CLAMPS FOR GENERAL PURPOSES — SPECIFICATION ( Second Revision )",
+        "rank": 27,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_13093_2002",
+        "standard_number": "IS 13093:2002",
+        "title": "Sheet metal body repair steel hammers - General requirements  (First Revision)",
+        "rank": 28,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2161_1996",
+        "standard_number": "IS 2161:1996",
+        "title": "Coolant pumps for general purpose machine tools - Specification  (First Revision)",
+        "rank": 29,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14339_1996",
+        "standard_number": "IS 14339:1996",
+        "title": "Horology -- Watch bezel and back cover gauges -- Technical supply conditions -- General",
+        "rank": 30,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_15091_PART_1_2002",
+        "standard_number": "IS 15091 (Part 1):2002",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 1 Dimensions of inserts without fixing hole",
+        "rank": 1,
+        "similarity": 0.2703
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "rank": 2,
+        "similarity": 0.269
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "rank": 3,
+        "similarity": 0.2546
+      },
+      {
+        "standard_id": "IS_16754_2018",
+        "standard_number": "IS 16754:2018",
+        "title": "Technical Drawings -- Construction drawings -- General rules for execution of production drawings for prefabricated structural components",
+        "rank": 4,
+        "similarity": 0.2303
+      },
+      {
+        "standard_id": "IS_10715_PART_3_2023",
+        "standard_number": "IS 10715 (Part 3):2023",
+        "title": "Technical drawings -- Screw threads and threaded parts: Part 3 Simplified representation (First Revision)",
+        "rank": 5,
+        "similarity": 0.2294
+      },
+      {
+        "standard_id": "IS_8384_2013",
+        "standard_number": "IS 8384:2013",
+        "title": "Hydraulic fluid power - Filter elements - Verification of collapse/burst pressure rating  (First Revision)",
+        "rank": 6,
+        "similarity": 0.2248
+      },
+      {
+        "standard_id": "IS_16615_2018",
+        "standard_number": "IS 16615:2018",
+        "title": "Technical Drawings -- Construction drawings -- Drawings for the assembly of prefabricated structures",
+        "rank": 7,
+        "similarity": 0.211
+      },
+      {
+        "standard_id": "IS_3216_1989",
+        "standard_number": "IS 3216:1989",
+        "title": "Engineers Drawing Instruments, Needles - Specification ( First Revision )",
+        "rank": 8,
+        "similarity": 0.2045
+      },
+      {
+        "standard_id": "IS_7214_1974",
+        "standard_number": "IS 7214:1974",
+        "title": "Specification for driving squares for hand socket wrenches",
+        "rank": 9,
+        "similarity": 0.2036
+      },
+      {
+        "standard_id": "IS_6687_2002",
+        "standard_number": "IS 6687:2002",
+        "title": "Code of practice for selection, storage, installation and maintenance of conveyor belting  (First Revision)",
+        "rank": 10,
+        "similarity": 0.1911
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "rank": 11,
+        "similarity": 0.1864
+      },
+      {
+        "standard_id": "IS_18180_PART_3_2023",
+        "standard_number": "IS 18180 (Part 3):2023",
+        "title": "Geometrical product specifications (GPS) - General concepts: Part 3 Toleranced features",
+        "rank": 12,
+        "similarity": 0.1842
+      },
+      {
+        "standard_id": "IS_18432_PART_3_2023",
+        "standard_number": "IS 18432 (Part 3):2023",
+        "title": "Geometrical product specifications GPS  Surface texture: Profile: Part 3 Specification operators",
+        "rank": 13,
+        "similarity": 0.1797
+      },
+      {
+        "standard_id": "IS_988_1959",
+        "standard_number": "IS 988:1959",
+        "title": "General requirements for optical components",
+        "rank": 14,
+        "similarity": 0.1759
+      },
+      {
+        "standard_id": "IS_10715_PART_2_1999",
+        "standard_number": "IS 10715 (Part 2):1999",
+        "title": "Technical drawings -- Screw threads and threaded parts: Part 2 Screw thread inserts",
+        "rank": 15,
+        "similarity": 0.1756
+      },
+      {
+        "standard_id": "IS_10714_PART_3_2023",
+        "standard_number": "IS 10714 (Part 3):2023",
+        "title": "Technical product documentation (TPD) -- General principles of representation: Part 3 Views, sections and cuts",
+        "rank": 16,
+        "similarity": 0.173
+      },
+      {
+        "standard_id": "IS_10990_PART_3_2023",
+        "standard_number": "IS 10990 (Part 3):2023",
+        "title": "Technical product documentation -- Simplified representation of pipelines: Part 3 Terminal features of ventilation and drainage systems (First Revision)",
+        "rank": 17,
+        "similarity": 0.1693
+      },
+      {
+        "standard_id": "IS_14412_1996",
+        "standard_number": "IS 14412:1996",
+        "title": "Technical drawings -- Indication for revision of drawings",
+        "rank": 18,
+        "similarity": 0.1693
+      },
+      {
+        "standard_id": "IS_16763_2018",
+        "standard_number": "IS 16763:2018",
+        "title": "Technical Drawings -- Construction drawings -- Simplified representation of demolition and rebuilding",
+        "rank": 19,
+        "similarity": 0.169
+      },
+      {
+        "standard_id": "IS_3032_1965",
+        "standard_number": "IS 3032:1965",
+        "title": "General requirements for testing the accuracy of commercial measuring instruments used in petroleum trade",
+        "rank": 20,
+        "similarity": 0.1656
+      },
+      {
+        "standard_id": "IS_11670_1993",
+        "standard_number": "IS 11670:1993",
+        "title": "Technical drawings -- Abbreviations and symbols for use in technical drawings  (First Revision)",
+        "rank": 21,
+        "similarity": 0.1584
+      },
+      {
+        "standard_id": "IS_18229_PART_3_2023",
+        "standard_number": "IS 18229 (Part 3):2023",
+        "title": "Geometrical product specifications (GPS) - Dimensional tolerancing: Part 3 Angular sizes",
+        "rank": 22,
+        "similarity": 0.1575
+      },
+      {
+        "standard_id": "IS_13087_2021",
+        "standard_number": "IS 13087:2021",
+        "title": "Pneumatic Fluid Power - Cylinders, 1 000 kpa ( 10 bar ) Series - Mounting Dimensions of Rod-end Clevises ( Second Revision )",
+        "rank": 23,
+        "similarity": 0.1558
+      },
+      {
+        "standard_id": "IS_13086_2021",
+        "standard_number": "IS 13086:2021",
+        "title": "Pneumatic Fluid Power - Cylinders, 1 000 kPa ( 10 bar ) Series - Mounting Dimensions of Rod-end Spherical Eyes ( Second Revision )",
+        "rank": 24,
+        "similarity": 0.1553
+      },
+      {
+        "standard_id": "IS_8000_PART_3_2023",
+        "standard_number": "IS 8000 (Part 3):2023",
+        "title": "Geometrical product specifications (GPS) --  Geometrical tolerancing: Part 3 Profile tolerancing (Third Revision)",
+        "rank": 25,
+        "similarity": 0.1528
+      },
+      {
+        "standard_id": "IS_15673_2006",
+        "standard_number": "IS 15673:2006",
+        "title": "Folow mesasurment of natural gas by rotary piston meters",
+        "rank": 26,
+        "similarity": 0.1524
+      },
+      {
+        "standard_id": "IS_15503_PART_3_2023",
+        "standard_number": "IS 15503 (Part 3):2023",
+        "title": "Graphical symbols  Test methods  Part 3 : Method for testing symbol referent association",
+        "rank": 27,
+        "similarity": 0.1522
+      },
+      {
+        "standard_id": "IS_18057_PART_3_2023",
+        "standard_number": "IS 18057 (Part 3):2023",
+        "title": "Woodworking Machines  Safety  Part 3: Numerically Controlled NC Boring and Routing Machines",
+        "rank": 28,
+        "similarity": 0.1509
+      },
+      {
+        "standard_id": "IS_8722_1978",
+        "standard_number": "IS 8722:1978",
+        "title": "Specification for fish bolts with square head",
+        "rank": 29,
+        "similarity": 0.1505
+      },
+      {
+        "standard_id": "IS_2582_PART_3_2023",
+        "standard_number": "IS 2582 (Part 3):2023",
+        "title": "Machine tools  Connecting dimensions of spindle noses and work holding chucks  Part 3 : Bayonet type",
+        "rank": 30,
+        "similarity": 0.1504
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 58,
+    "candidate_count": 58,
+    "results": [
+      {
+        "standard_id": "IS_19597_2026",
+        "standard_number": "IS 19597:2026",
+        "title": "Landing Mats used in Gymnastics - Specification",
+        "bm25_rank": 1,
+        "dense_rank": null,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17894_2022",
+        "standard_number": "IS 17894:2022",
+        "title": "Geometrical product specifications GPS -  Geometrical tolerancing - General geometrical specifications and general size specifications",
+        "bm25_rank": 2,
+        "dense_rank": null,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "bm25_rank": 3,
+        "dense_rank": 3,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4218_PART_2_2001",
+        "standard_number": "IS 4218 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads: Part 2 general plan (Second Revision)",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_988_1959",
+        "standard_number": "IS 988:1959",
+        "title": "General requirements for optical components",
+        "bm25_rank": 5,
+        "dense_rank": 14,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8533_1977",
+        "standard_number": "IS 8533:1977",
+        "title": "General Purpose Carabiners for Mountaineering",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3148_1991",
+        "standard_number": "IS 3148:1991",
+        "title": "Slide fasteners (General Purpose) (Fourth Revision)",
+        "bm25_rank": 7,
+        "dense_rank": null,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12319_1988",
+        "standard_number": "IS 12319:1988",
+        "title": "Circular screwing dies -- General table of dimensions",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11669_1986",
+        "standard_number": "IS 11669:1986",
+        "title": "General principles of dimensioning on technical drawings",
+        "bm25_rank": 9,
+        "dense_rank": null,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4595_1969",
+        "standard_number": "IS 4595:1969",
+        "title": "GENERAL REQUIREMENTS FOR NON-SPARKING TOOLS",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "SP_61_1994",
+        "standard_number": "SP 61:1994",
+        "title": "General guidelines for automatic weather stations",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3081_1994",
+        "standard_number": "IS 3081:1994",
+        "title": "Microscopes - General purposes - Dimensions and marking  (First Revision)",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3974_1967",
+        "standard_number": "IS 3974:1967",
+        "title": "Specification for bifurcated rivets for general purposes",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_8533_2026",
+        "standard_number": "IS 8533:2026",
+        "title": "General Purpose Carabiners for Mountaineering — Specification (First Revision)",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4506_2024",
+        "standard_number": "IS 4506:2024",
+        "title": "Hand Tools - Forks, General  Purpose - Specification (second revision)",
+        "bm25_rank": 16,
+        "dense_rank": null,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3457_2009",
+        "standard_number": "IS 3457:2009",
+        "title": "Radii for rounding for general engineering purposes (Second Revision)",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11016_1984",
+        "standard_number": "IS 11016:1984",
+        "title": "General safety requirements for machine tools and their operation",
+        "bm25_rank": 18,
+        "dense_rank": null,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_989_1982",
+        "standard_number": "IS 989:1982",
+        "title": "Specification for scissors for general purposes (Second Revision)",
+        "bm25_rank": 19,
+        "dense_rank": null,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1480_1970",
+        "standard_number": "IS 1480:1970",
+        "title": "Specification metric scales for general purposes  (First Revision)",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16573_2025",
+        "standard_number": "IS 16573:2025",
+        "title": "General Requirements for Establishing Anthropometric Databases ( First Revision )",
+        "bm25_rank": 21,
+        "dense_rank": null,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_5669_2019",
+        "standard_number": "IS 5669:2019",
+        "title": "Rolling bearings -- Radial bearings -- Boundary dimensions, general plan (Second Revision)",
+        "bm25_rank": 22,
+        "dense_rank": null,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_5932_2019",
+        "standard_number": "IS 5932:2019",
+        "title": "Rolling bearings -- Thrust bearings -- Boundary dimensions, general plan (Second Revision)",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16570_2017",
+        "standard_number": "IS 16570:2017",
+        "title": "Ergonomics - Visual danger signals - General requirements, design and testing",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2087_1988",
+        "standard_number": "IS 2087:1988",
+        "title": "Specification for square tins for general purposes  (Third Revision)",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2134_1981",
+        "standard_number": "IS 2134:1981",
+        "title": "Specification for round tins for general purposes (Second Revision)",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4762_2002",
+        "standard_number": "IS 4762:2002",
+        "title": "FASTENERS — WORM DRIVE HOSE CLAMPS FOR GENERAL PURPOSES — SPECIFICATION ( Second Revision )",
+        "bm25_rank": 27,
+        "dense_rank": null,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_13093_2002",
+        "standard_number": "IS 13093:2002",
+        "title": "Sheet metal body repair steel hammers - General requirements  (First Revision)",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2161_1996",
+        "standard_number": "IS 2161:1996",
+        "title": "Coolant pumps for general purpose machine tools - Specification  (First Revision)",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14339_1996",
+        "standard_number": "IS 14339:1996",
+        "title": "Horology -- Watch bezel and back cover gauges -- Technical supply conditions -- General",
+        "bm25_rank": 30,
+        "dense_rank": null,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15091_PART_1_2002",
+        "standard_number": "IS 15091 (Part 1):2002",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 1 Dimensions of inserts without fixing hole",
+        "bm25_rank": null,
+        "dense_rank": 1,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "bm25_rank": null,
+        "dense_rank": 2,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16754_2018",
+        "standard_number": "IS 16754:2018",
+        "title": "Technical Drawings -- Construction drawings -- General rules for execution of production drawings for prefabricated structural components",
+        "bm25_rank": null,
+        "dense_rank": 4,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10715_PART_3_2023",
+        "standard_number": "IS 10715 (Part 3):2023",
+        "title": "Technical drawings -- Screw threads and threaded parts: Part 3 Simplified representation (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8384_2013",
+        "standard_number": "IS 8384:2013",
+        "title": "Hydraulic fluid power - Filter elements - Verification of collapse/burst pressure rating  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16615_2018",
+        "standard_number": "IS 16615:2018",
+        "title": "Technical Drawings -- Construction drawings -- Drawings for the assembly of prefabricated structures",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3216_1989",
+        "standard_number": "IS 3216:1989",
+        "title": "Engineers Drawing Instruments, Needles - Specification ( First Revision )",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7214_1974",
+        "standard_number": "IS 7214:1974",
+        "title": "Specification for driving squares for hand socket wrenches",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6687_2002",
+        "standard_number": "IS 6687:2002",
+        "title": "Code of practice for selection, storage, installation and maintenance of conveyor belting  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "bm25_rank": null,
+        "dense_rank": 11,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18180_PART_3_2023",
+        "standard_number": "IS 18180 (Part 3):2023",
+        "title": "Geometrical product specifications (GPS) - General concepts: Part 3 Toleranced features",
+        "bm25_rank": null,
+        "dense_rank": 12,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18432_PART_3_2023",
+        "standard_number": "IS 18432 (Part 3):2023",
+        "title": "Geometrical product specifications GPS  Surface texture: Profile: Part 3 Specification operators",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10715_PART_2_1999",
+        "standard_number": "IS 10715 (Part 2):1999",
+        "title": "Technical drawings -- Screw threads and threaded parts: Part 2 Screw thread inserts",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10714_PART_3_2023",
+        "standard_number": "IS 10714 (Part 3):2023",
+        "title": "Technical product documentation (TPD) -- General principles of representation: Part 3 Views, sections and cuts",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_10990_PART_3_2023",
+        "standard_number": "IS 10990 (Part 3):2023",
+        "title": "Technical product documentation -- Simplified representation of pipelines: Part 3 Terminal features of ventilation and drainage systems (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 17,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14412_1996",
+        "standard_number": "IS 14412:1996",
+        "title": "Technical drawings -- Indication for revision of drawings",
+        "bm25_rank": null,
+        "dense_rank": 18,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16763_2018",
+        "standard_number": "IS 16763:2018",
+        "title": "Technical Drawings -- Construction drawings -- Simplified representation of demolition and rebuilding",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3032_1965",
+        "standard_number": "IS 3032:1965",
+        "title": "General requirements for testing the accuracy of commercial measuring instruments used in petroleum trade",
+        "bm25_rank": null,
+        "dense_rank": 20,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11670_1993",
+        "standard_number": "IS 11670:1993",
+        "title": "Technical drawings -- Abbreviations and symbols for use in technical drawings  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18229_PART_3_2023",
+        "standard_number": "IS 18229 (Part 3):2023",
+        "title": "Geometrical product specifications (GPS) - Dimensional tolerancing: Part 3 Angular sizes",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_13087_2021",
+        "standard_number": "IS 13087:2021",
+        "title": "Pneumatic Fluid Power - Cylinders, 1 000 kpa ( 10 bar ) Series - Mounting Dimensions of Rod-end Clevises ( Second Revision )",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_13086_2021",
+        "standard_number": "IS 13086:2021",
+        "title": "Pneumatic Fluid Power - Cylinders, 1 000 kPa ( 10 bar ) Series - Mounting Dimensions of Rod-end Spherical Eyes ( Second Revision )",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8000_PART_3_2023",
+        "standard_number": "IS 8000 (Part 3):2023",
+        "title": "Geometrical product specifications (GPS) --  Geometrical tolerancing: Part 3 Profile tolerancing (Third Revision)",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 53,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15673_2006",
+        "standard_number": "IS 15673:2006",
+        "title": "Folow mesasurment of natural gas by rotary piston meters",
+        "bm25_rank": null,
+        "dense_rank": 26,
+        "fusion_rank": 54,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15503_PART_3_2023",
+        "standard_number": "IS 15503 (Part 3):2023",
+        "title": "Graphical symbols  Test methods  Part 3 : Method for testing symbol referent association",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 55,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18057_PART_3_2023",
+        "standard_number": "IS 18057 (Part 3):2023",
+        "title": "Woodworking Machines  Safety  Part 3: Numerically Controlled NC Boring and Routing Machines",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 56,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8722_1978",
+        "standard_number": "IS 8722:1978",
+        "title": "Specification for fish bolts with square head",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 57,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2582_PART_3_2023",
+        "standard_number": "IS 2582 (Part 3):2023",
+        "title": "Machine tools  Connecting dimensions of spindle noses and work holding chucks  Part 3 : Bayonet type",
+        "bm25_rank": null,
+        "dense_rank": 30,
+        "fusion_rank": 58,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_19597_2026",
+        "standard_number": "IS 19597:2026",
+        "title": "Landing Mats used in Gymnastics - Specification",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 1,
+        "reranker_score": 0.489,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_13087_2021",
+        "standard_number": "IS 13087:2021",
+        "title": "Pneumatic Fluid Power - Cylinders, 1 000 kpa ( 10 bar ) Series - Mounting Dimensions of Rod-end Clevises ( Second Revision )",
+        "pre_rerank_rank": 51,
+        "reranker_rank": 2,
+        "reranker_score": 0.1901,
+        "rank_change": 49
+      },
+      {
+        "standard_id": "IS_13086_2021",
+        "standard_number": "IS 13086:2021",
+        "title": "Pneumatic Fluid Power - Cylinders, 1 000 kPa ( 10 bar ) Series - Mounting Dimensions of Rod-end Spherical Eyes ( Second Revision )",
+        "pre_rerank_rank": 52,
+        "reranker_rank": 3,
+        "reranker_score": 0.1899,
+        "rank_change": 49
+      },
+      {
+        "standard_id": "IS_15091_PART_1_2002",
+        "standard_number": "IS 15091 (Part 1):2002",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 1 Dimensions of inserts without fixing hole",
+        "pre_rerank_rank": 31,
+        "reranker_rank": 4,
+        "reranker_score": 0.1816,
+        "rank_change": 27
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "pre_rerank_rank": 32,
+        "reranker_rank": 5,
+        "reranker_score": 0.181,
+        "rank_change": 27
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 6,
+        "reranker_score": 0.1746,
+        "rank_change": -3
+      },
+      {
+        "standard_id": "IS_16754_2018",
+        "standard_number": "IS 16754:2018",
+        "title": "Technical Drawings -- Construction drawings -- General rules for execution of production drawings for prefabricated structural components",
+        "pre_rerank_rank": 33,
+        "reranker_rank": 7,
+        "reranker_score": 0.1637,
+        "rank_change": 26
+      },
+      {
+        "standard_id": "IS_10715_PART_3_2023",
+        "standard_number": "IS 10715 (Part 3):2023",
+        "title": "Technical drawings -- Screw threads and threaded parts: Part 3 Simplified representation (First Revision)",
+        "pre_rerank_rank": 34,
+        "reranker_rank": 8,
+        "reranker_score": 0.1632,
+        "rank_change": 26
+      },
+      {
+        "standard_id": "IS_8384_2013",
+        "standard_number": "IS 8384:2013",
+        "title": "Hydraulic fluid power - Filter elements - Verification of collapse/burst pressure rating  (First Revision)",
+        "pre_rerank_rank": 35,
+        "reranker_rank": 9,
+        "reranker_score": 0.1611,
+        "rank_change": 26
+      },
+      {
+        "standard_id": "IS_16615_2018",
+        "standard_number": "IS 16615:2018",
+        "title": "Technical Drawings -- Construction drawings -- Drawings for the assembly of prefabricated structures",
+        "pre_rerank_rank": 36,
+        "reranker_rank": 10,
+        "reranker_score": 0.155,
+        "rank_change": 26
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_19597_2026",
+        "standard_number": "IS 19597:2026",
+        "title": "Landing Mats used in Gymnastics - Specification",
+        "semantic_similarity": 24.4,
+        "lexical_relevance": 66.1,
+        "product_match": 95.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 42.7,
+        "calibrated_score": 42.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_13087_2021",
+        "standard_number": "IS 13087:2021",
+        "title": "Pneumatic Fluid Power - Cylinders, 1 000 kpa ( 10 bar ) Series - Mounting Dimensions of Rod-end Clevises ( Second Revision )",
+        "semantic_similarity": 17.3,
+        "lexical_relevance": 0.0,
+        "product_match": 58.3,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 27.1,
+        "calibrated_score": 27.1,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_13086_2021",
+        "standard_number": "IS 13086:2021",
+        "title": "Pneumatic Fluid Power - Cylinders, 1 000 kPa ( 10 bar ) Series - Mounting Dimensions of Rod-end Spherical Eyes ( Second Revision )",
+        "semantic_similarity": 17.3,
+        "lexical_relevance": 0.0,
+        "product_match": 58.3,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 27.0,
+        "calibrated_score": 27.0,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15091_PART_1_2002",
+        "standard_number": "IS 15091 (Part 1):2002",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 1 Dimensions of inserts without fixing hole",
+        "semantic_similarity": 22.6,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 20.9,
+        "calibrated_score": 20.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "semantic_similarity": 22.5,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 20.9,
+        "calibrated_score": 20.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16754_2018",
+        "standard_number": "IS 16754:2018",
+        "title": "Technical Drawings -- Construction drawings -- General rules for execution of production drawings for prefabricated structural components",
+        "semantic_similarity": 19.7,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 19.9,
+        "calibrated_score": 19.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_10715_PART_3_2023",
+        "standard_number": "IS 10715 (Part 3):2023",
+        "title": "Technical drawings -- Screw threads and threaded parts: Part 3 Simplified representation (First Revision)",
+        "semantic_similarity": 19.6,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 19.9,
+        "calibrated_score": 19.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_8384_2013",
+        "standard_number": "IS 8384:2013",
+        "title": "Hydraulic fluid power - Filter elements - Verification of collapse/burst pressure rating  (First Revision)",
+        "semantic_similarity": 19.3,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 19.8,
+        "calibrated_score": 19.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16615_2018",
+        "standard_number": "IS 16615:2018",
+        "title": "Technical Drawings -- Construction drawings -- Drawings for the assembly of prefabricated structures",
+        "semantic_similarity": 18.3,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 19.4,
+        "calibrated_score": 19.4,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "semantic_similarity": 21.5,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 18.3,
+        "calibrated_score": 18.3,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "NO_SUFFICIENT_MATCH",
+    "match_level": "NO_SUFFICIENT_MATCH",
+    "is_abstained": true,
+    "abstention_reason": "No direct Indian Standard was found in the current corpus for 'gymnastic landing mat'. The closest candidate identified is IS 19597:2026: Landing Mats used in Gymnastics - Specification with a low applicability score of 42.7/100.",
+    "top_score": 42.7,
+    "second_best_score": 27.1,
+    "score_margin": 15.6,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_CORPUS_MATCH",
+    "diagnostic_flags": [
+      "NO_CORPUS_DIRECT_MATCH"
+    ]
+  },
+  "timing": {
+    "extraction_ms": 0.03,
+    "bm25_ms": 2.04,
+    "dense_ms": 3.06,
+    "fusion_ms": 0.51,
+    "reranker_ms": 0.19,
+    "applicability_ms": 0.14,
+    "decision_ms": 0.02,
+    "total_ms": 5.51
+  }
+}

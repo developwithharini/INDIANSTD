@@ -1,0 +1,63 @@
+/* Cinematic Technical Styling for MANAK */
+
+.bg-dot-grid {
+  background-image: radial-gradient(#cbd5e1 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.bg-micro-grid {
+  background-image: linear-gradient(to right, rgba(226, 232, 240, 0.4) 1px, transparent 1px),
+                    linear-gradient(to bottom, rgba(226, 232, 240, 0.4) 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+.technical-border {
+  position: relative;
+}
+
+.technical-border::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  width: 8px;
+  height: 8px;
+  border-top: 2px solid #0f172a;
+  border-left: 2px solid #0f172a;
+}
+
+.technical-border::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  right: -4px;
+  width: 8px;
+  height: 8px;
+  border-bottom: 2px solid #0f172a;
+  border-right: 2px solid #0f172a;
+}
+
+/* Technical Rule Markings */
+.rule-mark {
+  background-image: repeating-linear-gradient(
+    90deg,
+    #94a3b8,
+    #94a3b8 1px,
+    transparent 1px,
+    transparent 8px
+  );
+}
+
+/* Glass & Card Elevations */
+.cinematic-card {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.05);
+}
+
+.cinematic-card-active {
+  background: #ffffff;
+  border-color: #0f172a;
+  box-shadow: 0 12px 30px -4px rgba(15, 23, 42, 0.12);
+}

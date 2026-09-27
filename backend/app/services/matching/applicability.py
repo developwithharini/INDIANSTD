@@ -149,7 +149,7 @@ class ApplicabilityEngine:
 
     def generate_recommendations(
         self, req: StructuredRequirement, reranked_candidates: List[Dict[str, Any]]
-    ) -> Tuple[List[RecommendationItem], List[WhyNotReason]]:
+    ) -> Tuple[List[RecommendationItem], List[WhyNotReason], List[Tuple[float, Dict[str, Any], Dict[str, float], List[MatchReason]]]]:
         recommendations: List[RecommendationItem] = []
         why_not_list: List[WhyNotReason] = []
 
@@ -169,6 +169,8 @@ class ApplicabilityEngine:
             title = candidate.get("title")
             status = candidate.get("status", "CURRENT")
 
+            tier = "STRONG" if score >= 75.0 else ("REVIEW_REQUIRED" if score >= 45.0 else "ABSTAIN")
+
             # ABSTENTION THRESHOLD (Score >= 45.0 for valid match, < 45.0 for Abstention)
             if score >= 45.0 and len(recommendations) < 5:
                 from app.services.evidence.extractor import extract_evidence_items
@@ -182,6 +184,7 @@ class ApplicabilityEngine:
                     rank=len(recommendations) + 1,
                     status=status,
                     relationship="PRIMARY" if len(recommendations) == 0 else "RELATED",
+                    match_tier=tier,
                     reasons=reasons,
                     score_breakdown=breakdown,
                     scope_preview=candidate.get("scope", "")[:220] if candidate.get("scope") else None,
@@ -201,6 +204,6 @@ class ApplicabilityEngine:
                 )
                 why_not_list.append(why_not)
 
-        return recommendations, why_not_list
+        return recommendations, why_not_list, scored_candidates
 
 applicability_engine = ApplicabilityEngine()

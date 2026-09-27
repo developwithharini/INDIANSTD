@@ -1,0 +1,1464 @@
+{
+  "analysis_id": "anl_276be55e50",
+  "query": "industrial safety helmet with high impact resistance and chin strap",
+  "normalized_query": "industrial safety helmet with high impact resistance and chin strap",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T16:16:15.502074",
+  "requirement_extraction": {
+    "original_query": "industrial safety helmet with high impact resistance and chin strap",
+    "normalized_query": "industrial safety helmet with high impact resistance and chin strap",
+    "language": "English",
+    "product": "industrial safety helmet with high impact resistance and chin strap",
+    "category": "Personal Protective Equipment",
+    "domain": "Personal Protective Equipment",
+    "application": "industrial safety helmet with high impact resistance and chin strap",
+    "environment": "Industrial",
+    "materials": [],
+    "attributes": [],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "rank": 1,
+        "score": 60.196,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "rank": 2,
+        "score": 38.107,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17025_2018",
+        "standard_number": "IS 17025:2018",
+        "title": "Milling cutters for high speed machining -- Safety requirements",
+        "rank": 3,
+        "score": 20.4268,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15075_2024",
+        "standard_number": "IS 15075:2024",
+        "title": "Rotary and rotary impact masonry drill bits with hard metal tips -- Dimensions (first revision)",
+        "rank": 4,
+        "score": 19.2295,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16608_2018",
+        "standard_number": "IS 16608:2018",
+        "title": "Robots and robotic devices - Safety requirements for personal care robots",
+        "rank": 5,
+        "score": 19.1346,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14530_PART_2_2019",
+        "standard_number": "IS 14530 (Part 2):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 2 Robot systems and integration (first revision)",
+        "rank": 6,
+        "score": 19.0237,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14530_PART_1_2019",
+        "standard_number": "IS 14530 (Part 1):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 1 Robots (first revision)",
+        "rank": 7,
+        "score": 18.6447,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_2_2025",
+        "standard_number": "IS/ISO 10218 (Part 2):2025",
+        "title": "Robotics  safety requirements: Part 2 Industrial robot applications and robot cells",
+        "rank": 8,
+        "score": 18.4757,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_1_2025",
+        "standard_number": "IS/ISO 10218 (Part 1):2025",
+        "title": "Robotics  safety requirements: Part 1 Industrial robots",
+        "rank": 9,
+        "score": 17.2036,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17691_PART_1_2021",
+        "standard_number": "IS 17691 (Part 1):2021",
+        "title": "ROBOTICS  SAFETY DESIGN FOR INDUSTRIAL ROBOT SYSTEMS  PART 1: END-EFFECTORS",
+        "rank": 10,
+        "score": 17.2036,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17691_PART_2_2021",
+        "standard_number": "IS 17691 (Part 2):2021",
+        "title": "ROBOTICS  SAFETY DESIGN FOR INDUSTRIAL ROBOT SYSTEMS  PART 2: MANUAL LOADUNLOAD STATIONS",
+        "rank": 11,
+        "score": 17.0458,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15034_2001",
+        "standard_number": "IS 15034:2001",
+        "title": "Manipulating industrial robots -- Informative guide on test equipment and metrology methods of operation for robot performance evaluation in accordance with is 14533:1998",
+        "rank": 12,
+        "score": 16.824,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15842_2009",
+        "standard_number": "IS 15842:2009",
+        "title": "Snowboard strap bindings for soft boots - Requirements and test methods",
+        "rank": 13,
+        "score": 16.6227,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17801_PART_2_2022",
+        "standard_number": "IS 17801 (Part 2):2022",
+        "title": "Stationary training equipment: Stationary exercise bicycles and  upper body crank training equipment additional specific safety requirements and test methods",
+        "rank": 14,
+        "score": 16.255,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17247_PART_2_2019",
+        "standard_number": "IS 17247 (Part 2):2019",
+        "title": "Test Conditions for High Accuracy Turret and Single Spindle Coordinate Drilling and Boring Machines with Table of Fixed Height with Vertical Spindle — Testing of the Accuracy Part 2 Portal Type Machines with Moving Table",
+        "rank": 15,
+        "score": 16.0605,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14694_1999",
+        "standard_number": "IS 14694:1999",
+        "title": "2-Jaw and 3-Jaw Power Operated High Speed Lathe Chucks With Through Bore - Specification",
+        "rank": 16,
+        "score": 15.998,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_13723_2025",
+        "standard_number": "IS 13723:2025",
+        "title": "Hexagon high nuts (style 2) with metric fine pitch thread - Product grades A and B - Specification (third revision)",
+        "rank": 17,
+        "score": 15.4707,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16888_2018",
+        "standard_number": "IS 16888:2018",
+        "title": "Safety Colours and Safety Signs — Classification, Performance and Durability of Safety Signs",
+        "rank": 18,
+        "score": 15.4316,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_18057_PART_9_2023",
+        "standard_number": "IS 18057 (Part 9):2023",
+        "title": "Woodworking machines  Safety  Part 9:  Circular Saw Benches with and without sliding table",
+        "rank": 19,
+        "score": 15.2632,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17247_PART_1_2019",
+        "standard_number": "IS 17247 (Part 1):2019",
+        "title": "Test Conditions for High Accuracy Turret and Single Spindle Coordinate Drilling and Boring Machines with Table of Fixed Height with Vertical Spindle — Testing of the Accuracy Part 1 Single Column Type Machines",
+        "rank": 20,
+        "score": 15.1505,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16449_PART_1_2018",
+        "standard_number": "IS 16449 (Part 1):2018",
+        "title": "Graphical symbols - Safety colours and safety signs: Part 1 design principles for safety signs and safety markings",
+        "rank": 21,
+        "score": 15.1114,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19708_2026",
+        "standard_number": "IS 19708:2026",
+        "title": "Graphical Symbols - Safety Colours and Safety Signs - Guidance for the  Development and use of a Safety Signing System",
+        "rank": 22,
+        "score": 14.9073,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16492_2017",
+        "standard_number": "IS 16492:2017",
+        "title": "Manipulating industrial robots - Object handling with grasp - Type grippers - Vocabulary and presentation of characteristics",
+        "rank": 23,
+        "score": 14.8321,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_9707_2024",
+        "standard_number": "IS 9707:2024",
+        "title": "Pneumatic Screw Drivers and Nut Runners (Non-Impact Type) --Specification (Second Revision )",
+        "rank": 24,
+        "score": 14.8079,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17801_PART_1_2022",
+        "standard_number": "IS 17801 (Part 1):2022",
+        "title": "Stationary training equipment:   Part 1: General safety requirements and test methods",
+        "rank": 25,
+        "score": 14.7971,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "rank": 26,
+        "score": 14.7933,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16451_2023",
+        "standard_number": "IS 16451:2023",
+        "title": "Graphical Symbols  Safety Colours and Safety Signs  Registered Safety Signs",
+        "rank": 27,
+        "score": 14.7255,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19666_2026",
+        "standard_number": "IS 19666:2026",
+        "title": "Graphical Symbols -- Safety Colours and Safety Signs -- Natural  Disaster Safety way Guidance System",
+        "rank": 28,
+        "score": 14.4521,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16449_PART_4_2017",
+        "standard_number": "IS 16449 (Part 4):2017",
+        "title": "Graphical symbols - Safety colours and safety signs: Part 4 colorimetric and photometric properties of safety sign materials",
+        "rank": 29,
+        "score": 14.3405,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16882_PART_2_2018",
+        "standard_number": "IS 16882 (Part 2):2018",
+        "title": "Water safety signs and beach safety flags: Part 2 specifications for beach safety flags - Colour, shape, meaning and performance",
+        "rank": 30,
+        "score": 14.1866,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_ISO_13584_PART_1_2001",
+        "standard_number": "IS/ISO 13584 (Part 1):2001",
+        "title": "Industrial automation systems and integration -- Parts library: Part 1 Overview and fundamental principles",
+        "rank": 1,
+        "similarity": 0.3139
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "rank": 2,
+        "similarity": 0.3092
+      },
+      {
+        "standard_id": "IS_ISO_6789_PART_2_2017",
+        "standard_number": "IS/ISO 6789 (Part 2):2017",
+        "title": "Assembly tools for screws and nuts  Hand torque tools  Part 2: Requirements for calibration and determination of measurement uncertainty",
+        "rank": 3,
+        "similarity": 0.3069
+      },
+      {
+        "standard_id": "IS_16888_2018",
+        "standard_number": "IS 16888:2018",
+        "title": "Safety Colours and Safety Signs — Classification, Performance and Durability of Safety Signs",
+        "rank": 4,
+        "similarity": 0.3036
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_2_2025",
+        "standard_number": "IS/ISO 10218 (Part 2):2025",
+        "title": "Robotics  safety requirements: Part 2 Industrial robot applications and robot cells",
+        "rank": 5,
+        "similarity": 0.2931
+      },
+      {
+        "standard_id": "IS_ISO_10303_PART_1_2024",
+        "standard_number": "IS/ISO 10303 (Part 1):2024",
+        "title": "Industrial automation systems and integration -- Product data representation and exchange: Part 1 Overview and fundamental principles second revision",
+        "rank": 6,
+        "similarity": 0.2919
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_31_2004",
+        "standard_number": "IS/ISO 15531 (Part 31):2004",
+        "title": "Industrial automation systems and integration -- Industrial manufacturing management data: Part 31 Resource information model",
+        "rank": 7,
+        "similarity": 0.2906
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_42_2005",
+        "standard_number": "IS/ISO 15531 (Part 42):2005",
+        "title": "Industrial automation systems and integration - Industrial manufacturing management data: Part 42 time model",
+        "rank": 8,
+        "similarity": 0.2884
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_1_2004",
+        "standard_number": "IS/ISO 15531 (Part 1):2004",
+        "title": "Industrial automation systems and integration -- Industrial manufacturing management data: Part 1 General overview",
+        "rank": 9,
+        "similarity": 0.2875
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_43_2006",
+        "standard_number": "IS/ISO 15531 (Part 43):2006",
+        "title": "Industrial Automation Systems and Integration Industrial Manufacturing Management Data Part 43 Manufacturing Flow Management Data : Data Model for Flow Monitoring and Manufacturing Data Exchange",
+        "rank": 10,
+        "similarity": 0.2844
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_1_2025",
+        "standard_number": "IS/ISO 10218 (Part 1):2025",
+        "title": "Robotics  safety requirements: Part 1 Industrial robots",
+        "rank": 11,
+        "similarity": 0.2728
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_32_2005",
+        "standard_number": "IS/ISO 15531 (Part 32):2005",
+        "title": "Industrial automation systems and integration - Industrial manufacturing management data : resources usage management: Part 32 conceptual model for resources usage management data",
+        "rank": 12,
+        "similarity": 0.2665
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "rank": 13,
+        "similarity": 0.2492
+      },
+      {
+        "standard_id": "IS_ISO_6789_PART_1_2017",
+        "standard_number": "IS/ISO 6789 (Part 1):2017",
+        "title": "Assembly tools for screws and nuts  Hand torque tools  Part 1: Requirements and methods for design conformance testing and quality conformance testing: minimum requirements for declaration of conformance",
+        "rank": 14,
+        "similarity": 0.2402
+      },
+      {
+        "standard_id": "IS_16449_PART_1_2018",
+        "standard_number": "IS 16449 (Part 1):2018",
+        "title": "Graphical symbols - Safety colours and safety signs: Part 1 design principles for safety signs and safety markings",
+        "rank": 15,
+        "similarity": 0.2325
+      },
+      {
+        "standard_id": "IS_ISO_3318_2016",
+        "standard_number": "IS/ISO 3318:2016",
+        "title": "Assembly tools for screws and nuts - Open-ended wrenches, box wrenches and combination wrenches - Maximum widths of heads ( first revision)",
+        "rank": 16,
+        "similarity": 0.2322
+      },
+      {
+        "standard_id": "IS_ISO_20242_PART_1_2005",
+        "standard_number": "IS/ISO 20242 (Part 1):2005",
+        "title": "Industrial automation systems and integration - Service interface for testing applications: Part 1 overview",
+        "rank": 17,
+        "similarity": 0.2264
+      },
+      {
+        "standard_id": "IS_14530_PART_2_2019",
+        "standard_number": "IS 14530 (Part 2):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 2 Robot systems and integration (first revision)",
+        "rank": 18,
+        "similarity": 0.223
+      },
+      {
+        "standard_id": "IS_ISO_11145_2018",
+        "standard_number": "IS/ISO 11145:2018",
+        "title": "Optics and Photonics   Lasers and Lasers-related equipment   Vocabulary and Symbols",
+        "rank": 19,
+        "similarity": 0.2217
+      },
+      {
+        "standard_id": "IS_ISO_6462_2011",
+        "standard_number": "IS/ISO 6462:2011",
+        "title": "Face milling cutters with indexable inserts -- Dimensions",
+        "rank": 20,
+        "similarity": 0.2205
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "rank": 21,
+        "similarity": 0.2203
+      },
+      {
+        "standard_id": "IS_12689_1989",
+        "standard_number": "IS 12689:1989",
+        "title": "Small tools -- Subland twist drills with morse taper shank for clearance holes and counterbores for slotted cheese head screws -- Specification",
+        "rank": 22,
+        "similarity": 0.2186
+      },
+      {
+        "standard_id": "IS_1850_1961",
+        "standard_number": "IS 1850:1961",
+        "title": "Dimensions for shank diameters and driving squares for rotating tools",
+        "rank": 23,
+        "similarity": 0.2148
+      },
+      {
+        "standard_id": "IS_17254_2019",
+        "standard_number": "IS 17254:2019",
+        "title": "Machine Tools — Safety — Sawing Machines for Cold Metal",
+        "rank": 24,
+        "similarity": 0.2142
+      },
+      {
+        "standard_id": "IS_19708_2026",
+        "standard_number": "IS 19708:2026",
+        "title": "Graphical Symbols - Safety Colours and Safety Signs - Guidance for the  Development and use of a Safety Signing System",
+        "rank": 25,
+        "similarity": 0.2085
+      },
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "rank": 26,
+        "similarity": 0.207
+      },
+      {
+        "standard_id": "IS_16451_2023",
+        "standard_number": "IS 16451:2023",
+        "title": "Graphical Symbols  Safety Colours and Safety Signs  Registered Safety Signs",
+        "rank": 27,
+        "similarity": 0.2054
+      },
+      {
+        "standard_id": "IS_16882_PART_1_2018",
+        "standard_number": "IS 16882 (Part 1):2018",
+        "title": "Water safety signs and beach safety flags: Part 1 specifications for water safety signs used in workplaces and public areas",
+        "rank": 28,
+        "similarity": 0.2053
+      },
+      {
+        "standard_id": "IS_16882_PART_2_2018",
+        "standard_number": "IS 16882 (Part 2):2018",
+        "title": "Water safety signs and beach safety flags: Part 2 specifications for beach safety flags - Colour, shape, meaning and performance",
+        "rank": 29,
+        "similarity": 0.2049
+      },
+      {
+        "standard_id": "IS_14530_PART_1_2019",
+        "standard_number": "IS 14530 (Part 1):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 1 Robots (first revision)",
+        "rank": 30,
+        "similarity": 0.2033
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 49,
+    "candidate_count": 49,
+    "results": [
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "bm25_rank": 1,
+        "dense_rank": 26,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "bm25_rank": 2,
+        "dense_rank": 2,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17025_2018",
+        "standard_number": "IS 17025:2018",
+        "title": "Milling cutters for high speed machining -- Safety requirements",
+        "bm25_rank": 3,
+        "dense_rank": null,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15075_2024",
+        "standard_number": "IS 15075:2024",
+        "title": "Rotary and rotary impact masonry drill bits with hard metal tips -- Dimensions (first revision)",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16608_2018",
+        "standard_number": "IS 16608:2018",
+        "title": "Robots and robotic devices - Safety requirements for personal care robots",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14530_PART_2_2019",
+        "standard_number": "IS 14530 (Part 2):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 2 Robot systems and integration (first revision)",
+        "bm25_rank": 6,
+        "dense_rank": 18,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14530_PART_1_2019",
+        "standard_number": "IS 14530 (Part 1):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 1 Robots (first revision)",
+        "bm25_rank": 7,
+        "dense_rank": 30,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_2_2025",
+        "standard_number": "IS/ISO 10218 (Part 2):2025",
+        "title": "Robotics  safety requirements: Part 2 Industrial robot applications and robot cells",
+        "bm25_rank": 8,
+        "dense_rank": 5,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_1_2025",
+        "standard_number": "IS/ISO 10218 (Part 1):2025",
+        "title": "Robotics  safety requirements: Part 1 Industrial robots",
+        "bm25_rank": 9,
+        "dense_rank": 11,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17691_PART_1_2021",
+        "standard_number": "IS 17691 (Part 1):2021",
+        "title": "ROBOTICS  SAFETY DESIGN FOR INDUSTRIAL ROBOT SYSTEMS  PART 1: END-EFFECTORS",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17691_PART_2_2021",
+        "standard_number": "IS 17691 (Part 2):2021",
+        "title": "ROBOTICS  SAFETY DESIGN FOR INDUSTRIAL ROBOT SYSTEMS  PART 2: MANUAL LOADUNLOAD STATIONS",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15034_2001",
+        "standard_number": "IS 15034:2001",
+        "title": "Manipulating industrial robots -- Informative guide on test equipment and metrology methods of operation for robot performance evaluation in accordance with is 14533:1998",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15842_2009",
+        "standard_number": "IS 15842:2009",
+        "title": "Snowboard strap bindings for soft boots - Requirements and test methods",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17801_PART_2_2022",
+        "standard_number": "IS 17801 (Part 2):2022",
+        "title": "Stationary training equipment: Stationary exercise bicycles and  upper body crank training equipment additional specific safety requirements and test methods",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17247_PART_2_2019",
+        "standard_number": "IS 17247 (Part 2):2019",
+        "title": "Test Conditions for High Accuracy Turret and Single Spindle Coordinate Drilling and Boring Machines with Table of Fixed Height with Vertical Spindle — Testing of the Accuracy Part 2 Portal Type Machines with Moving Table",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14694_1999",
+        "standard_number": "IS 14694:1999",
+        "title": "2-Jaw and 3-Jaw Power Operated High Speed Lathe Chucks With Through Bore - Specification",
+        "bm25_rank": 16,
+        "dense_rank": null,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_13723_2025",
+        "standard_number": "IS 13723:2025",
+        "title": "Hexagon high nuts (style 2) with metric fine pitch thread - Product grades A and B - Specification (third revision)",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16888_2018",
+        "standard_number": "IS 16888:2018",
+        "title": "Safety Colours and Safety Signs — Classification, Performance and Durability of Safety Signs",
+        "bm25_rank": 18,
+        "dense_rank": 4,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18057_PART_9_2023",
+        "standard_number": "IS 18057 (Part 9):2023",
+        "title": "Woodworking machines  Safety  Part 9:  Circular Saw Benches with and without sliding table",
+        "bm25_rank": 19,
+        "dense_rank": null,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17247_PART_1_2019",
+        "standard_number": "IS 17247 (Part 1):2019",
+        "title": "Test Conditions for High Accuracy Turret and Single Spindle Coordinate Drilling and Boring Machines with Table of Fixed Height with Vertical Spindle — Testing of the Accuracy Part 1 Single Column Type Machines",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16449_PART_1_2018",
+        "standard_number": "IS 16449 (Part 1):2018",
+        "title": "Graphical symbols - Safety colours and safety signs: Part 1 design principles for safety signs and safety markings",
+        "bm25_rank": 21,
+        "dense_rank": 15,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_19708_2026",
+        "standard_number": "IS 19708:2026",
+        "title": "Graphical Symbols - Safety Colours and Safety Signs - Guidance for the  Development and use of a Safety Signing System",
+        "bm25_rank": 22,
+        "dense_rank": 25,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16492_2017",
+        "standard_number": "IS 16492:2017",
+        "title": "Manipulating industrial robots - Object handling with grasp - Type grippers - Vocabulary and presentation of characteristics",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_9707_2024",
+        "standard_number": "IS 9707:2024",
+        "title": "Pneumatic Screw Drivers and Nut Runners (Non-Impact Type) --Specification (Second Revision )",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17801_PART_1_2022",
+        "standard_number": "IS 17801 (Part 1):2022",
+        "title": "Stationary training equipment:   Part 1: General safety requirements and test methods",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16451_2023",
+        "standard_number": "IS 16451:2023",
+        "title": "Graphical Symbols  Safety Colours and Safety Signs  Registered Safety Signs",
+        "bm25_rank": 27,
+        "dense_rank": 27,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_19666_2026",
+        "standard_number": "IS 19666:2026",
+        "title": "Graphical Symbols -- Safety Colours and Safety Signs -- Natural  Disaster Safety way Guidance System",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16449_PART_4_2017",
+        "standard_number": "IS 16449 (Part 4):2017",
+        "title": "Graphical symbols - Safety colours and safety signs: Part 4 colorimetric and photometric properties of safety sign materials",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16882_PART_2_2018",
+        "standard_number": "IS 16882 (Part 2):2018",
+        "title": "Water safety signs and beach safety flags: Part 2 specifications for beach safety flags - Colour, shape, meaning and performance",
+        "bm25_rank": 30,
+        "dense_rank": 29,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_13584_PART_1_2001",
+        "standard_number": "IS/ISO 13584 (Part 1):2001",
+        "title": "Industrial automation systems and integration -- Parts library: Part 1 Overview and fundamental principles",
+        "bm25_rank": null,
+        "dense_rank": 1,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_6789_PART_2_2017",
+        "standard_number": "IS/ISO 6789 (Part 2):2017",
+        "title": "Assembly tools for screws and nuts  Hand torque tools  Part 2: Requirements for calibration and determination of measurement uncertainty",
+        "bm25_rank": null,
+        "dense_rank": 3,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_10303_PART_1_2024",
+        "standard_number": "IS/ISO 10303 (Part 1):2024",
+        "title": "Industrial automation systems and integration -- Product data representation and exchange: Part 1 Overview and fundamental principles second revision",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_31_2004",
+        "standard_number": "IS/ISO 15531 (Part 31):2004",
+        "title": "Industrial automation systems and integration -- Industrial manufacturing management data: Part 31 Resource information model",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_42_2005",
+        "standard_number": "IS/ISO 15531 (Part 42):2005",
+        "title": "Industrial automation systems and integration - Industrial manufacturing management data: Part 42 time model",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_1_2004",
+        "standard_number": "IS/ISO 15531 (Part 1):2004",
+        "title": "Industrial automation systems and integration -- Industrial manufacturing management data: Part 1 General overview",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_43_2006",
+        "standard_number": "IS/ISO 15531 (Part 43):2006",
+        "title": "Industrial Automation Systems and Integration Industrial Manufacturing Management Data Part 43 Manufacturing Flow Management Data : Data Model for Flow Monitoring and Manufacturing Data Exchange",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_15531_PART_32_2005",
+        "standard_number": "IS/ISO 15531 (Part 32):2005",
+        "title": "Industrial automation systems and integration - Industrial manufacturing management data : resources usage management: Part 32 conceptual model for resources usage management data",
+        "bm25_rank": null,
+        "dense_rank": 12,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_6789_PART_1_2017",
+        "standard_number": "IS/ISO 6789 (Part 1):2017",
+        "title": "Assembly tools for screws and nuts  Hand torque tools  Part 1: Requirements and methods for design conformance testing and quality conformance testing: minimum requirements for declaration of conformance",
+        "bm25_rank": null,
+        "dense_rank": 14,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_3318_2016",
+        "standard_number": "IS/ISO 3318:2016",
+        "title": "Assembly tools for screws and nuts - Open-ended wrenches, box wrenches and combination wrenches - Maximum widths of heads ( first revision)",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_20242_PART_1_2005",
+        "standard_number": "IS/ISO 20242 (Part 1):2005",
+        "title": "Industrial automation systems and integration - Service interface for testing applications: Part 1 overview",
+        "bm25_rank": null,
+        "dense_rank": 17,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_11145_2018",
+        "standard_number": "IS/ISO 11145:2018",
+        "title": "Optics and Photonics   Lasers and Lasers-related equipment   Vocabulary and Symbols",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_6462_2011",
+        "standard_number": "IS/ISO 6462:2011",
+        "title": "Face milling cutters with indexable inserts -- Dimensions",
+        "bm25_rank": null,
+        "dense_rank": 20,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15091_PART_2_2004",
+        "standard_number": "IS 15091 (Part 2):2004",
+        "title": "Indexable inserts for cutting tools -- Ceramic inserts with rounded corners: Part 2 dimensions of inserts with cylindrical fixing hole",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_12689_1989",
+        "standard_number": "IS 12689:1989",
+        "title": "Small tools -- Subland twist drills with morse taper shank for clearance holes and counterbores for slotted cheese head screws -- Specification",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_1850_1961",
+        "standard_number": "IS 1850:1961",
+        "title": "Dimensions for shank diameters and driving squares for rotating tools",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17254_2019",
+        "standard_number": "IS 17254:2019",
+        "title": "Machine Tools — Safety — Sawing Machines for Cold Metal",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16882_PART_1_2018",
+        "standard_number": "IS 16882 (Part 1):2018",
+        "title": "Water safety signs and beach safety flags: Part 1 specifications for water safety signs used in workplaces and public areas",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "pre_rerank_rank": 2,
+        "reranker_rank": 1,
+        "reranker_score": 0.6507,
+        "rank_change": 1
+      },
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 2,
+        "reranker_score": 0.6278,
+        "rank_change": -1
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_2_2025",
+        "standard_number": "IS/ISO 10218 (Part 2):2025",
+        "title": "Robotics  safety requirements: Part 2 Industrial robot applications and robot cells",
+        "pre_rerank_rank": 8,
+        "reranker_rank": 3,
+        "reranker_score": 0.5244,
+        "rank_change": 5
+      },
+      {
+        "standard_id": "IS_14530_PART_2_2019",
+        "standard_number": "IS 14530 (Part 2):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 2 Robot systems and integration (first revision)",
+        "pre_rerank_rank": 6,
+        "reranker_rank": 4,
+        "reranker_score": 0.5025,
+        "rank_change": 2
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_1_2025",
+        "standard_number": "IS/ISO 10218 (Part 1):2025",
+        "title": "Robotics  safety requirements: Part 1 Industrial robots",
+        "pre_rerank_rank": 9,
+        "reranker_rank": 5,
+        "reranker_score": 0.4931,
+        "rank_change": 4
+      },
+      {
+        "standard_id": "IS_14530_PART_1_2019",
+        "standard_number": "IS 14530 (Part 1):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 1 Robots (first revision)",
+        "pre_rerank_rank": 7,
+        "reranker_rank": 6,
+        "reranker_score": 0.487,
+        "rank_change": 1
+      },
+      {
+        "standard_id": "IS_16888_2018",
+        "standard_number": "IS 16888:2018",
+        "title": "Safety Colours and Safety Signs — Classification, Performance and Durability of Safety Signs",
+        "pre_rerank_rank": 18,
+        "reranker_rank": 7,
+        "reranker_score": 0.4528,
+        "rank_change": 11
+      },
+      {
+        "standard_id": "IS_17025_2018",
+        "standard_number": "IS 17025:2018",
+        "title": "Milling cutters for high speed machining -- Safety requirements",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 8,
+        "reranker_score": 0.4423,
+        "rank_change": -5
+      },
+      {
+        "standard_id": "IS_16449_PART_1_2018",
+        "standard_number": "IS 16449 (Part 1):2018",
+        "title": "Graphical symbols - Safety colours and safety signs: Part 1 design principles for safety signs and safety markings",
+        "pre_rerank_rank": 21,
+        "reranker_rank": 9,
+        "reranker_score": 0.4152,
+        "rank_change": 12
+      },
+      {
+        "standard_id": "IS_15075_2024",
+        "standard_number": "IS 15075:2024",
+        "title": "Rotary and rotary impact masonry drill bits with hard metal tips -- Dimensions (first revision)",
+        "pre_rerank_rank": 4,
+        "reranker_rank": 10,
+        "reranker_score": 0.4057,
+        "rank_change": -6
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "semantic_similarity": 48.0,
+        "lexical_relevance": 100.0,
+        "product_match": 85.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 67.3,
+        "calibrated_score": 67.3,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "semantic_similarity": 41.7,
+        "lexical_relevance": 100.0,
+        "product_match": 85.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 65.1,
+        "calibrated_score": 65.1,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_2_2025",
+        "standard_number": "IS/ISO 10218 (Part 2):2025",
+        "title": "Robotics  safety requirements: Part 2 Industrial robot applications and robot cells",
+        "semantic_similarity": 40.9,
+        "lexical_relevance": 73.9,
+        "product_match": 56.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 46.9,
+        "calibrated_score": 46.9,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_14530_PART_2_2019",
+        "standard_number": "IS 14530 (Part 2):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 2 Robot systems and integration (first revision)",
+        "semantic_similarity": 36.3,
+        "lexical_relevance": 76.1,
+        "product_match": 56.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 45.6,
+        "calibrated_score": 45.6,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_ISO_10218_PART_1_2025",
+        "standard_number": "IS/ISO 10218 (Part 1):2025",
+        "title": "Robotics  safety requirements: Part 1 Industrial robots",
+        "semantic_similarity": 38.3,
+        "lexical_relevance": 68.8,
+        "product_match": 56.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 45.2,
+        "calibrated_score": 45.2,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_14530_PART_1_2019",
+        "standard_number": "IS 14530 (Part 1):2019",
+        "title": "Robots and robotic devices -- Safety requirements for industrial robots: Part 1 Robots (first revision)",
+        "semantic_similarity": 34.5,
+        "lexical_relevance": 74.6,
+        "product_match": 56.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 44.7,
+        "calibrated_score": 44.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16888_2018",
+        "standard_number": "IS 16888:2018",
+        "title": "Safety Colours and Safety Signs — Classification, Performance and Durability of Safety Signs",
+        "semantic_similarity": 37.8,
+        "lexical_relevance": 61.7,
+        "product_match": 51.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 43.1,
+        "calibrated_score": 43.1,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_17025_2018",
+        "standard_number": "IS 17025:2018",
+        "title": "Milling cutters for high speed machining -- Safety requirements",
+        "semantic_similarity": 22.1,
+        "lexical_relevance": 81.7,
+        "product_match": 62.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 42.3,
+        "calibrated_score": 42.3,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16449_PART_1_2018",
+        "standard_number": "IS 16449 (Part 1):2018",
+        "title": "Graphical symbols - Safety colours and safety signs: Part 1 design principles for safety signs and safety markings",
+        "semantic_similarity": 32.4,
+        "lexical_relevance": 60.4,
+        "product_match": 51.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 41.1,
+        "calibrated_score": 41.1,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_15075_2024",
+        "standard_number": "IS 15075:2024",
+        "title": "Rotary and rotary impact masonry drill bits with hard metal tips -- Dimensions (first revision)",
+        "semantic_similarity": 20.3,
+        "lexical_relevance": 76.9,
+        "product_match": 56.5,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 40.1,
+        "calibrated_score": 40.1,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "match_level": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "is_abstained": false,
+    "abstention_reason": null,
+    "top_score": 67.3,
+    "second_best_score": 65.1,
+    "score_margin": 2.2,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_FAILURE_OBSERVED",
+    "diagnostic_flags": [
+      "SMALL_SCORE_MARGIN"
+    ]
+  },
+  "timing": {
+    "extraction_ms": 0.02,
+    "bm25_ms": 2.34,
+    "dense_ms": 3.51,
+    "fusion_ms": 0.58,
+    "reranker_ms": 0.31,
+    "applicability_ms": 0.84,
+    "decision_ms": 0.02,
+    "total_ms": 9.79
+  }
+}

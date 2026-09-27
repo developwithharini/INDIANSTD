@@ -1,0 +1,1535 @@
+{
+  "analysis_id": "anl_f032eb1209",
+  "query": "இடுப்பு ஆதரவுடன் கூடிய பணிச்சூழல் வேலை நாற்காலிகள்",
+  "normalized_query": "இடுப்பு ஆதரவுடன் கூடிய பணிச்சூழல் வேலை நாற்காலிகள்",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T17:48:51.049897",
+  "requirement_extraction": {
+    "original_query": "இடுப்பு ஆதரவுடன் கூடிய பணிச்சூழல் வேலை நாற்காலிகள்",
+    "normalized_query": "இடுப்பு ஆதரவுடன் கூடிய பணிச்சூழல் வேலை நாற்காலிகள்",
+    "language": "English",
+    "product": "இடுப்பு ஆதரவுடன் கூடிய பணிச்சூழல் வேலை நாற்காலிகள்",
+    "category": "General Goods",
+    "domain": "General Goods",
+    "application": "இடுப்பு ஆதரவுடன் கூடிய பணிச்சூழல் வேலை நாற்காலிகள்",
+    "environment": "General",
+    "materials": [],
+    "attributes": [],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_17894_2022",
+        "standard_number": "IS 17894:2022",
+        "title": "Geometrical product specifications GPS -  Geometrical tolerancing - General geometrical specifications and general size specifications",
+        "rank": 1,
+        "score": 0.0035,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "rank": 2,
+        "score": 0.0035,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4218_PART_2_2001",
+        "standard_number": "IS 4218 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads: Part 2 general plan (Second Revision)",
+        "rank": 3,
+        "score": 0.0034,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_988_1959",
+        "standard_number": "IS 988:1959",
+        "title": "General requirements for optical components",
+        "rank": 4,
+        "score": 0.0033,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8533_1977",
+        "standard_number": "IS 8533:1977",
+        "title": "General Purpose Carabiners for Mountaineering",
+        "rank": 5,
+        "score": 0.0033,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3148_1991",
+        "standard_number": "IS 3148:1991",
+        "title": "Slide fasteners (General Purpose) (Fourth Revision)",
+        "rank": 6,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12319_1988",
+        "standard_number": "IS 12319:1988",
+        "title": "Circular screwing dies -- General table of dimensions",
+        "rank": 7,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11669_1986",
+        "standard_number": "IS 11669:1986",
+        "title": "General principles of dimensioning on technical drawings",
+        "rank": 8,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4595_1969",
+        "standard_number": "IS 4595:1969",
+        "title": "GENERAL REQUIREMENTS FOR NON-SPARKING TOOLS",
+        "rank": 9,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "rank": 10,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "SP_61_1994",
+        "standard_number": "SP 61:1994",
+        "title": "General guidelines for automatic weather stations",
+        "rank": 11,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3081_1994",
+        "standard_number": "IS 3081:1994",
+        "title": "Microscopes - General purposes - Dimensions and marking  (First Revision)",
+        "rank": 12,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3974_1967",
+        "standard_number": "IS 3974:1967",
+        "title": "Specification for bifurcated rivets for general purposes",
+        "rank": 13,
+        "score": 0.0032,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_8533_2026",
+        "standard_number": "IS 8533:2026",
+        "title": "General Purpose Carabiners for Mountaineering — Specification (First Revision)",
+        "rank": 14,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4506_2024",
+        "standard_number": "IS 4506:2024",
+        "title": "Hand Tools - Forks, General  Purpose - Specification (second revision)",
+        "rank": 15,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_3457_2009",
+        "standard_number": "IS 3457:2009",
+        "title": "Radii for rounding for general engineering purposes (Second Revision)",
+        "rank": 16,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11016_1984",
+        "standard_number": "IS 11016:1984",
+        "title": "General safety requirements for machine tools and their operation",
+        "rank": 17,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_989_1982",
+        "standard_number": "IS 989:1982",
+        "title": "Specification for scissors for general purposes (Second Revision)",
+        "rank": 18,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1480_1970",
+        "standard_number": "IS 1480:1970",
+        "title": "Specification metric scales for general purposes  (First Revision)",
+        "rank": 19,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16573_2025",
+        "standard_number": "IS 16573:2025",
+        "title": "General Requirements for Establishing Anthropometric Databases ( First Revision )",
+        "rank": 20,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_5669_2019",
+        "standard_number": "IS 5669:2019",
+        "title": "Rolling bearings -- Radial bearings -- Boundary dimensions, general plan (Second Revision)",
+        "rank": 21,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_5932_2019",
+        "standard_number": "IS 5932:2019",
+        "title": "Rolling bearings -- Thrust bearings -- Boundary dimensions, general plan (Second Revision)",
+        "rank": 22,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16570_2017",
+        "standard_number": "IS 16570:2017",
+        "title": "Ergonomics - Visual danger signals - General requirements, design and testing",
+        "rank": 23,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2087_1988",
+        "standard_number": "IS 2087:1988",
+        "title": "Specification for square tins for general purposes  (Third Revision)",
+        "rank": 24,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2134_1981",
+        "standard_number": "IS 2134:1981",
+        "title": "Specification for round tins for general purposes (Second Revision)",
+        "rank": 25,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4762_2002",
+        "standard_number": "IS 4762:2002",
+        "title": "FASTENERS — WORM DRIVE HOSE CLAMPS FOR GENERAL PURPOSES — SPECIFICATION ( Second Revision )",
+        "rank": 26,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_13093_2002",
+        "standard_number": "IS 13093:2002",
+        "title": "Sheet metal body repair steel hammers - General requirements  (First Revision)",
+        "rank": 27,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2161_1996",
+        "standard_number": "IS 2161:1996",
+        "title": "Coolant pumps for general purpose machine tools - Specification  (First Revision)",
+        "rank": 28,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14339_1996",
+        "standard_number": "IS 14339:1996",
+        "title": "Horology -- Watch bezel and back cover gauges -- Technical supply conditions -- General",
+        "rank": 29,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_13040_1991",
+        "standard_number": "IS 13040:1991",
+        "title": "Dolly blocks for use in steel body repairs - General requirements",
+        "rank": 30,
+        "score": 0.0031,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "rank": 1,
+        "similarity": 0.1815
+      },
+      {
+        "standard_id": "IS_7469_1974",
+        "standard_number": "IS 7469:1974",
+        "title": "Recommendation on preferred capacities for mechanical and hydraulic presses",
+        "rank": 2,
+        "similarity": 0.1795
+      },
+      {
+        "standard_id": "IS_2367_1981",
+        "standard_number": "IS 2367:1981",
+        "title": "Test chart for box type vertical drilling machines  (First Revision)",
+        "rank": 3,
+        "similarity": 0.1779
+      },
+      {
+        "standard_id": "IS_11842_1986",
+        "standard_number": "IS 11842:1986",
+        "title": "Specification for pvc/plastic hygienic belting",
+        "rank": 4,
+        "similarity": 0.1771
+      },
+      {
+        "standard_id": "IS_5101_1991",
+        "standard_number": "IS 5101:1991",
+        "title": "Twist drills, parallel shank, jobber series -- Specification (first revision)",
+        "rank": 5,
+        "similarity": 0.1754
+      },
+      {
+        "standard_id": "IS_19001_2023",
+        "standard_number": "IS 19001:2023",
+        "title": "Safety of Woodworking Machines  Edge-Banding  Machines Fed by Chains",
+        "rank": 6,
+        "similarity": 0.1714
+      },
+      {
+        "standard_id": "IS_14339_1996",
+        "standard_number": "IS 14339:1996",
+        "title": "Horology -- Watch bezel and back cover gauges -- Technical supply conditions -- General",
+        "rank": 7,
+        "similarity": 0.1695
+      },
+      {
+        "standard_id": "IS_5920_PART_12_2024",
+        "standard_number": "IS 5920 (Part 12):2024",
+        "title": "Optics and photonics -- Preparation of drawings for optical elements and systems : Part 12 Stress birefringence bubbles and inclusions  homogeneity and striae",
+        "rank": 8,
+        "similarity": 0.1408
+      },
+      {
+        "standard_id": "IS_703_1999",
+        "standard_number": "IS 703:1999",
+        "title": "Axes - Specification (Second Revision)",
+        "rank": 9,
+        "similarity": 0.1309
+      },
+      {
+        "standard_id": "IS_18430_PART_60_2024",
+        "standard_number": "IS 18430 (Part 60):2024",
+        "title": "Geometrical product specification GPS  Filtration : Part 60 Linear areal filters  Basic concepts",
+        "rank": 10,
+        "similarity": 0.1278
+      },
+      {
+        "standard_id": "IS_14872_PART_1_2014",
+        "standard_number": "IS 14872 (Part 1):2014",
+        "title": "Ball screws: Part 1 vocabulary and designation  (First Revision)",
+        "rank": 11,
+        "similarity": 0.1262
+      },
+      {
+        "standard_id": "IS_7262_1996",
+        "standard_number": "IS 7262:1996",
+        "title": "Turning mandrels - Specification  (First Revision)",
+        "rank": 12,
+        "similarity": 0.126
+      },
+      {
+        "standard_id": "IS_3286_1980",
+        "standard_number": "IS 3286:1980",
+        "title": "Specification for round grease tins  (First Revision)",
+        "rank": 13,
+        "similarity": 0.1251
+      },
+      {
+        "standard_id": "IS_18430_PART_61_2024",
+        "standard_number": "IS 18430 (Part 61):2024",
+        "title": "Geometrical product specification (GPS)--  Filtration : Part 61 Linear areal filters -- Gaussian filters",
+        "rank": 14,
+        "similarity": 0.1243
+      },
+      {
+        "standard_id": "IS_14872_PART_3_2013",
+        "standard_number": "IS 14872 (Part 3):2013",
+        "title": "Ball screws: Part 3 acceptance conditions and acceptance tests  (First Revision)",
+        "rank": 15,
+        "similarity": 0.1242
+      },
+      {
+        "standard_id": "IS_ISO_6392_PART_2_1996",
+        "standard_number": "IS/ISO 6392 (Part 2):1996",
+        "title": "Earth - Moving machinery - Lubrication fittings: Part 2 grease - Gun nozzles",
+        "rank": 16,
+        "similarity": 0.124
+      },
+      {
+        "standard_id": "IS_3800_2023",
+        "standard_number": "IS 3800:2023",
+        "title": "BATTING GLOVES — SPECIFICATION",
+        "rank": 17,
+        "similarity": 0.1216
+      },
+      {
+        "standard_id": "IS_ISO_14790_2005_2005",
+        "standard_number": "IS/ISO 14790:2005:2005",
+        "title": "Snowboard plate - Bindings - Requirements and test methods",
+        "rank": 18,
+        "similarity": 0.1215
+      },
+      {
+        "standard_id": "IS_18471_2025",
+        "standard_number": "IS 18471:2025",
+        "title": "Fasteners -  Drilling Screws with Tapping Screw Thread  - Specification (first revision)",
+        "rank": 19,
+        "similarity": 0.121
+      },
+      {
+        "standard_id": "IS_14872_PART_2_2024",
+        "standard_number": "IS 14872 (Part 2):2024",
+        "title": "Ball Screws  Part 2 Nominal Diameters, Leads, Nut Dimensions and Mounting Bolts — Metric Series  (First Revision)",
+        "rank": 20,
+        "similarity": 0.1207
+      },
+      {
+        "standard_id": "IS_2668_2004",
+        "standard_number": "IS 2668:2004",
+        "title": "T-slot cutters with cylindrical shanks and with morse taper shanks having tapped hole (second revision)",
+        "rank": 21,
+        "similarity": 0.1196
+      },
+      {
+        "standard_id": "IS_16225_PART_2_2014",
+        "standard_number": "IS 16225 (Part 2):2014",
+        "title": "Geometrical product specifications (GPS) - Cylindricity: Part 2 specification operators",
+        "rank": 22,
+        "similarity": 0.1179
+      },
+      {
+        "standard_id": "IS_15250_PART_4_2018",
+        "standard_number": "IS 15250 (Part 4):2018",
+        "title": "Test conditions for machining centres: Part 4 accuracy and repeatability of positioning of linear and rotary axes",
+        "rank": 23,
+        "similarity": 0.1169
+      },
+      {
+        "standard_id": "IS_15247_2002",
+        "standard_number": "IS 15247:2002",
+        "title": "7/24 tapers for tool shanks for automatic changing - Tapers for spindle noses",
+        "rank": 24,
+        "similarity": 0.1162
+      },
+      {
+        "standard_id": "IS_2063_PART_2_2016",
+        "standard_number": "IS 2063 (Part 2):2016",
+        "title": "Test code for machine tools: Part 2 determination of accuracy and repeatability of positioning of numerically controlled axes  (First Revision)",
+        "rank": 25,
+        "similarity": 0.1162
+      },
+      {
+        "standard_id": "IS_3785_2023",
+        "standard_number": "IS 3785:2023",
+        "title": "WICKET KEEPING GLOVES — SPECIFICATION",
+        "rank": 26,
+        "similarity": 0.1146
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_4_2004",
+        "standard_number": "IS/ISO 13041 (Part 4):2004",
+        "title": "Test conditions for numerically controlled turning machines and turning centres: Part 4 accuracy and repeatability of positioning of linear and rotary axes",
+        "rank": 27,
+        "similarity": 0.1115
+      },
+      {
+        "standard_id": "IS_8856_PART_1_2025",
+        "standard_number": "IS 8856 (Part 1):2025",
+        "title": "Weld Nuts - Specification: Part 1 Hexagon nuts (second revision)",
+        "rank": 28,
+        "similarity": 0.1111
+      },
+      {
+        "standard_id": "IS_6322_1982",
+        "standard_number": "IS 6322:1982",
+        "title": "Specification for concave milling cutters  (first revision)",
+        "rank": 29,
+        "similarity": 0.111
+      },
+      {
+        "standard_id": "IS_5446_2017",
+        "standard_number": "IS 5446:2017",
+        "title": "Machine chucking reamers with parallel shanks -- Specification (second revision)",
+        "rank": 30,
+        "similarity": 0.1096
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 59,
+    "candidate_count": 59,
+    "results": [
+      {
+        "standard_id": "IS_17894_2022",
+        "standard_number": "IS 17894:2022",
+        "title": "Geometrical product specifications GPS -  Geometrical tolerancing - General geometrical specifications and general size specifications",
+        "bm25_rank": 1,
+        "dense_rank": null,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16768_2018",
+        "standard_number": "IS 16768:2018",
+        "title": "Technical Drawings -- Construction drawings -- General principles of presentation for general arrangement and assembly drawings",
+        "bm25_rank": 2,
+        "dense_rank": null,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4218_PART_2_2001",
+        "standard_number": "IS 4218 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads: Part 2 general plan (Second Revision)",
+        "bm25_rank": 3,
+        "dense_rank": null,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_988_1959",
+        "standard_number": "IS 988:1959",
+        "title": "General requirements for optical components",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_8533_1977",
+        "standard_number": "IS 8533:1977",
+        "title": "General Purpose Carabiners for Mountaineering",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3148_1991",
+        "standard_number": "IS 3148:1991",
+        "title": "Slide fasteners (General Purpose) (Fourth Revision)",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12319_1988",
+        "standard_number": "IS 12319:1988",
+        "title": "Circular screwing dies -- General table of dimensions",
+        "bm25_rank": 7,
+        "dense_rank": null,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11669_1986",
+        "standard_number": "IS 11669:1986",
+        "title": "General principles of dimensioning on technical drawings",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4595_1969",
+        "standard_number": "IS 4595:1969",
+        "title": "GENERAL REQUIREMENTS FOR NON-SPARKING TOOLS",
+        "bm25_rank": 9,
+        "dense_rank": null,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14962_PART_2_2001",
+        "standard_number": "IS 14962 (Part 2):2001",
+        "title": "ISO general purpose metric screw threads - Tolerances: Part 2 limits of sizes for general purpose external and internal screw threads - Medium quality",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "SP_61_1994",
+        "standard_number": "SP 61:1994",
+        "title": "General guidelines for automatic weather stations",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3081_1994",
+        "standard_number": "IS 3081:1994",
+        "title": "Microscopes - General purposes - Dimensions and marking  (First Revision)",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3974_1967",
+        "standard_number": "IS 3974:1967",
+        "title": "Specification for bifurcated rivets for general purposes",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_8533_2026",
+        "standard_number": "IS 8533:2026",
+        "title": "General Purpose Carabiners for Mountaineering — Specification (First Revision)",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4506_2024",
+        "standard_number": "IS 4506:2024",
+        "title": "Hand Tools - Forks, General  Purpose - Specification (second revision)",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_3457_2009",
+        "standard_number": "IS 3457:2009",
+        "title": "Radii for rounding for general engineering purposes (Second Revision)",
+        "bm25_rank": 16,
+        "dense_rank": null,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11016_1984",
+        "standard_number": "IS 11016:1984",
+        "title": "General safety requirements for machine tools and their operation",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_989_1982",
+        "standard_number": "IS 989:1982",
+        "title": "Specification for scissors for general purposes (Second Revision)",
+        "bm25_rank": 18,
+        "dense_rank": null,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1480_1970",
+        "standard_number": "IS 1480:1970",
+        "title": "Specification metric scales for general purposes  (First Revision)",
+        "bm25_rank": 19,
+        "dense_rank": null,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16573_2025",
+        "standard_number": "IS 16573:2025",
+        "title": "General Requirements for Establishing Anthropometric Databases ( First Revision )",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_5669_2019",
+        "standard_number": "IS 5669:2019",
+        "title": "Rolling bearings -- Radial bearings -- Boundary dimensions, general plan (Second Revision)",
+        "bm25_rank": 21,
+        "dense_rank": null,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_5932_2019",
+        "standard_number": "IS 5932:2019",
+        "title": "Rolling bearings -- Thrust bearings -- Boundary dimensions, general plan (Second Revision)",
+        "bm25_rank": 22,
+        "dense_rank": null,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16570_2017",
+        "standard_number": "IS 16570:2017",
+        "title": "Ergonomics - Visual danger signals - General requirements, design and testing",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2087_1988",
+        "standard_number": "IS 2087:1988",
+        "title": "Specification for square tins for general purposes  (Third Revision)",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2134_1981",
+        "standard_number": "IS 2134:1981",
+        "title": "Specification for round tins for general purposes (Second Revision)",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4762_2002",
+        "standard_number": "IS 4762:2002",
+        "title": "FASTENERS — WORM DRIVE HOSE CLAMPS FOR GENERAL PURPOSES — SPECIFICATION ( Second Revision )",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_13093_2002",
+        "standard_number": "IS 13093:2002",
+        "title": "Sheet metal body repair steel hammers - General requirements  (First Revision)",
+        "bm25_rank": 27,
+        "dense_rank": null,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2161_1996",
+        "standard_number": "IS 2161:1996",
+        "title": "Coolant pumps for general purpose machine tools - Specification  (First Revision)",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14339_1996",
+        "standard_number": "IS 14339:1996",
+        "title": "Horology -- Watch bezel and back cover gauges -- Technical supply conditions -- General",
+        "bm25_rank": 29,
+        "dense_rank": 7,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_13040_1991",
+        "standard_number": "IS 13040:1991",
+        "title": "Dolly blocks for use in steel body repairs - General requirements",
+        "bm25_rank": 30,
+        "dense_rank": null,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "bm25_rank": null,
+        "dense_rank": 1,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7469_1974",
+        "standard_number": "IS 7469:1974",
+        "title": "Recommendation on preferred capacities for mechanical and hydraulic presses",
+        "bm25_rank": null,
+        "dense_rank": 2,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2367_1981",
+        "standard_number": "IS 2367:1981",
+        "title": "Test chart for box type vertical drilling machines  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 3,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11842_1986",
+        "standard_number": "IS 11842:1986",
+        "title": "Specification for pvc/plastic hygienic belting",
+        "bm25_rank": null,
+        "dense_rank": 4,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5101_1991",
+        "standard_number": "IS 5101:1991",
+        "title": "Twist drills, parallel shank, jobber series -- Specification (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_19001_2023",
+        "standard_number": "IS 19001:2023",
+        "title": "Safety of Woodworking Machines  Edge-Banding  Machines Fed by Chains",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5920_PART_12_2024",
+        "standard_number": "IS 5920 (Part 12):2024",
+        "title": "Optics and photonics -- Preparation of drawings for optical elements and systems : Part 12 Stress birefringence bubbles and inclusions  homogeneity and striae",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_703_1999",
+        "standard_number": "IS 703:1999",
+        "title": "Axes - Specification (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18430_PART_60_2024",
+        "standard_number": "IS 18430 (Part 60):2024",
+        "title": "Geometrical product specification GPS  Filtration : Part 60 Linear areal filters  Basic concepts",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14872_PART_1_2014",
+        "standard_number": "IS 14872 (Part 1):2014",
+        "title": "Ball screws: Part 1 vocabulary and designation  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 11,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7262_1996",
+        "standard_number": "IS 7262:1996",
+        "title": "Turning mandrels - Specification  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 12,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3286_1980",
+        "standard_number": "IS 3286:1980",
+        "title": "Specification for round grease tins  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18430_PART_61_2024",
+        "standard_number": "IS 18430 (Part 61):2024",
+        "title": "Geometrical product specification (GPS)--  Filtration : Part 61 Linear areal filters -- Gaussian filters",
+        "bm25_rank": null,
+        "dense_rank": 14,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14872_PART_3_2013",
+        "standard_number": "IS 14872 (Part 3):2013",
+        "title": "Ball screws: Part 3 acceptance conditions and acceptance tests  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_6392_PART_2_1996",
+        "standard_number": "IS/ISO 6392 (Part 2):1996",
+        "title": "Earth - Moving machinery - Lubrication fittings: Part 2 grease - Gun nozzles",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3800_2023",
+        "standard_number": "IS 3800:2023",
+        "title": "BATTING GLOVES — SPECIFICATION",
+        "bm25_rank": null,
+        "dense_rank": 17,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_14790_2005_2005",
+        "standard_number": "IS/ISO 14790:2005:2005",
+        "title": "Snowboard plate - Bindings - Requirements and test methods",
+        "bm25_rank": null,
+        "dense_rank": 18,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18471_2025",
+        "standard_number": "IS 18471:2025",
+        "title": "Fasteners -  Drilling Screws with Tapping Screw Thread  - Specification (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_14872_PART_2_2024",
+        "standard_number": "IS 14872 (Part 2):2024",
+        "title": "Ball Screws  Part 2 Nominal Diameters, Leads, Nut Dimensions and Mounting Bolts — Metric Series  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 20,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2668_2004",
+        "standard_number": "IS 2668:2004",
+        "title": "T-slot cutters with cylindrical shanks and with morse taper shanks having tapped hole (second revision)",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16225_PART_2_2014",
+        "standard_number": "IS 16225 (Part 2):2014",
+        "title": "Geometrical product specifications (GPS) - Cylindricity: Part 2 specification operators",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15250_PART_4_2018",
+        "standard_number": "IS 15250 (Part 4):2018",
+        "title": "Test conditions for machining centres: Part 4 accuracy and repeatability of positioning of linear and rotary axes",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15247_2002",
+        "standard_number": "IS 15247:2002",
+        "title": "7/24 tapers for tool shanks for automatic changing - Tapers for spindle noses",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 53,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2063_PART_2_2016",
+        "standard_number": "IS 2063 (Part 2):2016",
+        "title": "Test code for machine tools: Part 2 determination of accuracy and repeatability of positioning of numerically controlled axes  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 54,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3785_2023",
+        "standard_number": "IS 3785:2023",
+        "title": "WICKET KEEPING GLOVES — SPECIFICATION",
+        "bm25_rank": null,
+        "dense_rank": 26,
+        "fusion_rank": 55,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_4_2004",
+        "standard_number": "IS/ISO 13041 (Part 4):2004",
+        "title": "Test conditions for numerically controlled turning machines and turning centres: Part 4 accuracy and repeatability of positioning of linear and rotary axes",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 56,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8856_PART_1_2025",
+        "standard_number": "IS 8856 (Part 1):2025",
+        "title": "Weld Nuts - Specification: Part 1 Hexagon nuts (second revision)",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 57,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6322_1982",
+        "standard_number": "IS 6322:1982",
+        "title": "Specification for concave milling cutters  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 58,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5446_2017",
+        "standard_number": "IS 5446:2017",
+        "title": "Machine chucking reamers with parallel shanks -- Specification (second revision)",
+        "bm25_rank": null,
+        "dense_rank": 30,
+        "fusion_rank": 59,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "pre_rerank_rank": 31,
+        "reranker_rank": 1,
+        "reranker_score": 0.1192,
+        "rank_change": 30
+      },
+      {
+        "standard_id": "IS_7469_1974",
+        "standard_number": "IS 7469:1974",
+        "title": "Recommendation on preferred capacities for mechanical and hydraulic presses",
+        "pre_rerank_rank": 32,
+        "reranker_rank": 2,
+        "reranker_score": 0.1183,
+        "rank_change": 30
+      },
+      {
+        "standard_id": "IS_2367_1981",
+        "standard_number": "IS 2367:1981",
+        "title": "Test chart for box type vertical drilling machines  (First Revision)",
+        "pre_rerank_rank": 33,
+        "reranker_rank": 3,
+        "reranker_score": 0.1175,
+        "rank_change": 30
+      },
+      {
+        "standard_id": "IS_11842_1986",
+        "standard_number": "IS 11842:1986",
+        "title": "Specification for pvc/plastic hygienic belting",
+        "pre_rerank_rank": 34,
+        "reranker_rank": 4,
+        "reranker_score": 0.1172,
+        "rank_change": 30
+      },
+      {
+        "standard_id": "IS_5101_1991",
+        "standard_number": "IS 5101:1991",
+        "title": "Twist drills, parallel shank, jobber series -- Specification (first revision)",
+        "pre_rerank_rank": 35,
+        "reranker_rank": 5,
+        "reranker_score": 0.1164,
+        "rank_change": 30
+      },
+      {
+        "standard_id": "IS_19001_2023",
+        "standard_number": "IS 19001:2023",
+        "title": "Safety of Woodworking Machines  Edge-Banding  Machines Fed by Chains",
+        "pre_rerank_rank": 36,
+        "reranker_rank": 6,
+        "reranker_score": 0.1146,
+        "rank_change": 30
+      },
+      {
+        "standard_id": "IS_14339_1996",
+        "standard_number": "IS 14339:1996",
+        "title": "Horology -- Watch bezel and back cover gauges -- Technical supply conditions -- General",
+        "pre_rerank_rank": 29,
+        "reranker_rank": 7,
+        "reranker_score": 0.1138,
+        "rank_change": 22
+      },
+      {
+        "standard_id": "IS_5920_PART_12_2024",
+        "standard_number": "IS 5920 (Part 12):2024",
+        "title": "Optics and photonics -- Preparation of drawings for optical elements and systems : Part 12 Stress birefringence bubbles and inclusions  homogeneity and striae",
+        "pre_rerank_rank": 37,
+        "reranker_rank": 8,
+        "reranker_score": 0.1008,
+        "rank_change": 29
+      },
+      {
+        "standard_id": "IS_703_1999",
+        "standard_number": "IS 703:1999",
+        "title": "Axes - Specification (Second Revision)",
+        "pre_rerank_rank": 38,
+        "reranker_rank": 9,
+        "reranker_score": 0.0964,
+        "rank_change": 29
+      },
+      {
+        "standard_id": "IS_18430_PART_60_2024",
+        "standard_number": "IS 18430 (Part 60):2024",
+        "title": "Geometrical product specification GPS  Filtration : Part 60 Linear areal filters  Basic concepts",
+        "pre_rerank_rank": 39,
+        "reranker_rank": 10,
+        "reranker_score": 0.095,
+        "rank_change": 29
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "semantic_similarity": 15.0,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 18.3,
+        "calibrated_score": 18.3,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_7469_1974",
+        "standard_number": "IS 7469:1974",
+        "title": "Recommendation on preferred capacities for mechanical and hydraulic presses",
+        "semantic_similarity": 14.9,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 18.2,
+        "calibrated_score": 18.2,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_2367_1981",
+        "standard_number": "IS 2367:1981",
+        "title": "Test chart for box type vertical drilling machines  (First Revision)",
+        "semantic_similarity": 14.8,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 18.2,
+        "calibrated_score": 18.2,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_11842_1986",
+        "standard_number": "IS 11842:1986",
+        "title": "Specification for pvc/plastic hygienic belting",
+        "semantic_similarity": 14.7,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 18.2,
+        "calibrated_score": 18.2,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_5101_1991",
+        "standard_number": "IS 5101:1991",
+        "title": "Twist drills, parallel shank, jobber series -- Specification (first revision)",
+        "semantic_similarity": 14.6,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 18.1,
+        "calibrated_score": 18.1,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_19001_2023",
+        "standard_number": "IS 19001:2023",
+        "title": "Safety of Woodworking Machines  Edge-Banding  Machines Fed by Chains",
+        "semantic_similarity": 14.3,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 18.0,
+        "calibrated_score": 18.0,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_5920_PART_12_2024",
+        "standard_number": "IS 5920 (Part 12):2024",
+        "title": "Optics and photonics -- Preparation of drawings for optical elements and systems : Part 12 Stress birefringence bubbles and inclusions  homogeneity and striae",
+        "semantic_similarity": 12.1,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 17.2,
+        "calibrated_score": 17.2,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_703_1999",
+        "standard_number": "IS 703:1999",
+        "title": "Axes - Specification (Second Revision)",
+        "semantic_similarity": 11.4,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 17.0,
+        "calibrated_score": 17.0,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_18430_PART_60_2024",
+        "standard_number": "IS 18430 (Part 60):2024",
+        "title": "Geometrical product specification GPS  Filtration : Part 60 Linear areal filters  Basic concepts",
+        "semantic_similarity": 11.1,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 95.0,
+        "version_validity": 100.0,
+        "raw_score": 16.9,
+        "calibrated_score": 16.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_14339_1996",
+        "standard_number": "IS 14339:1996",
+        "title": "Horology -- Watch bezel and back cover gauges -- Technical supply conditions -- General",
+        "semantic_similarity": 14.2,
+        "lexical_relevance": 0.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 15.7,
+        "calibrated_score": 15.7,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "NO_SUFFICIENT_MATCH",
+    "match_level": "NO_SUFFICIENT_MATCH",
+    "is_abstained": true,
+    "abstention_reason": "No direct Indian Standard was found in the current corpus for 'இடுப்பு ஆதரவுடன் கூடிய பணிச்சூழல் வேலை நாற்காலிகள்'. The closest candidate identified is IS 16934:2018: Tools for Moulding - Support Pillars with a low applicability score of 18.3/100.",
+    "top_score": 18.3,
+    "second_best_score": 18.2,
+    "score_margin": 0.1,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_CORPUS_MATCH",
+    "diagnostic_flags": [
+      "LARGE_RERANK_JUMP",
+      "NO_CORPUS_DIRECT_MATCH"
+    ]
+  },
+  "timing": {
+    "extraction_ms": 1.78,
+    "bm25_ms": 13.37,
+    "dense_ms": 20.05,
+    "fusion_ms": 3.34,
+    "reranker_ms": 0.53,
+    "applicability_ms": 0.7,
+    "decision_ms": 0.22,
+    "total_ms": 36.84
+  }
+}

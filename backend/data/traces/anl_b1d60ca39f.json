@@ -1,0 +1,1549 @@
+{
+  "analysis_id": "anl_b1d60ca39f",
+  "query": "IP66 outdoor LED streetlights",
+  "normalized_query": "IP66 outdoor LED streetlights",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T17:35:58.129377",
+  "requirement_extraction": {
+    "original_query": "IP66 outdoor LED streetlights",
+    "normalized_query": "IP66 outdoor LED streetlights",
+    "language": "English",
+    "product": "IP66 outdoor LED streetlights",
+    "category": "Electrical & Lighting",
+    "domain": "Electrical & Lighting",
+    "application": "IP66 outdoor LED streetlights",
+    "environment": "Outdoor",
+    "materials": [],
+    "attributes": [
+      "IP66 Weatherproof ingress protection"
+    ],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "rank": 1,
+        "score": 41.3657,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "rank": 2,
+        "score": 34.2029,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_13450_PART_4_SEC_1_2020",
+        "standard_number": "IS 13450 (Part 4/Sec 1):2020",
+        "title": "Medical electrical equipment: Part 4 Guidance and interpretation: Section 1 Medical electrical equipment and medical electrical systems employing a degree of autonomy",
+        "rank": 3,
+        "score": 7.7938,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_6580_1972",
+        "standard_number": "IS 6580:1972",
+        "title": "Specification for train lighting belt fasteners",
+        "rank": 4,
+        "score": 7.0421,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4210_1967",
+        "standard_number": "IS 4210:1967",
+        "title": "Specification for strip feeler gauges for electrical purposes",
+        "rank": 5,
+        "score": 5.7674,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17259_2025",
+        "standard_number": "IS 17259:2025",
+        "title": "Machine Tools - Safety - Electrical Discharge Machines(FIRST REVISION)",
+        "rank": 6,
+        "score": 5.6971,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16381_2025",
+        "standard_number": "IS 16381:2025",
+        "title": "Light Conveyor Belts - Determination of Electrical Resistances  (first revision)",
+        "rank": 7,
+        "score": 5.6971,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16378_2025",
+        "standard_number": "IS 16378:2025",
+        "title": "Belt Drives -  Electrical Conductivity of Antistatic  Endless Synchronous Belts  - Characteristics and Test Method",
+        "rank": 8,
+        "score": 5.4321,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17250_2019",
+        "standard_number": "IS 17250:2019",
+        "title": "Test Conditions for Wire Electrical- Discharge Machines ( Wire EDM ) — Testing of the Accuracy",
+        "rank": 9,
+        "score": 5.4321,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "rank": 10,
+        "score": 5.0122,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "rank": 11,
+        "score": 4.9699,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19751_PART_5_2026",
+        "standard_number": "IS 19751 (Part 5):2026",
+        "title": "Railway infrastructure — Rail fastening systems: Part 5 Test method for electrical resistance",
+        "rank": 12,
+        "score": 4.9699,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15045_PART_1_2021",
+        "standard_number": "IS 15045 (Part 1):2021",
+        "title": "Pneumatic Fluid Power - Five-Port Directional Control Valves Part 1 Mounting Interface Surfaces without Electrical Connector ( First Revision )",
+        "rank": 13,
+        "score": 4.7189,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15045_PART_2_2021",
+        "standard_number": "IS 15045 (Part 2):2021",
+        "title": "Pneumatic Fluid Power - Five-Port Directional Control Valves Part 2 Mounting Interface Surfaces with Optional Electrical Connector ( First Revision )",
+        "rank": 14,
+        "score": 4.6717,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15148_2015",
+        "standard_number": "IS 15148:2015",
+        "title": "Belt drives - V - Ribbed belts, joined V - Belts and V - Belts including wide section belts and hexagonal belts - Electrical conductivity of antistatic belts: characteristics and methods of test  (First Revision)",
+        "rank": 15,
+        "score": 4.492,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "rank": 16,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "rank": 17,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "rank": 18,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_9748_2025",
+        "standard_number": "IS 9748:2025",
+        "title": "Metallic Slide Fasteners (For Aviation Purpose) — Specification (first revision)",
+        "rank": 19,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16384_2026",
+        "standard_number": "IS 16384:2026",
+        "title": "Light Conveyor Belts — Determination of the Relaxed Elastic Modulus (First Revision)",
+        "rank": 20,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_10325_2026",
+        "standard_number": "IS 10325:2026",
+        "title": "Square tins of 15 kg or 15 litre capacity for ghee, vanaspati, edible oils and bakery shortenings — Specification (third revision)",
+        "rank": 21,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7385_2026",
+        "standard_number": "IS 7385:2026",
+        "title": "Taper grooved pins — Half-length progressive grooves — Specification (third revision)",
+        "rank": 22,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19700_2026",
+        "standard_number": "IS 19700:2026",
+        "title": "Stationery — Cutter Blades — Specification",
+        "rank": 23,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_ISO_7425_PART_2_2021",
+        "standard_number": "IS/ISO 7425 (Part 2):2021",
+        "title": "Hydraulic fluid power cylinders — Dimensions and tolerances of housings for elastomer energized, plastic-faced seals  Part 2:  Rod seal housings (first revision)",
+        "rank": 24,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_7386_2026",
+        "standard_number": "IS 7386:2026",
+        "title": "Reverse-taper grooved pins — Half-length progressive grooves — Specification (Third Revision)",
+        "rank": 25,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19592_2026",
+        "standard_number": "IS 19592:2026",
+        "title": "Gauge Block Comparator — Calibration",
+        "rank": 26,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19751_PART_1_2026",
+        "standard_number": "IS 19751 (Part 1):2026",
+        "title": "Railway infrastructure — Rail fastening systems: Part 1 Vocabulary",
+        "rank": 27,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19751_PART_2_2026",
+        "standard_number": "IS 19751 (Part 2):2026",
+        "title": "Railway infrastructure — Rail fastening systems: Part 2 Test method for longitudinal rail restraint",
+        "rank": 28,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19751_PART_3_2026",
+        "standard_number": "IS 19751 (Part 3):2026",
+        "title": "Railway infrastructure — Rail fastening systems:  Part 3 Proof load test method for pull-out resistance",
+        "rank": 29,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_19751_PART_4_2026",
+        "standard_number": "IS 19751 (Part 4):2026",
+        "title": "Railway infrastructure — Rail fastening systems:  Part 4 Test methods for resistance to repeated loading",
+        "rank": 30,
+        "score": 0.0,
+        "matched_fields": [
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_2166_1963",
+        "standard_number": "IS 2166:1963",
+        "title": "Method for computation of capavity tables for horizontal and tilted oil storage tanks",
+        "rank": 1,
+        "similarity": 0.2188
+      },
+      {
+        "standard_id": "IS_3785_2023",
+        "standard_number": "IS 3785:2023",
+        "title": "WICKET KEEPING GLOVES — SPECIFICATION",
+        "rank": 2,
+        "similarity": 0.2122
+      },
+      {
+        "standard_id": "IS_11941_1987",
+        "standard_number": "IS 11941:1987",
+        "title": "Specification For Hand Burnishers",
+        "rank": 3,
+        "similarity": 0.2119
+      },
+      {
+        "standard_id": "IS_15942_2011",
+        "standard_number": "IS 15942:2011",
+        "title": "Technical drawings -- Symbolic presentation and indication of adhesive, fold and pressed joints",
+        "rank": 4,
+        "similarity": 0.2003
+      },
+      {
+        "standard_id": "IS_9387_PART_2_2018",
+        "standard_number": "IS 9387 (Part 2):2018",
+        "title": "Specification for taper male stud elbow body for oil - Hydraulic couplings: Part 2 made from bar stock",
+        "rank": 5,
+        "similarity": 0.1937
+      },
+      {
+        "standard_id": "IS_9387_PART_1_2018",
+        "standard_number": "IS 9387 (Part 1):2018",
+        "title": "Specification for taper male stud elbow body for oil - Hydraulic c0upling: Part 1 made from forgings zyxw",
+        "rank": 6,
+        "similarity": 0.1917
+      },
+      {
+        "standard_id": "IS_ISO_27500_2016",
+        "standard_number": "IS/ISO 27500:2016",
+        "title": "The Human - Centered Organization - Rationale and General Principles",
+        "rank": 7,
+        "similarity": 0.1827
+      },
+      {
+        "standard_id": "IS_15503_PART_1_2021",
+        "standard_number": "IS 15503 (Part 1):2021",
+        "title": "Graphical Symbols Test Methods Part 1 Methods for Testing Comprehensibility  First Revision",
+        "rank": 8,
+        "similarity": 0.1752
+      },
+      {
+        "standard_id": "IS_13214_PART_1_2020",
+        "standard_number": "IS 13214 (Part 1):2020",
+        "title": "Basic Human Body Measurements for Technological Design Part 1 Body Measurement Definitions and Landmarks ( Second Revision )",
+        "rank": 9,
+        "similarity": 0.171
+      },
+      {
+        "standard_id": "IS_13214_PART_3_2019",
+        "standard_number": "IS 13214 (Part 3):2019",
+        "title": "Basic human body measurements for technological design: Part 3 worldwide and regional design ranges for use in product standards",
+        "rank": 10,
+        "similarity": 0.1705
+      },
+      {
+        "standard_id": "IS_19119_2025",
+        "standard_number": "IS 19119:2025",
+        "title": "Tools for pressing  Spring plungers with helicoidal compression steel spring or gas spring",
+        "rank": 11,
+        "similarity": 0.1647
+      },
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "rank": 12,
+        "similarity": 0.1613
+      },
+      {
+        "standard_id": "IS_17219_PART_3_2022",
+        "standard_number": "IS 17219 (Part 3):2022",
+        "title": "Tools for pressing  Gas springs  Part 3: Gas spring with increased spring force and compact built height",
+        "rank": 13,
+        "similarity": 0.1578
+      },
+      {
+        "standard_id": "IS_6952_1990",
+        "standard_number": "IS 6952:1990",
+        "title": "Engineering metrology - Cylindrical squares - Specification  (First Revision)",
+        "rank": 14,
+        "similarity": 0.1554
+      },
+      {
+        "standard_id": "IS_2769_1969",
+        "standard_number": "IS 2769:1969",
+        "title": "Sizes for squares and square holes for general engineering purposes (First Revision",
+        "rank": 15,
+        "similarity": 0.1554
+      },
+      {
+        "standard_id": "IS_12484_1999",
+        "standard_number": "IS 12484:1999",
+        "title": "Cup seal for fluid power applications - Specification  (First Revision)",
+        "rank": 16,
+        "similarity": 0.1536
+      },
+      {
+        "standard_id": "IS_17172_PART_22_2020",
+        "standard_number": "IS 17172 (Part 22):2020",
+        "title": "Optics and Photonics — Environmental Test Methods Part 22 Combined Cold, Dry Heat or Temperature Change with Bump or Random Vibration",
+        "rank": 17,
+        "similarity": 0.1504
+      },
+      {
+        "standard_id": "IS_4017_1992",
+        "standard_number": "IS 4017:1992",
+        "title": "CARPENTERS SQUARES - SPECIFICATION ( First Revision )",
+        "rank": 18,
+        "similarity": 0.149
+      },
+      {
+        "standard_id": "IS_1561_2023",
+        "standard_number": "IS 1561:2023",
+        "title": "Set Squares for Use of Drawing Offices - Specification",
+        "rank": 19,
+        "similarity": 0.1486
+      },
+      {
+        "standard_id": "IS_8383_2023",
+        "standard_number": "IS 8383:2023",
+        "title": "Hydraulic Fluid Power  Filter Elements  Verification of Fabrication Integrity and Determination of the First Bubble Point",
+        "rank": 20,
+        "similarity": 0.1459
+      },
+      {
+        "standard_id": "IS_9775_2000",
+        "standard_number": "IS 9775:2000",
+        "title": "Carbide flats, squares and rounds -- Dimensions  (first revision)",
+        "rank": 21,
+        "similarity": 0.1422
+      },
+      {
+        "standard_id": "IS_1360_2023",
+        "standard_number": "IS 1360:2023",
+        "title": "ENGINEERS PATTERN TEE SQUARES  -  SPECIFICATION",
+        "rank": 22,
+        "similarity": 0.1409
+      },
+      {
+        "standard_id": "IS_18159_2023",
+        "standard_number": "IS 18159:2023",
+        "title": "Online Leakage Sealing Systems  Code of Practise",
+        "rank": 23,
+        "similarity": 0.1402
+      },
+      {
+        "standard_id": "IS_5935_PART_1_2019",
+        "standard_number": "IS 5935 (Part 1):2019",
+        "title": "Rolling bearings -- Internal clearance: Part 1 Radial internal clearance for radial bearings (Second Revision)",
+        "rank": 24,
+        "similarity": 0.1398
+      },
+      {
+        "standard_id": "IS_1444_1989",
+        "standard_number": "IS 1444:1989",
+        "title": "Engineers Pattern Drawing Boards - Specification (Second Revision)",
+        "rank": 25,
+        "similarity": 0.1387
+      },
+      {
+        "standard_id": "IS_6892_1973",
+        "standard_number": "IS 6892:1973",
+        "title": "Specification for Blacksmiths bick iron",
+        "rank": 26,
+        "similarity": 0.1375
+      },
+      {
+        "standard_id": "IS_4563_1987",
+        "standard_number": "IS 4563:1987",
+        "title": "Specification for block squares  (First Revision)",
+        "rank": 27,
+        "similarity": 0.1369
+      },
+      {
+        "standard_id": "IS_7664_2005",
+        "standard_number": "IS 7664:2005",
+        "title": "Guide pillar for press tool die sets - Specification (Second Revision)",
+        "rank": 28,
+        "similarity": 0.1368
+      },
+      {
+        "standard_id": "IS_7011_1973",
+        "standard_number": "IS 7011:1973",
+        "title": "Specification for back - Silvered mirrors used in insturment industry",
+        "rank": 29,
+        "similarity": 0.1367
+      },
+      {
+        "standard_id": "IS_5935_PART_2_2019",
+        "standard_number": "IS 5935 (Part 2):2019",
+        "title": "Rolling bearings - Internal clearance: Part 2 axial internal clearance for four - Point - Contact ball bearings",
+        "rank": 30,
+        "similarity": 0.1362
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 59,
+    "candidate_count": 59,
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "bm25_rank": 1,
+        "dense_rank": 12,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "bm25_rank": 2,
+        "dense_rank": null,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_13450_PART_4_SEC_1_2020",
+        "standard_number": "IS 13450 (Part 4/Sec 1):2020",
+        "title": "Medical electrical equipment: Part 4 Guidance and interpretation: Section 1 Medical electrical equipment and medical electrical systems employing a degree of autonomy",
+        "bm25_rank": 3,
+        "dense_rank": null,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_6580_1972",
+        "standard_number": "IS 6580:1972",
+        "title": "Specification for train lighting belt fasteners",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4210_1967",
+        "standard_number": "IS 4210:1967",
+        "title": "Specification for strip feeler gauges for electrical purposes",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17259_2025",
+        "standard_number": "IS 17259:2025",
+        "title": "Machine Tools - Safety - Electrical Discharge Machines(FIRST REVISION)",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16381_2025",
+        "standard_number": "IS 16381:2025",
+        "title": "Light Conveyor Belts - Determination of Electrical Resistances  (first revision)",
+        "bm25_rank": 7,
+        "dense_rank": null,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16378_2025",
+        "standard_number": "IS 16378:2025",
+        "title": "Belt Drives -  Electrical Conductivity of Antistatic  Endless Synchronous Belts  - Characteristics and Test Method",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17250_2019",
+        "standard_number": "IS 17250:2019",
+        "title": "Test Conditions for Wire Electrical- Discharge Machines ( Wire EDM ) — Testing of the Accuracy",
+        "bm25_rank": 9,
+        "dense_rank": null,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2925_1984",
+        "standard_number": "IS 2925: 1984",
+        "title": "Specification for Industrial Safety Helmets",
+        "bm25_rank": 11,
+        "dense_rank": null,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19751_PART_5_2026",
+        "standard_number": "IS 19751 (Part 5):2026",
+        "title": "Railway infrastructure — Rail fastening systems: Part 5 Test method for electrical resistance",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15045_PART_1_2021",
+        "standard_number": "IS 15045 (Part 1):2021",
+        "title": "Pneumatic Fluid Power - Five-Port Directional Control Valves Part 1 Mounting Interface Surfaces without Electrical Connector ( First Revision )",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15045_PART_2_2021",
+        "standard_number": "IS 15045 (Part 2):2021",
+        "title": "Pneumatic Fluid Power - Five-Port Directional Control Valves Part 2 Mounting Interface Surfaces with Optional Electrical Connector ( First Revision )",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15148_2015",
+        "standard_number": "IS 15148:2015",
+        "title": "Belt drives - V - Ribbed belts, joined V - Belts and V - Belts including wide section belts and hexagonal belts - Electrical conductivity of antistatic belts: characteristics and methods of test  (First Revision)",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_4151_2015",
+        "standard_number": "IS 4151: 2015",
+        "title": "Protective Helmets for Two-Wheeler Motorcyclists - Specification",
+        "bm25_rank": 16,
+        "dense_rank": null,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "bm25_rank": 18,
+        "dense_rank": null,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_9748_2025",
+        "standard_number": "IS 9748:2025",
+        "title": "Metallic Slide Fasteners (For Aviation Purpose) — Specification (first revision)",
+        "bm25_rank": 19,
+        "dense_rank": null,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16384_2026",
+        "standard_number": "IS 16384:2026",
+        "title": "Light Conveyor Belts — Determination of the Relaxed Elastic Modulus (First Revision)",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10325_2026",
+        "standard_number": "IS 10325:2026",
+        "title": "Square tins of 15 kg or 15 litre capacity for ghee, vanaspati, edible oils and bakery shortenings — Specification (third revision)",
+        "bm25_rank": 21,
+        "dense_rank": null,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7385_2026",
+        "standard_number": "IS 7385:2026",
+        "title": "Taper grooved pins — Half-length progressive grooves — Specification (third revision)",
+        "bm25_rank": 22,
+        "dense_rank": null,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19700_2026",
+        "standard_number": "IS 19700:2026",
+        "title": "Stationery — Cutter Blades — Specification",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_7425_PART_2_2021",
+        "standard_number": "IS/ISO 7425 (Part 2):2021",
+        "title": "Hydraulic fluid power cylinders — Dimensions and tolerances of housings for elastomer energized, plastic-faced seals  Part 2:  Rod seal housings (first revision)",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_7386_2026",
+        "standard_number": "IS 7386:2026",
+        "title": "Reverse-taper grooved pins — Half-length progressive grooves — Specification (Third Revision)",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19592_2026",
+        "standard_number": "IS 19592:2026",
+        "title": "Gauge Block Comparator — Calibration",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19751_PART_1_2026",
+        "standard_number": "IS 19751 (Part 1):2026",
+        "title": "Railway infrastructure — Rail fastening systems: Part 1 Vocabulary",
+        "bm25_rank": 27,
+        "dense_rank": null,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19751_PART_2_2026",
+        "standard_number": "IS 19751 (Part 2):2026",
+        "title": "Railway infrastructure — Rail fastening systems: Part 2 Test method for longitudinal rail restraint",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19751_PART_3_2026",
+        "standard_number": "IS 19751 (Part 3):2026",
+        "title": "Railway infrastructure — Rail fastening systems:  Part 3 Proof load test method for pull-out resistance",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_19751_PART_4_2026",
+        "standard_number": "IS 19751 (Part 4):2026",
+        "title": "Railway infrastructure — Rail fastening systems:  Part 4 Test methods for resistance to repeated loading",
+        "bm25_rank": 30,
+        "dense_rank": null,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2166_1963",
+        "standard_number": "IS 2166:1963",
+        "title": "Method for computation of capavity tables for horizontal and tilted oil storage tanks",
+        "bm25_rank": null,
+        "dense_rank": 1,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3785_2023",
+        "standard_number": "IS 3785:2023",
+        "title": "WICKET KEEPING GLOVES — SPECIFICATION",
+        "bm25_rank": null,
+        "dense_rank": 2,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_11941_1987",
+        "standard_number": "IS 11941:1987",
+        "title": "Specification For Hand Burnishers",
+        "bm25_rank": null,
+        "dense_rank": 3,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15942_2011",
+        "standard_number": "IS 15942:2011",
+        "title": "Technical drawings -- Symbolic presentation and indication of adhesive, fold and pressed joints",
+        "bm25_rank": null,
+        "dense_rank": 4,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9387_PART_2_2018",
+        "standard_number": "IS 9387 (Part 2):2018",
+        "title": "Specification for taper male stud elbow body for oil - Hydraulic couplings: Part 2 made from bar stock",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9387_PART_1_2018",
+        "standard_number": "IS 9387 (Part 1):2018",
+        "title": "Specification for taper male stud elbow body for oil - Hydraulic c0upling: Part 1 made from forgings zyxw",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_27500_2016",
+        "standard_number": "IS/ISO 27500:2016",
+        "title": "The Human - Centered Organization - Rationale and General Principles",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15503_PART_1_2021",
+        "standard_number": "IS 15503 (Part 1):2021",
+        "title": "Graphical Symbols Test Methods Part 1 Methods for Testing Comprehensibility  First Revision",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_13214_PART_1_2020",
+        "standard_number": "IS 13214 (Part 1):2020",
+        "title": "Basic Human Body Measurements for Technological Design Part 1 Body Measurement Definitions and Landmarks ( Second Revision )",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_13214_PART_3_2019",
+        "standard_number": "IS 13214 (Part 3):2019",
+        "title": "Basic human body measurements for technological design: Part 3 worldwide and regional design ranges for use in product standards",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_19119_2025",
+        "standard_number": "IS 19119:2025",
+        "title": "Tools for pressing  Spring plungers with helicoidal compression steel spring or gas spring",
+        "bm25_rank": null,
+        "dense_rank": 11,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17219_PART_3_2022",
+        "standard_number": "IS 17219 (Part 3):2022",
+        "title": "Tools for pressing  Gas springs  Part 3: Gas spring with increased spring force and compact built height",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6952_1990",
+        "standard_number": "IS 6952:1990",
+        "title": "Engineering metrology - Cylindrical squares - Specification  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 14,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2769_1969",
+        "standard_number": "IS 2769:1969",
+        "title": "Sizes for squares and square holes for general engineering purposes (First Revision",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_12484_1999",
+        "standard_number": "IS 12484:1999",
+        "title": "Cup seal for fluid power applications - Specification  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17172_PART_22_2020",
+        "standard_number": "IS 17172 (Part 22):2020",
+        "title": "Optics and Photonics — Environmental Test Methods Part 22 Combined Cold, Dry Heat or Temperature Change with Bump or Random Vibration",
+        "bm25_rank": null,
+        "dense_rank": 17,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4017_1992",
+        "standard_number": "IS 4017:1992",
+        "title": "CARPENTERS SQUARES - SPECIFICATION ( First Revision )",
+        "bm25_rank": null,
+        "dense_rank": 18,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_1561_2023",
+        "standard_number": "IS 1561:2023",
+        "title": "Set Squares for Use of Drawing Offices - Specification",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_8383_2023",
+        "standard_number": "IS 8383:2023",
+        "title": "Hydraulic Fluid Power  Filter Elements  Verification of Fabrication Integrity and Determination of the First Bubble Point",
+        "bm25_rank": null,
+        "dense_rank": 20,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_9775_2000",
+        "standard_number": "IS 9775:2000",
+        "title": "Carbide flats, squares and rounds -- Dimensions  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_1360_2023",
+        "standard_number": "IS 1360:2023",
+        "title": "ENGINEERS PATTERN TEE SQUARES  -  SPECIFICATION",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18159_2023",
+        "standard_number": "IS 18159:2023",
+        "title": "Online Leakage Sealing Systems  Code of Practise",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5935_PART_1_2019",
+        "standard_number": "IS 5935 (Part 1):2019",
+        "title": "Rolling bearings -- Internal clearance: Part 1 Radial internal clearance for radial bearings (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 53,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_1444_1989",
+        "standard_number": "IS 1444:1989",
+        "title": "Engineers Pattern Drawing Boards - Specification (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 54,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6892_1973",
+        "standard_number": "IS 6892:1973",
+        "title": "Specification for Blacksmiths bick iron",
+        "bm25_rank": null,
+        "dense_rank": 26,
+        "fusion_rank": 55,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4563_1987",
+        "standard_number": "IS 4563:1987",
+        "title": "Specification for block squares  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 56,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7664_2005",
+        "standard_number": "IS 7664:2005",
+        "title": "Guide pillar for press tool die sets - Specification (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 57,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7011_1973",
+        "standard_number": "IS 7011:1973",
+        "title": "Specification for back - Silvered mirrors used in insturment industry",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 58,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5935_PART_2_2019",
+        "standard_number": "IS 5935 (Part 2):2019",
+        "title": "Rolling bearings - Internal clearance: Part 2 axial internal clearance for four - Point - Contact ball bearings",
+        "bm25_rank": null,
+        "dense_rank": 30,
+        "fusion_rank": 59,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 1,
+        "reranker_score": 0.594,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "pre_rerank_rank": 2,
+        "reranker_rank": 2,
+        "reranker_score": 0.4786,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_13450_PART_4_SEC_1_2020",
+        "standard_number": "IS 13450 (Part 4/Sec 1):2020",
+        "title": "Medical electrical equipment: Part 4 Guidance and interpretation: Section 1 Medical electrical equipment and medical electrical systems employing a degree of autonomy",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 3,
+        "reranker_score": 0.1792,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_6580_1972",
+        "standard_number": "IS 6580:1972",
+        "title": "Specification for train lighting belt fasteners",
+        "pre_rerank_rank": 4,
+        "reranker_rank": 4,
+        "reranker_score": 0.1661,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_4210_1967",
+        "standard_number": "IS 4210:1967",
+        "title": "Specification for strip feeler gauges for electrical purposes",
+        "pre_rerank_rank": 5,
+        "reranker_rank": 5,
+        "reranker_score": 0.1438,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_17259_2025",
+        "standard_number": "IS 17259:2025",
+        "title": "Machine Tools - Safety - Electrical Discharge Machines(FIRST REVISION)",
+        "pre_rerank_rank": 6,
+        "reranker_rank": 6,
+        "reranker_score": 0.1426,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_16381_2025",
+        "standard_number": "IS 16381:2025",
+        "title": "Light Conveyor Belts - Determination of Electrical Resistances  (first revision)",
+        "pre_rerank_rank": 7,
+        "reranker_rank": 7,
+        "reranker_score": 0.1426,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_16378_2025",
+        "standard_number": "IS 16378:2025",
+        "title": "Belt Drives -  Electrical Conductivity of Antistatic  Endless Synchronous Belts  - Characteristics and Test Method",
+        "pre_rerank_rank": 8,
+        "reranker_rank": 8,
+        "reranker_score": 0.1379,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_17250_2019",
+        "standard_number": "IS 17250:2019",
+        "title": "Test Conditions for Wire Electrical- Discharge Machines ( Wire EDM ) — Testing of the Accuracy",
+        "pre_rerank_rank": 9,
+        "reranker_rank": 9,
+        "reranker_score": 0.1379,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "pre_rerank_rank": 10,
+        "reranker_rank": 10,
+        "reranker_score": 0.1306,
+        "rank_change": 0
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_10322_5_3_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 3): 2012",
+        "title": "Luminaires - Particular Requirements - Luminaires for Road and Street Lighting",
+        "semantic_similarity": 37.8,
+        "lexical_relevance": 100.0,
+        "product_match": 81.2,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 63.9,
+        "calibrated_score": 63.9,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_16106_2012",
+        "standard_number": "IS 16106: 2012",
+        "title": "Method of Measurement of Electrical and Photometric Characteristics of Solid State Lighting (LED) Products",
+        "semantic_similarity": 23.9,
+        "lexical_relevance": 100.0,
+        "product_match": 53.8,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 44.4,
+        "calibrated_score": 44.4,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_13450_PART_4_SEC_1_2020",
+        "standard_number": "IS 13450 (Part 4/Sec 1):2020",
+        "title": "Medical electrical equipment: Part 4 Guidance and interpretation: Section 1 Medical electrical equipment and medical electrical systems employing a degree of autonomy",
+        "semantic_similarity": 9.0,
+        "lexical_relevance": 31.2,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 18.6,
+        "calibrated_score": 18.6,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_6580_1972",
+        "standard_number": "IS 6580:1972",
+        "title": "Specification for train lighting belt fasteners",
+        "semantic_similarity": 8.3,
+        "lexical_relevance": 28.2,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 17.9,
+        "calibrated_score": 17.9,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_4210_1967",
+        "standard_number": "IS 4210:1967",
+        "title": "Specification for strip feeler gauges for electrical purposes",
+        "semantic_similarity": 7.2,
+        "lexical_relevance": 23.1,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 16.7,
+        "calibrated_score": 16.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_17259_2025",
+        "standard_number": "IS 17259:2025",
+        "title": "Machine Tools - Safety - Electrical Discharge Machines(FIRST REVISION)",
+        "semantic_similarity": 7.1,
+        "lexical_relevance": 22.8,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 16.7,
+        "calibrated_score": 16.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16381_2025",
+        "standard_number": "IS 16381:2025",
+        "title": "Light Conveyor Belts - Determination of Electrical Resistances  (first revision)",
+        "semantic_similarity": 7.1,
+        "lexical_relevance": 22.8,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 16.7,
+        "calibrated_score": 16.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16378_2025",
+        "standard_number": "IS 16378:2025",
+        "title": "Belt Drives -  Electrical Conductivity of Antistatic  Endless Synchronous Belts  - Characteristics and Test Method",
+        "semantic_similarity": 6.9,
+        "lexical_relevance": 21.7,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 16.4,
+        "calibrated_score": 16.4,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_17250_2019",
+        "standard_number": "IS 17250:2019",
+        "title": "Test Conditions for Wire Electrical- Discharge Machines ( Wire EDM ) — Testing of the Accuracy",
+        "semantic_similarity": 6.9,
+        "lexical_relevance": 21.7,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 16.4,
+        "calibrated_score": 16.4,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_10322_5_1_2012",
+        "standard_number": "IS 10322 (Part 5/Sec 1): 2012",
+        "title": "Luminaires - Particular Requirements - Fixed General Purpose Luminaires",
+        "semantic_similarity": 6.5,
+        "lexical_relevance": 20.0,
+        "product_match": 5.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 16.0,
+        "calibrated_score": 16.0,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "match_level": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "is_abstained": false,
+    "abstention_reason": null,
+    "top_score": 63.9,
+    "second_best_score": 44.4,
+    "score_margin": 19.5,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_FAILURE_OBSERVED",
+    "diagnostic_flags": []
+  },
+  "timing": {
+    "extraction_ms": 1.95,
+    "bm25_ms": 23.04,
+    "dense_ms": 34.56,
+    "fusion_ms": 5.76,
+    "reranker_ms": 0.72,
+    "applicability_ms": 2.1,
+    "decision_ms": 0.04,
+    "total_ms": 86.51
+  }
+}

@@ -1,0 +1,1532 @@
+{
+  "analysis_id": "anl_b9f4bfc7d9",
+  "query": "Ergonomic Executive Work Chairs with Lumbar Support",
+  "normalized_query": "Ergonomic Executive Work Chairs with Lumbar Support",
+  "dataset_version": "2026-09-27-PGD",
+  "execution_mode": "LOCAL_FALLBACK",
+  "debug_enabled": true,
+  "timestamp": "2026-09-27T17:56:06.077513",
+  "requirement_extraction": {
+    "original_query": "Ergonomic Executive Work Chairs with Lumbar Support",
+    "normalized_query": "Ergonomic Executive Work Chairs with Lumbar Support",
+    "language": "English",
+    "product": "Ergonomic Executive Work Chairs with Lumbar Support",
+    "category": "Furniture & Appliances",
+    "domain": "Furniture & Appliances",
+    "application": "Ergonomic Executive Work Chairs with Lumbar Support",
+    "environment": "General",
+    "materials": [],
+    "attributes": [],
+    "safety_requirements": [],
+    "testing_requirements": [],
+    "mentioned_standards": [],
+    "inferred_flags": {
+      "inferred_domain": false,
+      "inferred_category": true
+    }
+  },
+  "bm25": {
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "rank": 1,
+        "score": 76.9701,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "rank": 2,
+        "score": 14.45,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11325_1985",
+        "standard_number": "IS 11325:1985",
+        "title": "Specification for adjustable clamp support",
+        "rank": 3,
+        "score": 14.2648,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_12850_1987",
+        "standard_number": "IS 12850:1987",
+        "title": "Modular units for machine tool construction - Support brackets",
+        "rank": 4,
+        "score": 13.9082,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_1_2020",
+        "standard_number": "IS/ISO 13041 (Part 1):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres  Part 1 : Geometric tests for machines with horizontal work holding  spindles",
+        "rank": 5,
+        "score": 12.5606,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_2_2020",
+        "standard_number": "IS/ISO 13041 (Part 2):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres Part 2 : Geometric tests for machines with a vertical work holding spindle",
+        "rank": 6,
+        "score": 12.4443,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17192_PART_4_2023",
+        "standard_number": "IS 17192 (Part 4):2023",
+        "title": "Robotics  Performance criteria and related test methods for service robots  Part 4: Lower-back support robots",
+        "rank": 7,
+        "score": 11.3539,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_17102_2019",
+        "standard_number": "IS 17102:2019",
+        "title": "Ergonomics - Danger signals for public and work areas - Auditory danger signals",
+        "rank": 8,
+        "score": 11.2962,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16561_PART_5_2018",
+        "standard_number": "IS 16561 (Part 5):2018",
+        "title": "Ergonomic design of control centres: Part 5 displays and controls",
+        "rank": 9,
+        "score": 10.2674,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15836_PART_3_2025",
+        "standard_number": "IS 15836 (Part 3):2025",
+        "title": "Ergonomic Design for the Safety of Machinery : Part 3 Anthropometric Data ( First Revision )",
+        "rank": 10,
+        "score": 10.0466,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16561_PART_6_2022",
+        "standard_number": "IS 16561 (Part 6):2022",
+        "title": "ERGONOMIC DESIGN OF CONTROL CENTRES — PART 6: ENVIRONMENTAL REQUIREMENTS FOR CONTROL ROOMS",
+        "rank": 11,
+        "score": 10.0466,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16561_PART_4_2017",
+        "standard_number": "IS 16561 (Part 4):2017",
+        "title": "Ergonomic design of control centres: Part 4 layout and dimensions of workstations",
+        "rank": 12,
+        "score": 10.0466,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_18257_PART_5_2024",
+        "standard_number": "IS 18257 (Part 5):2024",
+        "title": "Technical product documentation -- Indication of dimensions and tolerances: Part 5 Dimensioning of structural metal work",
+        "rank": 13,
+        "score": 9.9883,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2582_PART_4_2016",
+        "standard_number": "IS 2582 (Part 4):2016",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 4 cylindrical connection",
+        "rank": 14,
+        "score": 9.9883,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_18263_PART_1_2023",
+        "standard_number": "IS 18263 (Part 1):2023",
+        "title": "Ergonomic principles related to mental workload  Part 1: General issues and concepts terms and definitions",
+        "rank": 15,
+        "score": 9.8351,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16561_PART_1_2017",
+        "standard_number": "IS 16561 (Part 1):2017",
+        "title": "Ergonomic design of control centres: Part 1 principles for the design of control centres",
+        "rank": 16,
+        "score": 9.8351,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2582_PART_3_2023",
+        "standard_number": "IS 2582 (Part 3):2023",
+        "title": "Machine tools  Connecting dimensions of spindle noses and work holding chucks  Part 3 : Bayonet type",
+        "rank": 17,
+        "score": 9.7824,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2582_PART_2_2016",
+        "standard_number": "IS 2582 (Part 2):2016",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 2 camlock type (Third Revision)",
+        "rank": 18,
+        "score": 9.7824,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_2582_PART_1_2015",
+        "standard_number": "IS 2582 (Part 1):2015",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 1 conical connection (Third Revision)",
+        "rank": 19,
+        "score": 9.7824,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16561_PART_2_2017",
+        "standard_number": "IS 16561 (Part 2):2017",
+        "title": "Ergonomic design of control centres  Part 2 Principles for the Arrangement of Control Suites",
+        "rank": 20,
+        "score": 9.7327,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15250_PART_5_2018",
+        "standard_number": "IS 15250 (Part 5):2018",
+        "title": "Test conditions for machining centres: Part 5 accuracy and repeatability of positioning of work - Holding pallets",
+        "rank": 21,
+        "score": 9.6826,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15836_PART_2_2008",
+        "standard_number": "IS 15836 (Part 2):2008",
+        "title": "Ergonomic design for the safety of machinery: Part 2 principles for determining the dimensions required for access openings",
+        "rank": 22,
+        "score": 9.5341,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_16595_PART_20_2024",
+        "standard_number": "IS 16595 (Part 20):2024",
+        "title": "Ergonomics of Human  System Interaction Part 20 An ergonomic approach to accessibility  within the ISO 9241 series",
+        "rank": 23,
+        "score": 9.4378,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_18263_PART_3_2023",
+        "standard_number": "IS 18263 (Part 3):2023",
+        "title": "Ergonomic principles related to mental workload  Part 3: Principles and requirements concerning methods for measuring and assessing mental workload",
+        "rank": 24,
+        "score": 9.2509,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15836_PART_1_2008",
+        "standard_number": "IS 15836 (Part 1):2008",
+        "title": "Ergonomic design for the safety of machinery: Part 1 principles for determining the dimensions required for openings for whole - Body access into machinery",
+        "rank": 25,
+        "score": 9.0713,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "rank": 26,
+        "score": 8.8683,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "rank": 27,
+        "score": 7.0622,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_14532_1998",
+        "standard_number": "IS 14532:1998",
+        "title": "Reduction sleeves with tenon drive with external and internal 7/24 taper -- Dimensions",
+        "rank": 28,
+        "score": 6.5893,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_11677_2004",
+        "standard_number": "IS 11677:2004",
+        "title": "Indexable hardmetal (carbide) inserts with rounded corners, with cylindrical fixing hole -- Dimensions  (first revision)",
+        "rank": 29,
+        "score": 6.5348,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      },
+      {
+        "standard_id": "IS_15577_PART_2_2005",
+        "standard_number": "IS 15577 (Part 2):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 2 stud ends with elastomeric sealing (Type E)",
+        "rank": 30,
+        "score": 6.5185,
+        "matched_fields": [
+          "title",
+          "scope"
+        ],
+        "exact_standard_match": false
+      }
+    ]
+  },
+  "dense": {
+    "model": "BAAI/bge-m3",
+    "embedding_mode": "LOCAL",
+    "candidate_count": 30,
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "rank": 1,
+        "similarity": 0.2752
+      },
+      {
+        "standard_id": "IS_10722_PART_4_1985",
+        "standard_number": "IS 10722 (Part 4):1985",
+        "title": "Graphical symbols for elements of kinematic diagrams: Part 4",
+        "rank": 2,
+        "similarity": 0.2137
+      },
+      {
+        "standard_id": "IS_7778_PART_8_2003",
+        "standard_number": "IS 7778 (Part 8):2003",
+        "title": "Small tools sampling inspection procedures: Part 8 Saws  (first revision)",
+        "rank": 3,
+        "similarity": 0.1856
+      },
+      {
+        "standard_id": "IS_3529_1966",
+        "standard_number": "IS 3529:1966",
+        "title": "Specification for eyelet pliers",
+        "rank": 4,
+        "similarity": 0.1839
+      },
+      {
+        "standard_id": "IS_7778_PART_11_2003",
+        "standard_number": "IS 7778 (Part 11):2003",
+        "title": "Small tools sampling inspection procedures: Part 11 Hard metal burrs  (first revision)",
+        "rank": 5,
+        "similarity": 0.1839
+      },
+      {
+        "standard_id": "IS_6987_1973",
+        "standard_number": "IS 6987:1973",
+        "title": "Specification for steel precision polygons",
+        "rank": 6,
+        "similarity": 0.1833
+      },
+      {
+        "standard_id": "IS_7778_PART_3_2003",
+        "standard_number": "IS 7778 (Part 3):2003",
+        "title": "Small tools sampling inspection procedures: Part 3 Sleeves, sockets and adaptors  (first revision)",
+        "rank": 7,
+        "similarity": 0.183
+      },
+      {
+        "standard_id": "IS_16637_PART_4_2018",
+        "standard_number": "IS 16637 (Part 4):2018",
+        "title": "Tool holders with rectangular shank for indexable inserts: Part 4 Style D",
+        "rank": 8,
+        "similarity": 0.1824
+      },
+      {
+        "standard_id": "IS_7778_PART_10_2003",
+        "standard_number": "IS 7778 (Part 10):2003",
+        "title": "Small tools sampling inspection procedures: Part 10 Carbide tips and indexable inserts  (first revision)",
+        "rank": 9,
+        "similarity": 0.1822
+      },
+      {
+        "standard_id": "IS_7778_PART_2_2003",
+        "standard_number": "IS 7778 (Part 2):2003",
+        "title": "Small tools sampling inspection procedures: Part 2 Reamers  (first revision)",
+        "rank": 10,
+        "similarity": 0.182
+      },
+      {
+        "standard_id": "IS_7778_PART_5_2003",
+        "standard_number": "IS 7778 (Part 5):2003",
+        "title": "Small tools sampling inspection procedures: Part 5 Milling cutters  (first revision)",
+        "rank": 11,
+        "similarity": 0.1819
+      },
+      {
+        "standard_id": "IS_17206_2019",
+        "standard_number": "IS 17206:2019",
+        "title": "Coated Abrasives — Vulcanized Fibre Discs",
+        "rank": 12,
+        "similarity": 0.1811
+      },
+      {
+        "standard_id": "IS_3823_2014",
+        "standard_number": "IS 3823:2014",
+        "title": "Rolling bearings -- Static load ratings (Third Revision)",
+        "rank": 13,
+        "similarity": 0.1808
+      },
+      {
+        "standard_id": "IS_4960_1968",
+        "standard_number": "IS 4960:1968",
+        "title": "Specification for universal and elongated type V - Blocks",
+        "rank": 14,
+        "similarity": 0.1807
+      },
+      {
+        "standard_id": "IS_7778_PART_6_2003",
+        "standard_number": "IS 7778 (Part 6):2003",
+        "title": "Small tools sampling inspection procedures: Part 6 Milling arbors and accessories  (first revision)",
+        "rank": 15,
+        "similarity": 0.1803
+      },
+      {
+        "standard_id": "IS_7778_PART_1_2003",
+        "standard_number": "IS 7778 (Part 1):2003",
+        "title": "Small tools sampling inspection procedures: Part 1 Twist drills, countersink and counterbores  (first revision)",
+        "rank": 16,
+        "similarity": 0.1797
+      },
+      {
+        "standard_id": "IS_7778_PART_4_2003",
+        "standard_number": "IS 7778 (Part 4):2003",
+        "title": "Small tools sampling inspection procedures: Part 4 Screwing taps, dies and knurling tools  (first revision)",
+        "rank": 17,
+        "similarity": 0.1783
+      },
+      {
+        "standard_id": "IS_16561_PART_6_2022",
+        "standard_number": "IS 16561 (Part 6):2022",
+        "title": "ERGONOMIC DESIGN OF CONTROL CENTRES — PART 6: ENVIRONMENTAL REQUIREMENTS FOR CONTROL ROOMS",
+        "rank": 18,
+        "similarity": 0.1776
+      },
+      {
+        "standard_id": "IS_7778_PART_9_2003",
+        "standard_number": "IS 7778 (Part 9):2003",
+        "title": "Small tools sampling inspection procedures: Part 9 Single point (HSS And Carbide Tipped) tools  (first revision)",
+        "rank": 19,
+        "similarity": 0.1775
+      },
+      {
+        "standard_id": "IS_7778_PART_7_2003",
+        "standard_number": "IS 7778 (Part 7):2003",
+        "title": "Small tools sampling inspection procedures: Part 7 Gear cutting tools and broaches  (first revision)",
+        "rank": 20,
+        "similarity": 0.1766
+      },
+      {
+        "standard_id": "IS_18629_2024",
+        "standard_number": "IS 18629:2024",
+        "title": "Air Quality -- Meteorology --Siting Classifications for Surface Observing Stations on Land",
+        "rank": 21,
+        "similarity": 0.1737
+      },
+      {
+        "standard_id": "IS_1928_1961",
+        "standard_number": "IS 1928:1961",
+        "title": "Specification for boiler rivets (12 To 48 Mm Diameter)",
+        "rank": 22,
+        "similarity": 0.1651
+      },
+      {
+        "standard_id": "IS_15635_PART_3_2006",
+        "standard_number": "IS 15635 (Part 3):2006",
+        "title": "Geometrical product specifications (GPS) - Acceptance and reverification tests for coordinate measuring machines (CMM): Part 3 CMMs with the axis of a rotary table as the fourth axis",
+        "rank": 23,
+        "similarity": 0.1595
+      },
+      {
+        "standard_id": "IS_13934_2018",
+        "standard_number": "IS 13934:2018",
+        "title": "Test conditions for surface grinding machines with two columns - Machines for grinding slideways - Testing of the accuracy  (First Revision)",
+        "rank": 24,
+        "similarity": 0.1525
+      },
+      {
+        "standard_id": "IS_3090_2026",
+        "standard_number": "IS 3090:2026",
+        "title": "Installation and Maintenance of Rolling Bearings — Code of Practice (First Revision)",
+        "rank": 25,
+        "similarity": 0.1501
+      },
+      {
+        "standard_id": "IS_16561_PART_1_2017",
+        "standard_number": "IS 16561 (Part 1):2017",
+        "title": "Ergonomic design of control centres: Part 1 principles for the design of control centres",
+        "rank": 26,
+        "similarity": 0.1466
+      },
+      {
+        "standard_id": "IS_17219_PART_4_2023",
+        "standard_number": "IS 17219 (Part 4):2023",
+        "title": "Tools for Pressing  Gas Springs Part 4 Gas Springs with Increased Spring  Force and Same Built Height",
+        "rank": 27,
+        "similarity": 0.144
+      },
+      {
+        "standard_id": "IS_19119_2025",
+        "standard_number": "IS 19119:2025",
+        "title": "Tools for pressing  Spring plungers with helicoidal compression steel spring or gas spring",
+        "rank": 28,
+        "similarity": 0.1421
+      },
+      {
+        "standard_id": "IS_5348_2026",
+        "standard_number": "IS 5348:2026",
+        "title": "Stationery Staples — Specifications (Second Revision)",
+        "rank": 29,
+        "similarity": 0.1412
+      },
+      {
+        "standard_id": "IS_16561_PART_5_2018",
+        "standard_number": "IS 16561 (Part 5):2018",
+        "title": "Ergonomic design of control centres: Part 5 displays and controls",
+        "rank": 30,
+        "similarity": 0.1404
+      }
+    ]
+  },
+  "fusion": {
+    "method": "Reciprocal Rank Fusion (RRF)",
+    "union_count": 56,
+    "candidate_count": 56,
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "bm25_rank": 1,
+        "dense_rank": 1,
+        "fusion_rank": 1,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "bm25_rank": 2,
+        "dense_rank": null,
+        "fusion_rank": 2,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11325_1985",
+        "standard_number": "IS 11325:1985",
+        "title": "Specification for adjustable clamp support",
+        "bm25_rank": 3,
+        "dense_rank": null,
+        "fusion_rank": 3,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_12850_1987",
+        "standard_number": "IS 12850:1987",
+        "title": "Modular units for machine tool construction - Support brackets",
+        "bm25_rank": 4,
+        "dense_rank": null,
+        "fusion_rank": 4,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_1_2020",
+        "standard_number": "IS/ISO 13041 (Part 1):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres  Part 1 : Geometric tests for machines with horizontal work holding  spindles",
+        "bm25_rank": 5,
+        "dense_rank": null,
+        "fusion_rank": 5,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_2_2020",
+        "standard_number": "IS/ISO 13041 (Part 2):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres Part 2 : Geometric tests for machines with a vertical work holding spindle",
+        "bm25_rank": 6,
+        "dense_rank": null,
+        "fusion_rank": 6,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17192_PART_4_2023",
+        "standard_number": "IS 17192 (Part 4):2023",
+        "title": "Robotics  Performance criteria and related test methods for service robots  Part 4: Lower-back support robots",
+        "bm25_rank": 7,
+        "dense_rank": null,
+        "fusion_rank": 7,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_17102_2019",
+        "standard_number": "IS 17102:2019",
+        "title": "Ergonomics - Danger signals for public and work areas - Auditory danger signals",
+        "bm25_rank": 8,
+        "dense_rank": null,
+        "fusion_rank": 8,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16561_PART_5_2018",
+        "standard_number": "IS 16561 (Part 5):2018",
+        "title": "Ergonomic design of control centres: Part 5 displays and controls",
+        "bm25_rank": 9,
+        "dense_rank": 30,
+        "fusion_rank": 9,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15836_PART_3_2025",
+        "standard_number": "IS 15836 (Part 3):2025",
+        "title": "Ergonomic Design for the Safety of Machinery : Part 3 Anthropometric Data ( First Revision )",
+        "bm25_rank": 10,
+        "dense_rank": null,
+        "fusion_rank": 10,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16561_PART_6_2022",
+        "standard_number": "IS 16561 (Part 6):2022",
+        "title": "ERGONOMIC DESIGN OF CONTROL CENTRES — PART 6: ENVIRONMENTAL REQUIREMENTS FOR CONTROL ROOMS",
+        "bm25_rank": 11,
+        "dense_rank": 18,
+        "fusion_rank": 11,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16561_PART_4_2017",
+        "standard_number": "IS 16561 (Part 4):2017",
+        "title": "Ergonomic design of control centres: Part 4 layout and dimensions of workstations",
+        "bm25_rank": 12,
+        "dense_rank": null,
+        "fusion_rank": 12,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_18257_PART_5_2024",
+        "standard_number": "IS 18257 (Part 5):2024",
+        "title": "Technical product documentation -- Indication of dimensions and tolerances: Part 5 Dimensioning of structural metal work",
+        "bm25_rank": 13,
+        "dense_rank": null,
+        "fusion_rank": 13,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2582_PART_4_2016",
+        "standard_number": "IS 2582 (Part 4):2016",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 4 cylindrical connection",
+        "bm25_rank": 14,
+        "dense_rank": null,
+        "fusion_rank": 14,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_18263_PART_1_2023",
+        "standard_number": "IS 18263 (Part 1):2023",
+        "title": "Ergonomic principles related to mental workload  Part 1: General issues and concepts terms and definitions",
+        "bm25_rank": 15,
+        "dense_rank": null,
+        "fusion_rank": 15,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16561_PART_1_2017",
+        "standard_number": "IS 16561 (Part 1):2017",
+        "title": "Ergonomic design of control centres: Part 1 principles for the design of control centres",
+        "bm25_rank": 16,
+        "dense_rank": 26,
+        "fusion_rank": 16,
+        "retrieved_by": [
+          "bm25",
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_2582_PART_3_2023",
+        "standard_number": "IS 2582 (Part 3):2023",
+        "title": "Machine tools  Connecting dimensions of spindle noses and work holding chucks  Part 3 : Bayonet type",
+        "bm25_rank": 17,
+        "dense_rank": null,
+        "fusion_rank": 17,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2582_PART_2_2016",
+        "standard_number": "IS 2582 (Part 2):2016",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 2 camlock type (Third Revision)",
+        "bm25_rank": 18,
+        "dense_rank": null,
+        "fusion_rank": 18,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_2582_PART_1_2015",
+        "standard_number": "IS 2582 (Part 1):2015",
+        "title": "Machine tools - Connecting dimensions of spindle noses and work holding chucks: Part 1 conical connection (Third Revision)",
+        "bm25_rank": 19,
+        "dense_rank": null,
+        "fusion_rank": 19,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16561_PART_2_2017",
+        "standard_number": "IS 16561 (Part 2):2017",
+        "title": "Ergonomic design of control centres  Part 2 Principles for the Arrangement of Control Suites",
+        "bm25_rank": 20,
+        "dense_rank": null,
+        "fusion_rank": 20,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15250_PART_5_2018",
+        "standard_number": "IS 15250 (Part 5):2018",
+        "title": "Test conditions for machining centres: Part 5 accuracy and repeatability of positioning of work - Holding pallets",
+        "bm25_rank": 21,
+        "dense_rank": null,
+        "fusion_rank": 21,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15836_PART_2_2008",
+        "standard_number": "IS 15836 (Part 2):2008",
+        "title": "Ergonomic design for the safety of machinery: Part 2 principles for determining the dimensions required for access openings",
+        "bm25_rank": 22,
+        "dense_rank": null,
+        "fusion_rank": 22,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_16595_PART_20_2024",
+        "standard_number": "IS 16595 (Part 20):2024",
+        "title": "Ergonomics of Human  System Interaction Part 20 An ergonomic approach to accessibility  within the ISO 9241 series",
+        "bm25_rank": 23,
+        "dense_rank": null,
+        "fusion_rank": 23,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_18263_PART_3_2023",
+        "standard_number": "IS 18263 (Part 3):2023",
+        "title": "Ergonomic principles related to mental workload  Part 3: Principles and requirements concerning methods for measuring and assessing mental workload",
+        "bm25_rank": 24,
+        "dense_rank": null,
+        "fusion_rank": 24,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15836_PART_1_2008",
+        "standard_number": "IS 15836 (Part 1):2008",
+        "title": "Ergonomic design for the safety of machinery: Part 1 principles for determining the dimensions required for openings for whole - Body access into machinery",
+        "bm25_rank": 25,
+        "dense_rank": null,
+        "fusion_rank": 25,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_1786_2008",
+        "standard_number": "IS 1786: 2008",
+        "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification",
+        "bm25_rank": 26,
+        "dense_rank": null,
+        "fusion_rank": 26,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15144_2002",
+        "standard_number": "IS 15144:2002",
+        "title": "Indexable hardmetal (Carbide) inserts with rounded corners with partly cylindrical fixing hole -- Dimensions of inserts with 7° normal clearance for light alloy and plastic components turning",
+        "bm25_rank": 27,
+        "dense_rank": null,
+        "fusion_rank": 27,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_14532_1998",
+        "standard_number": "IS 14532:1998",
+        "title": "Reduction sleeves with tenon drive with external and internal 7/24 taper -- Dimensions",
+        "bm25_rank": 28,
+        "dense_rank": null,
+        "fusion_rank": 28,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_11677_2004",
+        "standard_number": "IS 11677:2004",
+        "title": "Indexable hardmetal (carbide) inserts with rounded corners, with cylindrical fixing hole -- Dimensions  (first revision)",
+        "bm25_rank": 29,
+        "dense_rank": null,
+        "fusion_rank": 29,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_15577_PART_2_2005",
+        "standard_number": "IS 15577 (Part 2):2005",
+        "title": "Connections for general use and fluid power - Ports and stud ends with ISO 261 threads with elastomeric or Metal - to - Metal sealing: Part 2 stud ends with elastomeric sealing (Type E)",
+        "bm25_rank": 30,
+        "dense_rank": null,
+        "fusion_rank": 30,
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "standard_id": "IS_10722_PART_4_1985",
+        "standard_number": "IS 10722 (Part 4):1985",
+        "title": "Graphical symbols for elements of kinematic diagrams: Part 4",
+        "bm25_rank": null,
+        "dense_rank": 2,
+        "fusion_rank": 31,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_8_2003",
+        "standard_number": "IS 7778 (Part 8):2003",
+        "title": "Small tools sampling inspection procedures: Part 8 Saws  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 3,
+        "fusion_rank": 32,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3529_1966",
+        "standard_number": "IS 3529:1966",
+        "title": "Specification for eyelet pliers",
+        "bm25_rank": null,
+        "dense_rank": 4,
+        "fusion_rank": 33,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_11_2003",
+        "standard_number": "IS 7778 (Part 11):2003",
+        "title": "Small tools sampling inspection procedures: Part 11 Hard metal burrs  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 5,
+        "fusion_rank": 34,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_6987_1973",
+        "standard_number": "IS 6987:1973",
+        "title": "Specification for steel precision polygons",
+        "bm25_rank": null,
+        "dense_rank": 6,
+        "fusion_rank": 35,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_3_2003",
+        "standard_number": "IS 7778 (Part 3):2003",
+        "title": "Small tools sampling inspection procedures: Part 3 Sleeves, sockets and adaptors  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 7,
+        "fusion_rank": 36,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_16637_PART_4_2018",
+        "standard_number": "IS 16637 (Part 4):2018",
+        "title": "Tool holders with rectangular shank for indexable inserts: Part 4 Style D",
+        "bm25_rank": null,
+        "dense_rank": 8,
+        "fusion_rank": 37,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_10_2003",
+        "standard_number": "IS 7778 (Part 10):2003",
+        "title": "Small tools sampling inspection procedures: Part 10 Carbide tips and indexable inserts  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 9,
+        "fusion_rank": 38,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_2_2003",
+        "standard_number": "IS 7778 (Part 2):2003",
+        "title": "Small tools sampling inspection procedures: Part 2 Reamers  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 10,
+        "fusion_rank": 39,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_5_2003",
+        "standard_number": "IS 7778 (Part 5):2003",
+        "title": "Small tools sampling inspection procedures: Part 5 Milling cutters  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 11,
+        "fusion_rank": 40,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17206_2019",
+        "standard_number": "IS 17206:2019",
+        "title": "Coated Abrasives — Vulcanized Fibre Discs",
+        "bm25_rank": null,
+        "dense_rank": 12,
+        "fusion_rank": 41,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3823_2014",
+        "standard_number": "IS 3823:2014",
+        "title": "Rolling bearings -- Static load ratings (Third Revision)",
+        "bm25_rank": null,
+        "dense_rank": 13,
+        "fusion_rank": 42,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_4960_1968",
+        "standard_number": "IS 4960:1968",
+        "title": "Specification for universal and elongated type V - Blocks",
+        "bm25_rank": null,
+        "dense_rank": 14,
+        "fusion_rank": 43,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_6_2003",
+        "standard_number": "IS 7778 (Part 6):2003",
+        "title": "Small tools sampling inspection procedures: Part 6 Milling arbors and accessories  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 15,
+        "fusion_rank": 44,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_1_2003",
+        "standard_number": "IS 7778 (Part 1):2003",
+        "title": "Small tools sampling inspection procedures: Part 1 Twist drills, countersink and counterbores  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 16,
+        "fusion_rank": 45,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_4_2003",
+        "standard_number": "IS 7778 (Part 4):2003",
+        "title": "Small tools sampling inspection procedures: Part 4 Screwing taps, dies and knurling tools  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 17,
+        "fusion_rank": 46,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_9_2003",
+        "standard_number": "IS 7778 (Part 9):2003",
+        "title": "Small tools sampling inspection procedures: Part 9 Single point (HSS And Carbide Tipped) tools  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 19,
+        "fusion_rank": 47,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_7778_PART_7_2003",
+        "standard_number": "IS 7778 (Part 7):2003",
+        "title": "Small tools sampling inspection procedures: Part 7 Gear cutting tools and broaches  (first revision)",
+        "bm25_rank": null,
+        "dense_rank": 20,
+        "fusion_rank": 48,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_18629_2024",
+        "standard_number": "IS 18629:2024",
+        "title": "Air Quality -- Meteorology --Siting Classifications for Surface Observing Stations on Land",
+        "bm25_rank": null,
+        "dense_rank": 21,
+        "fusion_rank": 49,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_1928_1961",
+        "standard_number": "IS 1928:1961",
+        "title": "Specification for boiler rivets (12 To 48 Mm Diameter)",
+        "bm25_rank": null,
+        "dense_rank": 22,
+        "fusion_rank": 50,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_15635_PART_3_2006",
+        "standard_number": "IS 15635 (Part 3):2006",
+        "title": "Geometrical product specifications (GPS) - Acceptance and reverification tests for coordinate measuring machines (CMM): Part 3 CMMs with the axis of a rotary table as the fourth axis",
+        "bm25_rank": null,
+        "dense_rank": 23,
+        "fusion_rank": 51,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_13934_2018",
+        "standard_number": "IS 13934:2018",
+        "title": "Test conditions for surface grinding machines with two columns - Machines for grinding slideways - Testing of the accuracy  (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 24,
+        "fusion_rank": 52,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_3090_2026",
+        "standard_number": "IS 3090:2026",
+        "title": "Installation and Maintenance of Rolling Bearings — Code of Practice (First Revision)",
+        "bm25_rank": null,
+        "dense_rank": 25,
+        "fusion_rank": 53,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_17219_PART_4_2023",
+        "standard_number": "IS 17219 (Part 4):2023",
+        "title": "Tools for Pressing  Gas Springs Part 4 Gas Springs with Increased Spring  Force and Same Built Height",
+        "bm25_rank": null,
+        "dense_rank": 27,
+        "fusion_rank": 54,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_19119_2025",
+        "standard_number": "IS 19119:2025",
+        "title": "Tools for pressing  Spring plungers with helicoidal compression steel spring or gas spring",
+        "bm25_rank": null,
+        "dense_rank": 28,
+        "fusion_rank": 55,
+        "retrieved_by": [
+          "dense"
+        ]
+      },
+      {
+        "standard_id": "IS_5348_2026",
+        "standard_number": "IS 5348:2026",
+        "title": "Stationery Staples — Specifications (Second Revision)",
+        "bm25_rank": null,
+        "dense_rank": 29,
+        "fusion_rank": 56,
+        "retrieved_by": [
+          "dense"
+        ]
+      }
+    ]
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "mode": "BASE",
+    "fine_tuned": false,
+    "candidate_count": 10,
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "pre_rerank_rank": 1,
+        "reranker_rank": 1,
+        "reranker_score": 0.6538,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_16561_PART_6_2022",
+        "standard_number": "IS 16561 (Part 6):2022",
+        "title": "ERGONOMIC DESIGN OF CONTROL CENTRES — PART 6: ENVIRONMENTAL REQUIREMENTS FOR CONTROL ROOMS",
+        "pre_rerank_rank": 11,
+        "reranker_rank": 2,
+        "reranker_score": 0.2857,
+        "rank_change": 9
+      },
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "pre_rerank_rank": 2,
+        "reranker_rank": 3,
+        "reranker_score": 0.2829,
+        "rank_change": -1
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_1_2020",
+        "standard_number": "IS/ISO 13041 (Part 1):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres  Part 1 : Geometric tests for machines with horizontal work holding  spindles",
+        "pre_rerank_rank": 5,
+        "reranker_rank": 4,
+        "reranker_score": 0.2798,
+        "rank_change": 1
+      },
+      {
+        "standard_id": "IS_11325_1985",
+        "standard_number": "IS 11325:1985",
+        "title": "Specification for adjustable clamp support",
+        "pre_rerank_rank": 3,
+        "reranker_rank": 5,
+        "reranker_score": 0.2796,
+        "rank_change": -2
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_2_2020",
+        "standard_number": "IS/ISO 13041 (Part 2):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres Part 2 : Geometric tests for machines with a vertical work holding spindle",
+        "pre_rerank_rank": 6,
+        "reranker_rank": 6,
+        "reranker_score": 0.2778,
+        "rank_change": 0
+      },
+      {
+        "standard_id": "IS_12850_1987",
+        "standard_number": "IS 12850:1987",
+        "title": "Modular units for machine tool construction - Support brackets",
+        "pre_rerank_rank": 4,
+        "reranker_rank": 7,
+        "reranker_score": 0.2734,
+        "rank_change": -3
+      },
+      {
+        "standard_id": "IS_16561_PART_5_2018",
+        "standard_number": "IS 16561 (Part 5):2018",
+        "title": "Ergonomic design of control centres: Part 5 displays and controls",
+        "pre_rerank_rank": 9,
+        "reranker_rank": 8,
+        "reranker_score": 0.2728,
+        "rank_change": 1
+      },
+      {
+        "standard_id": "IS_16561_PART_1_2017",
+        "standard_number": "IS 16561 (Part 1):2017",
+        "title": "Ergonomic design of control centres: Part 1 principles for the design of control centres",
+        "pre_rerank_rank": 16,
+        "reranker_rank": 9,
+        "reranker_score": 0.2681,
+        "rank_change": 7
+      },
+      {
+        "standard_id": "IS_17102_2019",
+        "standard_number": "IS 17102:2019",
+        "title": "Ergonomics - Danger signals for public and work areas - Auditory danger signals",
+        "pre_rerank_rank": 8,
+        "reranker_rank": 10,
+        "reranker_score": 0.2577,
+        "rank_change": -2
+      }
+    ]
+  },
+  "applicability": {
+    "score_version": "applicability_v1",
+    "results": [
+      {
+        "standard_id": "IS_17631_2022",
+        "standard_number": "IS 17631: 2022",
+        "title": "Work Chairs - Performance, Safety and Test Requirements",
+        "semantic_similarity": 46.4,
+        "lexical_relevance": 100.0,
+        "product_match": 85.0,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 66.8,
+        "calibrated_score": 66.8,
+        "match_tier": "REVIEW_REQUIRED"
+      },
+      {
+        "standard_id": "IS_16561_PART_6_2022",
+        "standard_number": "IS 16561 (Part 6):2022",
+        "title": "ERGONOMIC DESIGN OF CONTROL CENTRES — PART 6: ENVIRONMENTAL REQUIREMENTS FOR CONTROL ROOMS",
+        "semantic_similarity": 23.2,
+        "lexical_relevance": 40.2,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 31.3,
+        "calibrated_score": 31.3,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16934_2018",
+        "standard_number": "IS 16934:2018",
+        "title": "Tools for Moulding - Support Pillars",
+        "semantic_similarity": 14.1,
+        "lexical_relevance": 57.8,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.8,
+        "calibrated_score": 30.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_1_2020",
+        "standard_number": "IS/ISO 13041 (Part 1):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres  Part 1 : Geometric tests for machines with horizontal work holding  spindles",
+        "semantic_similarity": 14.0,
+        "lexical_relevance": 50.2,
+        "product_match": 55.7,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.8,
+        "calibrated_score": 30.8,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_ISO_13041_PART_2_2020",
+        "standard_number": "IS/ISO 13041 (Part 2):2020",
+        "title": "Test conditions for numerically controlled turning machines and turning centres Part 2 : Geometric tests for machines with a vertical work holding spindle",
+        "semantic_similarity": 13.9,
+        "lexical_relevance": 49.8,
+        "product_match": 55.7,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.7,
+        "calibrated_score": 30.7,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_11325_1985",
+        "standard_number": "IS 11325:1985",
+        "title": "Specification for adjustable clamp support",
+        "semantic_similarity": 14.0,
+        "lexical_relevance": 57.1,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.6,
+        "calibrated_score": 30.6,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16561_PART_5_2018",
+        "standard_number": "IS 16561 (Part 5):2018",
+        "title": "Ergonomic design of control centres: Part 5 displays and controls",
+        "semantic_similarity": 20.7,
+        "lexical_relevance": 41.1,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.6,
+        "calibrated_score": 30.6,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_12850_1987",
+        "standard_number": "IS 12850:1987",
+        "title": "Modular units for machine tool construction - Support brackets",
+        "semantic_similarity": 13.7,
+        "lexical_relevance": 55.6,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.3,
+        "calibrated_score": 30.3,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_16561_PART_1_2017",
+        "standard_number": "IS 16561 (Part 1):2017",
+        "title": "Ergonomic design of control centres: Part 1 principles for the design of control centres",
+        "semantic_similarity": 20.7,
+        "lexical_relevance": 39.3,
+        "product_match": 47.9,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 30.3,
+        "calibrated_score": 30.3,
+        "match_tier": "ABSTAIN"
+      },
+      {
+        "standard_id": "IS_17102_2019",
+        "standard_number": "IS 17102:2019",
+        "title": "Ergonomics - Danger signals for public and work areas - Auditory danger signals",
+        "semantic_similarity": 12.9,
+        "lexical_relevance": 45.2,
+        "product_match": 55.7,
+        "application_match": 0.0,
+        "domain_match": 0.0,
+        "scope_match": 0.0,
+        "attribute_match": 0.0,
+        "evidence_quality": 50.0,
+        "version_validity": 100.0,
+        "raw_score": 29.6,
+        "calibrated_score": 29.6,
+        "match_tier": "ABSTAIN"
+      }
+    ]
+  },
+  "decision": {
+    "decision_state": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "match_level": "POSSIBLE_MATCH_REVIEW_REQUIRED",
+    "is_abstained": false,
+    "abstention_reason": null,
+    "top_score": 66.8,
+    "second_best_score": 31.3,
+    "score_margin": 35.5,
+    "exact_standard_match": false,
+    "primary_suspected_failure_stage": "NO_FAILURE_OBSERVED",
+    "diagnostic_flags": []
+  },
+  "timing": {
+    "extraction_ms": 0.6,
+    "bm25_ms": 16.83,
+    "dense_ms": 25.24,
+    "fusion_ms": 4.21,
+    "reranker_ms": 1.01,
+    "applicability_ms": 1.17,
+    "decision_ms": 0.05,
+    "total_ms": 60.37
+  }
+}
