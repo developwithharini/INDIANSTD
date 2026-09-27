@@ -131,15 +131,16 @@ export const AppShell: React.FC<AppShellProps> = ({
             <div className="flex items-center justify-between text-slate-600 font-mono text-[11px]">
               <span className="flex items-center gap-1.5">
                 <span className="w-2 h-2 rounded-full bg-emerald-500"></span>
-                BIS Snapshot
+                BIS Published Dataset
               </span>
-              <span className="text-slate-400">v2.4</span>
+              <span className="text-emerald-700 font-bold">2,654 Loaded</span>
             </div>
             <div className="text-[11px] text-slate-500 font-mono">
-              18 Verified Standards • 3 QCOs Active
+              2,654 BIS Standards • 3 QCOs Active
             </div>
           </div>
         </aside>
+
 
         {/* Mobile Nav Bar */}
         <div className="md:hidden fixed bottom-0 left-0 right-0 bg-white border-t border-slate-200 z-40 flex justify-around p-2">

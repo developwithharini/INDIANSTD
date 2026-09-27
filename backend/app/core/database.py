@@ -1,27 +1,19 @@
-import logging
+import os
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker, declarative_base
+from sqlalchemy.orm import declarative_base, sessionmaker
 from app.core.config import settings
 
-logger = logging.getLogger("manak.database")
+# Ensure data directory exists
+os.makedirs(settings.DATA_DIR, exist_ok=True)
+os.makedirs(settings.INDEX_DIR, exist_ok=True)
+os.makedirs(settings.RAW_DATA_DIR, exist_ok=True)
 
-def get_engine():
-    try:
-        engine = create_engine(settings.DATABASE_URL, pool_pre_ping=True, echo=False)
-        # Test connection
-        with engine.connect() as conn:
-            pass
-        logger.info("Connected to PostgreSQL database.")
-        return engine
-    except Exception as e:
-        logger.warning(f"PostgreSQL connection failed ({e}). Falling back to local SQLite database.")
-        return create_engine(
-            "sqlite:///./manak.db",
-            connect_args={"check_same_thread": False},
-            echo=False
-        )
+# SQLite engine setup
+engine = create_engine(
+    settings.DATABASE_URL,
+    connect_args={"check_same_thread": False} if "sqlite" in settings.DATABASE_URL else {}
+)
 
-engine = get_engine()
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
 
@@ -31,4 +23,3 @@ def get_db():
         yield db
     finally:
         db.close()
-

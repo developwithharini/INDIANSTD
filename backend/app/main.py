@@ -1,45 +1,41 @@
-import logging
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
 from app.core.config import settings
-from app.core.database import Base, engine
-from app.api.v1 import procurements, standards, regulations, watchlists, admin, health
+from app.core.database import Base, engine, SessionLocal
+from app.api.v1 import health, analyze, standards, search
+from seed import seed_baseline_data
 
-logging.basicConfig(level=settings.LOG_LEVEL)
-logger = logging.getLogger("manak.main")
-
-# Initialize DB tables automatically on startup
+# Create database tables automatically on startup
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title=settings.PROJECT_NAME,
+    description="Indian Standards Recommendation Engine — Automated Standards Mapping & Applicability Engine",
     version=settings.VERSION,
-    description="Standards Intelligence & Procurement Workspace API",
-    openapi_url=f"{settings.API_V1_STR}/openapi.json"
+    docs_url="/docs",
+    redoc_url="/redoc"
 )
 
-# Configure CORS
+# CORS Configuration
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 # Include API Routers
 app.include_router(health.router, prefix=settings.API_V1_STR, tags=["Health"])
-app.include_router(procurements.router, prefix=f"{settings.API_V1_STR}/procurements", tags=["Procurements"])
-app.include_router(standards.router, prefix=f"{settings.API_V1_STR}/standards", tags=["Standards"])
-app.include_router(regulations.router, prefix=f"{settings.API_V1_STR}/regulations", tags=["Regulations"])
-app.include_router(watchlists.router, prefix=f"{settings.API_V1_STR}/watchlists", tags=["Watchlists"])
-app.include_router(admin.router, prefix=f"{settings.API_V1_STR}/admin", tags=["Admin"])
+app.include_router(health.router, tags=["Health Metrics"])
+app.include_router(analyze.router, prefix=settings.API_V1_STR, tags=["Analyze"])
+app.include_router(standards.router, prefix=settings.API_V1_STR, tags=["Standards"])
+app.include_router(search.router, prefix=settings.API_V1_STR, tags=["Search"])
 
-@app.get("/")
-def root():
-    return {
-        "message": "Welcome to MANAK / ISCOPE Standards Intelligence API",
-        "docs": "/docs",
-        "health": f"{settings.API_V1_STR}/health"
-    }
+@app.on_event("startup")
+def on_startup():
+    db = SessionLocal()
+    try:
+        seed_baseline_data(db)
+    finally:
+        db.close()

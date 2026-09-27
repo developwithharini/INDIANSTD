@@ -1,34 +1,41 @@
 import os
-from pydantic_settings import BaseSettings, SettingsConfigDict
+from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "MANAK / ISCOPE Procurement Workspace"
+    PROJECT_NAME: str = "MANAK"
+    SUBTITLE: str = "Indian Standards Recommendation Engine"
     VERSION: str = "1.0.0"
     API_V1_STR: str = "/api/v1"
-    
-    SECRET_KEY: str = "manak_procurement_secret_key_change_in_prod_2026"
-    ENVIRONMENT: str = "development"
-    LOG_LEVEL: str = "INFO"
-    
-    # Database
-    DATABASE_URL: str = "postgresql://postgres:postgres@localhost:5432/manak_db"
-    
-    # Neo4j
-    NEO4J_URI: str = "bolt://localhost:7687"
-    NEO4J_USER: str = "neo4j"
-    NEO4J_PASSWORD: str = "manak_password_2026"
-    
-    # Redis
-    REDIS_URL: str = "redis://localhost:6379/0"
-    
-    # AI Settings
-    GEMINI_API_KEY: str = ""
-    DEFAULT_AI_MODEL: str = "gemini-2.0-flash"
-    
-    model_config = SettingsConfigDict(
-        env_file=".env",
-        env_file_encoding="utf-8",
-        extra="ignore"
-    )
+
+    # Absolute Database & Directory paths
+    BASE_DIR: str = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    DATA_DIR: str = os.path.join(BASE_DIR, "data")
+    INDEX_DIR: str = os.path.join(DATA_DIR, "index")
+    RAW_DATA_DIR: str = os.path.join(DATA_DIR, "raw")
+
+    # SQLite Database URL (absolute path to single source of truth)
+    DATABASE_URL: str = os.getenv("DATABASE_URL", f"sqlite:///{os.path.join(DATA_DIR, 'manak.db')}")
+
+    # Gemini API Settings
+    GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
+    GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
+
+    # Retrieval Models
+    EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "BAAI/bge-m3")
+    RERANKER_MODEL: str = os.getenv("RERANKER_MODEL", "BAAI/bge-reranker-v2-m3")
+
+    # Corpus metadata
+    DATASET_VERSION: str = os.getenv("DATASET_VERSION", "2026-09-27-PGD")
+    SCORE_VERSION: str = "applicability_v1"
+
+    # Directory paths
+    BASE_DIR: str = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    DATA_DIR: str = os.path.join(BASE_DIR, "data")
+    INDEX_DIR: str = os.path.join(DATA_DIR, "index")
+    RAW_DATA_DIR: str = os.path.join(DATA_DIR, "raw")
+
+    class Config:
+        env_file = ".env"
+        extra = "ignore"
 
 settings = Settings()
